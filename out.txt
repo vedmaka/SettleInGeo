@@ -1,0 +1,6172 @@
+Afghanistan (AF)
+	- Zbul | Province
+	- Kps | Province
+	- Khst | Province
+	- Kunar | Province
+	- Badakhshn | Province
+	- Kunduz | Province
+	- Bdghs | Province
+	- Laghmn | Province
+	- Baghln | Province
+	- Lgar | Province
+	- Balkh | Province
+	- Nangarhr | Province
+	- Bmyn | Province
+	- Nmrz | Province
+	- Dykund | Province
+	- Nristn | Province
+	- Farh | Province
+	- Uruzgn | Province
+	- Fryb | Province
+	- Paktiy | Province
+	- Ghazn | Province
+	- Paktk | Province
+	- Ghr | Province
+	- Panjshayr | Province
+	- Helmand | Province
+	- Parwn | Province
+	- Hert | Province
+	- Samangn | Province
+	- Jowzjn | Province
+	- Sar-e Pul | Province
+	- Kbul | Province
+	- Takhr | Province
+	- Kandahr | Province
+	- Wardak | Province
+land Islands (AX)
+Albania (AL)
+	- Has | District
+		- parent: Kuks | County
+	- Tropoj | District
+		- parent: Kuks | County
+	- Shkodr | County
+	- Mallakastr | District
+		- parent: Fier | County
+	- Tiran | County
+	- Kavaj | District
+		- parent: Tiran | County
+	- Vlor | District
+		- parent: Vlor | County
+	- Mat | District
+		- parent: Dibr | County
+	- Vlor | County
+	- Kolonj | District
+		- parent: Kor | County
+	- Berat | District
+		- parent: Berat | County
+	- Mirdit | District
+		- parent: Lezh | County
+	- Kor | District
+		- parent: Kor | County
+	- Bulqiz | District
+		- parent: Dibr | County
+	- Peqin | District
+		- parent: Elbasan | County
+	- Kruj | District
+		- parent: Durrs | County
+	- Delvin | District
+		- parent: Vlor | County
+	- Prmet | District
+		- parent: Gjirokastr | County
+	- Kuov | District
+		- parent: Berat | County
+	- Devoll | District
+		- parent: Kor | County
+	- Pogradec | District
+		- parent: Kor | County
+	- Berat | County
+	- Kuks | District
+		- parent: Kuks | County
+	- Dibr | District
+		- parent: Dibr | County
+	- Puk | District
+		- parent: Shkodr | County
+	- Dibr | County
+	- Kurbin | District
+		- parent: Lezh | County
+	- Durrs | District
+		- parent: Durrs | County
+	- Sarand | District
+		- parent: Vlor | County
+	- Durrs | County
+	- Elbasan | County
+	- Lezh | District
+		- parent: Lezh | County
+	- Elbasan | District
+		- parent: Elbasan | County
+	- Skrapar | District
+		- parent: Berat | County
+	- Fier | County
+	- Librazhd | District
+		- parent: Elbasan | County
+	- Fier | District
+		- parent: Fier | County
+	- Shkodr | District
+		- parent: Shkodr | County
+	- Gjirokastr | County
+	- Kor | County
+	- Lushnj | District
+		- parent: Fier | County
+	- Gramsh | District
+		- parent: Elbasan | County
+	- Tepelen | District
+		- parent: Gjirokastr | County
+	- Kuks | County
+	- Malsi e Madhe | District
+		- parent: Shkodr | County
+	- Gjirokastr | District
+		- parent: Gjirokastr | County
+	- Tiran | District
+		- parent: Tiran | County
+	- Lezh | County
+Algeria (DZ)
+	- Tlemcen | Province
+	- Boumerds | Province
+	- Naama | Province
+	- Chlef | Province
+	- Oran | Province
+	- Constantine | Province
+	- Ouargla | Province
+	- Djelfa | Province
+	- Oum el Bouaghi | Province
+	- El Bayadh | Province
+	- Relizane | Province
+	- El Oued | Province
+	- Sada | Province
+	- El Tarf | Province
+	- Adrar | Province
+	- Stif | Province
+	- Ghardaa | Province
+	- An Defla | Province
+	- Sidi Bel Abbs | Province
+	- Guelma | Province
+	- An Tmouchent | Province
+	- Skikda | Province
+	- Illizi | Province
+	- Alger | Province
+	- Souk Ahras | Province
+	- Jijel | Province
+	- Annaba | Province
+	- Tamanghasset | Province
+	- Khenchela | Province
+	- Batna | Province
+	- Tbessa | Province
+	- Laghouat | Province
+	- Bchar | Province
+	- Tiaret | Province
+	- Mascara | Province
+	- Bjaa | Province
+	- Tindouf | Province
+	- Mda | Province
+	- Biskra | Province
+	- Tipaza | Province
+	- Mila | Province
+	- Blida | Province
+	- Tissemsilt | Province
+	- Mostaganem | Province
+	- Bordj Bou Arrridj | Province
+	- Tizi Ouzou | Province
+	- Msila | Province
+	- Bouira | Province
+American Samoa (AS)
+Andorra (AD)
+	- Canillo | Parish
+	- Sant Juli de Lria | Parish
+	- Encamp | Parish
+	- Escaldes-Engordany | Parish
+	- Andorra la Vella | Parish
+	- La Massana | Parish
+	- Ordino | Parish
+Angola (AO)
+	- Lunda Sul | Province
+	- Zaire | Province
+	- Huambo | Province
+	- Malange | Province
+	- Bengo | Province
+	- Cuando-Cubango | Province
+	- Hula | Province
+	- Moxico | Province
+	- Cuanza Norte | Province
+	- Benguela | Province
+	- Luanda | Province
+	- Namibe | Province
+	- Bi | Province
+	- Cuanza Sul | Province
+	- Lunda Norte | Province
+	- Uge | Province
+	- Cabinda | Province
+	- Cunene | Province
+Anguilla (AI)
+Antarctica (AQ)
+Antigua and Barbuda (AG)
+	- Saint Paul | Parish
+	- Saint Peter | Parish
+	- Saint George | Parish
+	- Saint Philip | Parish
+	- Saint John | Parish
+	- Barbuda | Dependency
+	- Saint Mary | Parish
+	- Redonda | Dependency
+Argentina (AR)
+	- Corrientes | Province
+	- Tucuman | Province
+	- Chaco | Province
+	- Chubut | Province
+	- Entre Rios | Province
+	- Formosa | Province
+	- Jujuy | Province
+	- La Pampa | Province
+	- Mendoza | Province
+	- Misiones | Province
+	- Neuquen | Province
+	- Rio Negro | Province
+	- Salta | Province
+	- San Juan | Province
+	- San Luis | Province
+	- Santa Cruz | Province
+	- Ciudad Autnoma de Buenos Aires | City
+	- Santa Fe | Province
+	- Buenos Aires | Province
+	- Santiago del Estero | Province
+	- Catamarca | Province
+	- Tierra del Fuego | Province
+	- Cordoba | Province
+Armenia (AM)
+	- Vayoc Jor | Province
+	- Aragacotn | Province
+	- Lory | Province
+	- Ararat | Province
+	- Sirak | Province
+	- Armavir | Province
+	- Syunik' | Province
+	- Gegarkunik' | Province
+	- Tavus | Province
+	- Erevan | Province
+	- Kotayk' | Province
+Aruba (AW)
+Australia (AU)
+	- Tasmania | State
+	- Victoria | State
+	- New South Wales | State
+	- Western Australia | State
+	- Queensland | State
+	- Australian Capital Territory | Territory
+	- South Australia | State
+	- Northern Territory | Territory
+Austria (AT)
+	- Vorarlberg | State
+	- Obersterreich | State
+	- Wien | State
+	- Salzburg | State
+	- Burgenland | State
+	- Steiermark | State
+	- Krnten | State
+	- Tirol | State
+	- Niedersterreich | State
+Azerbaijan (AZ)
+	- Xamaz | Rayon
+	- rur | Rayon
+		- parent: Naxvan | Autonomous republic
+	- Asu | Rayon
+	- Naxvan | Autonomous republic
+	- Masall | Rayon
+	- Xz | Rayon
+	- Astara | Rayon
+	- Bak | Municipality
+	- ua | Rayon
+	- Neftala | Rayon
+	- Xocal | Rayon
+	- Babk | Rayon
+		- parent: Naxvan | Autonomous republic
+	- Gnc | Municipality
+	- Trtr | Rayon
+	- Ouz | Rayon
+	- Xocavnd | Rayon
+	- Xankndi | Municipality
+	- Tovuz | Rayon
+	- Balakn | Rayon
+	- mili | Rayon
+	- Ordubad | Rayon
+		- parent: Naxvan | Autonomous republic
+	- Lnkran | Municipality
+	- Ucar | Rayon
+	- Beylqan | Rayon
+	- smayll | Rayon
+	- Qbl | Rayon
+	- Mingevir | Municipality
+	- Yardml | Rayon
+	- Brd | Rayon
+	- Klbcr | Rayon
+	- Saatl | Rayon
+	- Naftalan | Municipality
+	- Yevlax | Rayon
+	- Bilsuvar | Rayon
+	- Kngrli | Rayon
+		- parent: Naxvan | Autonomous republic
+	- Sabirabad | Rayon
+	- Naxvan | Municipality
+		- parent: Naxvan | Autonomous republic
+	- Zaqatala | Rayon
+	- Cbrayl | Rayon
+	- Salyan | Rayon
+	- Krdmir | Rayon
+	- Zngilan | Rayon
+	- Clilabab | Rayon
+	- Sumqayt | Municipality
+	- Samux | Rayon
+	- Qax | Rayon
+	- Zrdab | Rayon
+	- Culfa | Rayon
+		- parent: Naxvan | Autonomous republic
+	- ki | Municipality
+	- Sdrk | Rayon
+		- parent: Naxvan | Autonomous republic
+	- Qazax | Rayon
+	- irvan | Municipality
+	- Daksn | Rayon
+	- Qobustan | Rayon
+	- Siyzn | Rayon
+	- Yevlax | Municipality
+	- Fzuli | Rayon
+	- Quba | Rayon
+	- abran | Rayon
+	- Aberon | Rayon
+	- Gdby | Rayon
+	- Qubadl | Rayon
+	- ahbuz | Rayon
+		- parent: Naxvan | Autonomous republic
+	- Acabdi | Rayon
+	- Goranboy | Rayon
+	- Qusar | Rayon
+	- Adam | Rayon
+	- Gyay | Rayon
+	- amax | Rayon
+	- Lan | Rayon
+	- Ada | Rayon
+	- Gygl | Rayon
+	- ki | Rayon
+	- Lerik | Rayon
+	- Astafa | Rayon
+	- Hacqabul | Rayon
+	- mkir | Rayon
+	- Lnkran | Rayon
+Bahamas (BS)
+	- Hope Town | District
+	- Inagua | District
+	- Long Island | District
+	- Mangrove Cay | District
+	- Mayaguana | District
+	- Acklins | District
+	- Moore's Island | District
+	- Berry Islands | District
+	- North Abaco | District
+	- Bimini | District
+	- North Andros | District
+	- Black Point | District
+	- North Eleuthera | District
+	- Cat Island | District
+	- Ragged Island | District
+	- Central Abaco | District
+	- Rum Cay | District
+	- Central Andros | District
+	- San Salvador | District
+	- Central Eleuthera | District
+	- South Abaco | District
+	- City of Freeport | District
+	- South Andros | District
+	- Crooked Island and Long Cay | District
+	- South Eleuthera | District
+	- East Grand Bahama | District
+	- Spanish Wells | District
+	- Exuma | District
+	- West Grand Bahama | District
+	- Grand Cay | District
+	- Harbour Island | District
+Bahrain (BH)
+	- Al Manmah (Al imah) | Governorate
+	- Al Wus | Governorate
+	- Al Muarraq | Governorate
+	- Al Janbyah | Governorate
+	- Ash Shamlyah | Governorate
+Bangladesh (BD)
+	- Gazipur | District
+		- parent: Dhaka | Division
+	- Narayanganj | District
+		- parent: Dhaka | Division
+	- Bogra | District
+		- parent: Rajshahi | Division
+	- Kushtia | District
+		- parent: Khulna | Division
+	- Rajshahi | District
+		- parent: Rajshahi | Division
+	- Gopalganj | District
+		- parent: Dhaka | Division
+	- Narsingdi | District
+		- parent: Dhaka | Division
+	- Brahmanbaria | District
+		- parent: Chittagong | Division
+	- Lakshmipur | District
+		- parent: Chittagong | Division
+	- Rangamati | District
+		- parent: Chittagong | Division
+	- Habiganj | District
+		- parent: Sylhet | Division
+	- Natore | District
+		- parent: Rajshahi | Division
+	- Chandpur | District
+		- parent: Chittagong | Division
+	- Lalmonirhat | District
+		- parent: Rangpur | Division
+	- Barisal | Division
+	- Rangpur | District
+		- parent: Rangpur | Division
+	- Chittagong | Division
+	- Jaipurhat | District
+		- parent: Rajshahi | Division
+	- Chittagong | District
+		- parent: Chittagong | Division
+	- Madaripur | District
+		- parent: Dhaka | Division
+	- Nawabganj | District
+		- parent: Rajshahi | Division
+	- Satkhira | District
+		- parent: Khulna | Division
+	- Dhaka | Division
+	- Jamalpur | District
+		- parent: Dhaka | Division
+	- Netrakona | District
+		- parent: Dhaka | Division
+	- Chuadanga | District
+		- parent: Khulna | Division
+	- Magura | District
+		- parent: Khulna | Division
+	- Khulna | Division
+	- Shariatpur | District
+		- parent: Dhaka | Division
+	- Rajshahi | Division
+	- Jessore | District
+		- parent: Khulna | Division
+	- Comilla | District
+		- parent: Chittagong | Division
+	- Manikganj | District
+		- parent: Dhaka | Division
+	- Nilphamari | District
+		- parent: Rangpur | Division
+	- Sherpur | District
+		- parent: Dhaka | Division
+	- Rangpur | Division
+	- Jhalakati | District
+		- parent: Barisal | Division
+	- Noakhali | District
+		- parent: Chittagong | Division
+	- Cox's Bazar | District
+		- parent: Chittagong | Division
+	- Meherpur | District
+		- parent: Khulna | Division
+	- Sylhet | Division
+	- Sirajganj | District
+		- parent: Rajshahi | Division
+	- Bagerhat | District
+		- parent: Khulna | Division
+	- Jhenaidah | District
+		- parent: Khulna | Division
+	- Dhaka | District
+		- parent: Dhaka | Division
+	- Moulvibazar | District
+		- parent: Sylhet | Division
+	- Pabna | District
+		- parent: Rajshahi | Division
+	- Sunamganj | District
+		- parent: Sylhet | Division
+	- Bandarban | District
+		- parent: Chittagong | Division
+	- Khagrachari | District
+		- parent: Chittagong | Division
+	- Dinajpur | District
+		- parent: Rangpur | Division
+	- Munshiganj | District
+		- parent: Dhaka | Division
+	- Panchagarh | District
+		- parent: Rangpur | Division
+	- Sylhet | District
+		- parent: Sylhet | Division
+	- Barguna | District
+		- parent: Barisal | Division
+	- Khulna | District
+		- parent: Khulna | Division
+	- Faridpur | District
+		- parent: Dhaka | Division
+	- Mymensingh | District
+		- parent: Dhaka | Division
+	- Patuakhali | District
+		- parent: Barisal | Division
+	- Tangail | District
+		- parent: Dhaka | Division
+	- Barisal | District
+		- parent: Barisal | Division
+	- Kishorganj | District
+		- parent: Dhaka | Division
+	- Feni | District
+		- parent: Chittagong | Division
+	- Naogaon | District
+		- parent: Rajshahi | Division
+	- Pirojpur | District
+		- parent: Barisal | Division
+	- Thakurgaon | District
+		- parent: Rangpur | Division
+	- Bhola | District
+		- parent: Barisal | Division
+	- Kurigram | District
+		- parent: Rangpur | Division
+	- Gaibandha | District
+		- parent: Rangpur | Division
+	- Narail | District
+		- parent: Khulna | Division
+	- Rajbari | District
+		- parent: Dhaka | Division
+Barbados (BB)
+	- Saint James | Parish
+	- Saint Peter | Parish
+	- Saint John | Parish
+	- Saint Philip | Parish
+	- Christ Church | Parish
+	- Saint Joseph | Parish
+	- Saint Thomas | Parish
+	- Saint Andrew | Parish
+	- Saint Lucy | Parish
+	- Saint George | Parish
+	- Saint Michael | Parish
+Belarus (BY)
+	- Mahiluskaja voblasc' | Oblast
+	- Horad Minsk | City
+	- Minskaja voblasc' | Oblast
+	- Brsckaja voblasc' | Oblast
+	- Vicebskaja voblasc' | Oblast
+	- Homel'skaja voblasc' | Oblast
+	- Hrodzenskaja voblasc' | Oblast
+Belgium (BE)
+	- Luxembourg | Province
+		- parent: wallonne, Rgion | Region
+	- Hainaut | Province
+		- parent: wallonne, Rgion | Region
+	- Vlaams-Brabant | Province
+		- parent: Vlaams Gewest | Region
+	- wallonne, Rgion | Region
+	- West-Vlaanderen | Province
+		- parent: Vlaams Gewest | Region
+	- Lige | Province
+		- parent: wallonne, Rgion | Region
+	- Antwerpen | Province
+		- parent: Vlaams Gewest | Region
+	- Namur | Province
+		- parent: wallonne, Rgion | Region
+	- Oost-Vlaanderen | Province
+		- parent: Vlaams Gewest | Region
+	- Brabant wallon | Province
+		- parent: wallonne, Rgion | Region
+	- Bruxelles-Capitale, Rgion de;Brussels Hoofdstedelijk Gewest | Region
+	- Limburg | Province
+		- parent: Vlaams Gewest | Region
+	- Vlaams Gewest | Region
+Belize (BZ)
+	- Toledo | District
+	- Cayo | District
+	- Corozal | District
+	- Orange Walk | District
+	- Belize | District
+	- Stann Creek | District
+Benin (BJ)
+	- Littoral | Department
+	- Borgou | Department
+	- Mono | Department
+	- Collines | Department
+	- Oum | Department
+	- Alibori | Department
+	- Donga | Department
+	- Plateau | Department
+	- Atakora | Department
+	- Kouffo | Department
+	- Zou | Department
+	- Atlantique | Department
+Bermuda (BM)
+Bhutan (BT)
+	- Lhuentse | District
+	- Zhemgang | District
+	- Samdrup Jongkha | District
+	- Chhukha | District
+	- Trashi Yangtse | District
+	- Monggar | District
+	- Samtee | District
+	- Dagana | District
+	- Trongsa | District
+	- Paro | District
+	- Sarpang | District
+	- Gasa | District
+	- Tsirang | District
+	- Pemagatshel | District
+	- Thimphu | District
+	- Bumthang | District
+	- Ha | District
+	- Wangdue Phodrang | District
+	- Punakha | District
+	- Trashigang | District
+Bolivia, Plurinational State of (BO)
+	- Oruro | Department
+	- Chuquisaca | Department
+	- Pando | Department
+	- Cochabamba | Department
+	- Potos | Department
+	- El Beni | Department
+	- Santa Cruz | Department
+	- La Paz | Department
+	- Tarija | Department
+Bonaire, Sint Eustatius and Saba (BQ)
+	- Sint Eustatius | Special municipality
+	- Saba | Special municipality
+	- Bonaire | Special municipality
+Bosnia and Herzegovina (BA)
+	- Hercegovako-neretvanski kanton | Canton
+		- parent: Federacija Bosne i Hercegovine | Entity
+	- Unsko-sanski kanton | Canton
+		- parent: Federacija Bosne i Hercegovine | Entity
+	- Posavski kanton | Canton
+		- parent: Federacija Bosne i Hercegovine | Entity
+	- Brko distrikt | District
+	- Federacija Bosne i Hercegovine | Entity
+	- Kanton br. 10 (Livanjski kanton) | Canton
+		- parent: Federacija Bosne i Hercegovine | Entity
+	- Srednjobosanski kanton | Canton
+		- parent: Federacija Bosne i Hercegovine | Entity
+	- Republika Srpska | Entity
+	- Zapadnohercegovaki kanton | Canton
+		- parent: Federacija Bosne i Hercegovine | Entity
+	- Kanton Sarajevo | Canton
+		- parent: Federacija Bosne i Hercegovine | Entity
+	- Bosansko-podrinjski kanton | Canton
+		- parent: Federacija Bosne i Hercegovine | Entity
+	- Zeniko-dobojski kanton | Canton
+		- parent: Federacija Bosne i Hercegovine | Entity
+	- Tuzlanski kanton | Canton
+		- parent: Federacija Bosne i Hercegovine | Entity
+Botswana (BW)
+	- Southern | District
+	- Kweneng | District
+	- Central | District
+	- North-East | District
+	- Ghanzi | District
+	- North-West | District
+	- Kgalagadi | District
+	- South-East | District
+	- Kgatleng | District
+Bouvet Island (BV)
+Brazil (BR)
+	- Esprito Santo | State
+	- Sergipe | State
+	- Fernando de Noronha | State
+	- So Paulo | State
+	- Gois | State
+	- Tocantins | State
+	- Maranho | State
+	- Distrito Federal | Federal District
+	- Minas Gerais | State
+	- Mato Grosso do Sul | State
+	- Mato Grosso | State
+	- Par | State
+	- Paraba | State
+	- Pernambuco | State
+	- Piau | State
+	- Paran | State
+	- Rio de Janeiro | State
+	- Acre | State
+	- Rio Grande do Norte | State
+	- Alagoas | State
+	- Rondnia | State
+	- Amazonas | State
+	- Roraima | State
+	- Amap | State
+	- Rio Grande do Sul | State
+	- Bahia | State
+	- Santa Catarina | State
+	- Cear | State
+British Indian Ocean Territory (IO)
+Brunei Darussalam (BN)
+	- Tutong | District
+	- Temburong | District
+	- Brunei-Muara | District
+	- Belait | District
+Bulgaria (BG)
+	- Pleven | Region
+	- Plovdiv | Region
+	- Razgrad | Region
+	- Ruse | Region
+	- Shumen | Region
+	- Silistra | Region
+	- Sliven | Region
+	- Smolyan | Region
+	- Blagoevgrad | Region
+	- Sofia | Region
+	- Burgas | Region
+	- Sofia-Grad | Region
+	- Dobrich | Region
+	- Stara Zagora | Region
+	- Gabrovo | Region
+	- Targovishte | Region
+	- Haskovo | Region
+	- Varna | Region
+	- Kardzhali | Region
+	- Veliko Tarnovo | Region
+	- Kyustendil | Region
+	- Vidin | Region
+	- Lovech | Region
+	- Vratsa | Region
+	- Montana | Region
+	- Yambol | Region
+	- Pazardzhik | Region
+	- Pernik | Region
+Burkina Faso (BF)
+	- Oubritenga | Province
+		- parent: Plateau-Central | Region
+	- Yagha | Province
+		- parent: Sahel | Region
+	- Centre | Region
+	- Boulgou | Province
+		- parent: Centre-Est | Region
+	- Oudalan | Province
+		- parent: Sahel | Region
+	- Kossi | Province
+		- parent: Boucle du Mouhoun | Region
+	- Yatenga | Province
+		- parent: Nord | Region
+	- Centre-Est | Region
+	- Boulkiemd | Province
+		- parent: Centre-Ouest | Region
+	- Passor | Province
+		- parent: Nord | Region
+	- Centre-Nord | Region
+	- Koulplogo | Province
+		- parent: Centre-Est | Region
+	- Ziro | Province
+		- parent: Centre-Ouest | Region
+	- Centre-Ouest | Region
+	- Como | Province
+		- parent: Cascades | Region
+	- Poni | Province
+		- parent: Sud-Ouest | Region
+	- Kouritenga | Province
+		- parent: Centre-Est | Region
+	- Zondoma | Province
+		- parent: Nord | Region
+	- Centre-Sud | Region
+	- Ganzourgou | Province
+		- parent: Plateau-Central | Region
+	- Sangui | Province
+		- parent: Centre-Ouest | Region
+	- Est | Region
+	- Kourwogo | Province
+		- parent: Plateau-Central | Region
+	- Zoundwogo | Province
+		- parent: Centre-Sud | Region
+	- Hauts-Bassins | Region
+	- Gnagna | Province
+		- parent: Est | Region
+	- Sanmatenga | Province
+		- parent: Centre-Nord | Region
+	- Lraba | Province
+		- parent: Cascades | Region
+	- Nord | Region
+	- Gourma | Province
+		- parent: Est | Region
+	- Sno | Province
+		- parent: Sahel | Region
+	- Plateau-Central | Region
+	- Loroum | Province
+		- parent: Nord | Region
+	- Sahel | Region
+	- Houet | Province
+		- parent: Hauts-Bassins | Region
+	- Sissili | Province
+		- parent: Centre-Ouest | Region
+	- Mouhoun | Province
+		- parent: Boucle du Mouhoun | Region
+	- Sud-Ouest | Region
+	- Ioba | Province
+		- parent: Sud-Ouest | Region
+	- Soum | Province
+		- parent: Sahel | Region
+	- Bal | Province
+		- parent: Boucle du Mouhoun | Region
+	- Naouri | Province
+		- parent: Centre-Sud | Region
+	- Kadiogo | Province
+		- parent: Centre | Region
+	- Sourou | Province
+		- parent: Boucle du Mouhoun | Region
+	- Bam | Province
+		- parent: Centre-Nord | Region
+	- Namentenga | Province
+		- parent: Centre-Nord | Region
+	- Kndougou | Province
+		- parent: Hauts-Bassins | Region
+	- Tapoa | Province
+		- parent: Est | Region
+	- Banwa | Province
+		- parent: Boucle du Mouhoun | Region
+	- Nayala | Province
+		- parent: Boucle du Mouhoun | Region
+	- Komondjari | Province
+		- parent: Est | Region
+	- Tui | Province
+		- parent: Hauts-Bassins | Region
+	- Bazga | Province
+		- parent: Centre-Sud | Region
+	- Noumbiel | Province
+		- parent: Sud-Ouest | Region
+	- Boucle du Mouhoun | Region
+	- Cascades | Region
+	- Kompienga | Province
+		- parent: Est | Region
+	- Bougouriba | Province
+		- parent: Sud-Ouest | Region
+Burundi (BI)
+	- Bubanza | Province
+	- Rutana | Province
+	- Cibitoke | Province
+	- Makamba | Province
+	- Bujumbura Mairie | Province
+	- Ruyigi | Province
+	- Gitega | Province
+	- Muramvya | Province
+	- Bujumbura Rural | Province
+	- Karuzi | Province
+	- Mwaro | Province
+	- Bururi | Province
+	- Kayanza | Province
+	- Ngozi | Province
+	- Cankuzo | Province
+	- Kirundo | Province
+Cambodia (KH)
+	- Krong Kaeb | Autonomous municipality
+	- Prey Veaeng | Province
+	- Krong Pailin | Autonomous municipality
+	- Rotanak Kiri | Province
+	- Krong Preah Sihanouk | Autonomous municipality
+	- Siem Reab | Province
+	- Phnom Penh | Autonomous municipality
+	- Stueng Traeng | Province
+	- Battambang | Province
+	- Svaay Rieng | Province
+	- Banteay Mean Chey | Province
+	- Taakaev | Province
+	- Kampong Cham | Province
+	- Kampong Chhnang | Province
+	- Kampong Speu | Province
+	- Kampong Thom | Province
+	- Kampot | Province
+	- Kandal | Province
+	- Kach Kong | Province
+	- Krachoh | Province
+	- Mondol Kiri | Province
+	- Otdar Mean Chey | Province
+	- Pousaat | Province
+	- Preah Vihear | Province
+Cameroon (CM)
+	- West | Province
+	- Adamaoua | Province
+	- North | Province
+	- Centre | Province
+	- North-West (Cameroon) | Province
+	- East | Province
+	- South | Province
+	- Far North | Province
+	- South-West | Province
+	- Littoral | Province
+Canada (CA)
+	- Newfoundland and Labrador | Province
+	- Saskatchewan | Province
+	- Alberta | Province
+	- Nova Scotia | Province
+	- Northwest Territories | Territory
+	- British Columbia | Province
+	- Ontario | Province
+	- Nunavut | Territory
+	- Manitoba | Province
+	- Prince Edward Island | Province
+	- Yukon Territory | Territory
+	- New Brunswick | Province
+	- Quebec | Province
+Cape Verde (CV)
+	- Ilhas de Barlavento | Geographical region
+	- Santa Catarina | Municipality
+		- parent: Ilhas de Sotavento | Geographical region
+	- Ilhas de Sotavento | Geographical region
+	- Santa Catarina de Fogo | Municipality
+		- parent: Ilhas de Sotavento | Geographical region
+	- Boa Vista | Municipality
+		- parent: Ilhas de Barlavento | Geographical region
+	- Santa Cruz | Municipality
+		- parent: Ilhas de Sotavento | Geographical region
+	- Brava | Municipality
+		- parent: Ilhas de Sotavento | Geographical region
+	- So Domingos | Municipality
+		- parent: Ilhas de Sotavento | Geographical region
+	- Maio | Municipality
+		- parent: Ilhas de Sotavento | Geographical region
+	- So Filipe | Municipality
+		- parent: Ilhas de Sotavento | Geographical region
+	- Mosteiros | Municipality
+		- parent: Ilhas de Sotavento | Geographical region
+	- So Loureno dos rgos | Municipality
+		- parent: Ilhas de Sotavento | Geographical region
+	- Paul | Municipality
+		- parent: Ilhas de Barlavento | Geographical region
+	- So Miguel | Municipality
+		- parent: Ilhas de Sotavento | Geographical region
+	- Porto Novo | Municipality
+		- parent: Ilhas de Barlavento | Geographical region
+	- So Salvador do Mundo | Municipality
+		- parent: Ilhas de Sotavento | Geographical region
+	- Praia | Municipality
+		- parent: Ilhas de Sotavento | Geographical region
+	- So Vicente | Municipality
+		- parent: Ilhas de Barlavento | Geographical region
+	- Ribeira Brava | Municipality
+		- parent: Ilhas de Barlavento | Geographical region
+	- Tarrafal | Municipality
+		- parent: Ilhas de Sotavento | Geographical region
+	- Ribeira Grande | Municipality
+		- parent: Ilhas de Barlavento | Geographical region
+	- Tarrafal de So Nicolau | Municipality
+		- parent: Ilhas de Sotavento | Geographical region
+	- Ribeira Grande de Santiago | Municipality
+		- parent: Ilhas de Sotavento | Geographical region
+	- Sal | Municipality
+		- parent: Ilhas de Barlavento | Geographical region
+Cayman Islands (KY)
+Central African Republic (CF)
+	- Ouaka | Prefecture
+	- Sangha | Economic Prefecture
+	- Haute-Kotto | Prefecture
+	- Haute-Sangha / Mambr-Kad | Prefecture
+	- Ouham | Prefecture
+	- Haut-Mbomou | Prefecture
+	- Mbomou | Prefecture
+	- Ouham-Pend | Prefecture
+	- Bangui | Commune
+	- Kmo-Gribingui | Prefecture
+	- Nana-Mambr | Prefecture
+	- Vakaga | Prefecture
+	- Bamingui-Bangoran | Prefecture
+	- Lobaye | Prefecture
+	- Ombella-M'poko | Prefecture
+	- Gribingui | Economic Prefecture
+	- Basse-Kotto | Prefecture
+Chad (TD)
+	- Lqn al Gharb | Region
+	- Lqn ash Sharq | Region
+	- Madnat Injamn | Region
+	- Mndl | Region
+	- My Kbb al Gharb | Region
+	- My Kbb ash Sharq | Region
+	- Qr | Region
+	- Salmt | Region
+	- Shr al Awsa | Region
+	- Shr Bqirm | Region
+	- Sl | Region
+	- Al Baah | Region
+	- Tnjil | Region
+	- Al Buayrah | Region
+	- Tibast | Region
+	- Bar al Ghazl | Region
+	- Waddy | Region
+	- Brk | Region
+	- Wd Fr | Region
+	- ajjar Lams | Region
+	- Innd | Region
+	- Knim | Region
+Chile (CL)
+	- Magallanes y Antrtica Chilena | Region
+	- Araucana | Region
+	- Coquimbo | Region
+	- Maule | Region
+	- Arica y Parinacota | Region
+	- Libertador General Bernardo O'Higgins | Region
+	- Regin Metropolitana de Santiago | Region
+	- Atacama | Region
+	- Los Lagos | Region
+	- Tarapac | Region
+	- Aisn del General Carlos Ibez del Campo | Region
+	- Bo-Bo | Region
+	- Los Ros | Region
+	- Valparaso | Region
+	- Antofagasta | Region
+China (CN)
+	- Jilin | Province
+	- Beijing | Municipality
+	- Liaoning | Province
+	- Chongqing | Municipality
+	- Qinghai | Province
+	- Shanghai | Municipality
+	- Shaanxi | Province
+	- Tianjin | Municipality
+	- Shandong | Province
+	- Anhui | Province
+	- Shanxi | Province
+	- Fujian | Province
+	- Sichuan | Province
+	- Gansu | Province
+	- Taiwan | Province
+	- Guangdong | Province
+	- Yunnan | Province
+	- Guizhou | Province
+	- Zhejiang | Province
+	- Hainan | Province
+	- Guangxi | Autonomous region
+	- Hebei | Province
+	- Nei Mongol | Autonomous region
+	- Heilongjiang | Province
+	- Ningxia | Autonomous region
+	- Henan | Province
+	- Xinjiang | Autonomous region
+	- Hubei | Province
+	- Xizang | Autonomous region
+	- Hunan | Province
+	- Xianggang (Hong-Kong) | Special administrative region
+	- Jiangsu | Province
+	- Aomen (Macau) | Special administrative region
+	- Jiangxi | Province
+Christmas Island (CX)
+Cocos (Keeling) Islands (CC)
+Colombia (CO)
+	- Amazonas | Department
+	- Magdalena | Department
+	- Antioquia | Department
+	- Meta | Department
+	- Arauca | Department
+	- Nario | Department
+	- Atlntico | Department
+	- Norte de Santander | Department
+	- Bolvar | Department
+	- Putumayo | Department
+	- Boyac | Department
+	- Quindo | Department
+	- Caldas | Department
+	- Risaralda | Department
+	- Caquet | Department
+	- San Andrs, Providencia y Santa Catalina | Department
+	- Casanare | Department
+	- Santander | Department
+	- Cauca | Department
+	- Sucre | Department
+	- Cesar | Department
+	- Tolima | Department
+	- Choc | Department
+	- Valle del Cauca | Department
+	- Crdoba | Department
+	- Vaups | Department
+	- Cundinamarca | Department
+	- Vichada | Department
+	- Guaina | Department
+	- Guaviare | Department
+	- Huila | Department
+	- La Guajira | Department
+	- Distrito Capital de Bogot | Capital district
+Comoros (KM)
+	- Andjoun (Anjwn) | Island
+	- Mohl (Mhl) | Island
+	- Andjazdja (Anjazjah) | Island
+Congo (CG)
+	- Pool | Region
+	- Lkoumou | Region
+	- Sangha | Region
+	- Bouenza | Region
+	- Likouala | Region
+	- Brazzaville | Capital District
+	- Cuvette | Region
+	- Niari | Region
+	- Cuvette-Ouest | Region
+	- Plateaux | Region
+	- Kouilou | Region
+Congo, The Democratic Republic of the (CD)
+	- Orientale | Province
+	- Kinshasa | City
+	- Kasai-Oriental | Province
+	- Sud-Kivu | Province
+	- Bandundu | Province
+	- Katanga | Province
+	- Bas-Congo | Province
+	- Maniema | Province
+	- quateur | Province
+	- Nord-Kivu | Province
+	- Kasai-Occidental | Province
+Cook Islands (CK)
+Costa Rica (CR)
+	- Limn | Province
+	- Alajuela | Province
+	- Puntarenas | Province
+	- Cartago | Province
+	- San Jos | Province
+	- Guanacaste | Province
+	- Heredia | Province
+Cte d'Ivoire (CI)
+	- Valle du Bandama (Rgion de la) | Region
+	- Lacs (Rgion des) | Region
+	- Nzi-Como (Rgion) | Region
+	- Bas-Sassandra (Rgion du) | Region
+	- Worodouqou (Rgion du) | Region
+	- Lagunes (Rgion des) | Region
+	- Savanes (Rgion des) | Region
+	- Dengul (Rgion du) | Region
+	- Zanzan (Rgion du) | Region
+	- Marahou (Rgion de la) | Region
+	- 18 Montagnes (Rgion des) | Region
+	- Sud-Bandama (Rgion du) | Region
+	- Fromager (Rgion du) | Region
+	- Moyen-Cavally (Rgion du) | Region
+	- Agnbi (Rgion de l') | Region
+	- Sud-Como (Rgion du) | Region
+	- Haut-Sassandra (Rgion du) | Region
+	- Moyen-Como (Rgion du) | Region
+	- Bafing (Rgion du) | Region
+Croatia (HR)
+	- Primorsko-goranska upanija | County
+	- Dubrovako-neretvanska upanija | County
+	- Virovitiko-podravska upanija | County
+	- Liko-senjska upanija | County
+	- Sisako-moslavaka upanija | County
+	- Istarska upanija | County
+	- Vukovarsko-srijemska upanija | County
+	- Meimurska upanija | County
+	- Grad Zagreb | City
+	- Splitsko-dalmatinska upanija | County
+	- Karlovaka upanija | County
+	- Zadarska upanija | County
+	- Osjeko-baranjska upanija | County
+	- Bjelovarsko-bilogorska upanija | County
+	- ibensko-kninska upanija | County
+	- Koprivniko-krievaka upanija | County
+	- Zagrebaka upanija | County
+	- Poeko-slavonska upanija | County
+	- Brodsko-posavska upanija | County
+	- Varadinska upanija | County
+	- Krapinsko-zagorska upanija | County
+Cuba (CU)
+	- Holgun | Province
+	- Sancti Spritus | Province
+	- Cienfuegos | Province
+	- La Habana | Province
+	- Santiago de Cuba | Province
+	- Ciudad de La Habana | Province
+	- Las Tunas | Province
+	- Villa Clara | Province
+	- Granma | Province
+	- Matanzas | Province
+	- Camagey | Province
+	- Isla de la Juventud | Special municipality
+	- Guantnamo | Province
+	- Pinar del Rio | Province
+	- Ciego de vila | Province
+Curaao (CW)
+Cyprus (CY)
+	- Pfos | District
+	- Kerneia | District
+	- Lrnaka | District
+	- Lefkosa | District
+	- Ammchostos | District
+	- Lemess | District
+Czech Republic (CZ)
+	- Frdek Mstek | district
+		- parent: Moravskoslezsk kraj | Region
+	- Most | district
+		- parent: steck kraj | Region
+	- st nad Labem | district
+		- parent: steck kraj | Region
+	- Havlkv Brod | district
+		- parent: Vysoina | Region
+	- Nchod | district
+		- parent: Krlovhradeck kraj | Region
+	- st nad Orlic | district
+		- parent: Pardubick kraj | Region
+	- Hodonn | district
+		- parent: Jihomoravsk kraj | Region
+	- Nov Jin | district
+		- parent: Moravskoslezsk kraj | Region
+	- Vsetn | district
+		- parent: Zlnsk kraj | Region
+	- Hradec Krlov | district
+		- parent: Krlovhradeck kraj | Region
+	- Nymburk | district
+		- parent: Stedoesk kraj | Region
+	- Vykov | district
+		- parent: Jihomoravsk kraj | Region
+	- Cheb | district
+		- parent: Karlovarsk kraj | Region
+	- Olomouc | district
+		- parent: Olomouck kraj | Region
+	- Zln | district
+		- parent: Zlnsk kraj | Region
+	- Chomutov | district
+		- parent: steck kraj | Region
+	- Opava | district
+		- parent: Moravskoslezsk kraj | Region
+	- Znojmo | district
+		- parent: Jihomoravsk kraj | Region
+	- Chrudim | district
+		- parent: Pardubick kraj | Region
+	- Ostrava msto | district
+		- parent: Moravskoslezsk kraj | Region
+	- dr nad Szavou | district
+		- parent: Vysoina | Region
+	- Jablonec nad Nisou | district
+		- parent: Libereck kraj | Region
+	- Pardubice | district
+		- parent: Pardubick kraj | Region
+	- Jesenk | district
+		- parent: Olomouck kraj | Region
+	- Pelhimov | district
+		- parent: Vysoina | Region
+	- Jin | district
+		- parent: Krlovhradeck kraj | Region
+	- Psek | district
+		- parent: Jihoesk kraj | Region
+	- Jihlava | district
+		- parent: Vysoina | Region
+	- Plze jih | district
+		- parent: Plzesk kraj | Region
+	- Plze msto | district
+		- parent: Plzesk kraj | Region
+	- Jindichv Hradec | district
+		- parent: Jihoesk kraj | Region
+	- Karlovy Vary | district
+		- parent: Karlovarsk kraj | Region
+	- Plze sever | district
+		- parent: Plzesk kraj | Region
+	- Karvin | district
+		- parent: Moravskoslezsk kraj | Region
+	- Praha 1 | district
+		- parent: Praha, hlavn msto | Region
+	- Kladno | district
+		- parent: Stedoesk kraj | Region
+	- Praha 2 | district
+		- parent: Praha, hlavn msto | Region
+	- Klatovy | district
+		- parent: Plzesk kraj | Region
+	- Praha 3 | district
+		- parent: Praha, hlavn msto | Region
+	- Koln | district
+		- parent: Stedoesk kraj | Region
+	- Praha 4 | district
+		- parent: Praha, hlavn msto | Region
+	- Krom | district
+		- parent: Zlnsk kraj | Region
+	- Praha 5 | district
+		- parent: Praha, hlavn msto | Region
+	- Kutn Hora | district
+		- parent: Stedoesk kraj | Region
+	- Praha 6 | district
+		- parent: Praha, hlavn msto | Region
+	- Liberec | district
+		- parent: Libereck kraj | Region
+	- Praha 7 | district
+		- parent: Praha, hlavn msto | Region
+	- Litomice | district
+		- parent: steck kraj | Region
+	- Praha 8 | district
+		- parent: Praha, hlavn msto | Region
+	- Louny | district
+		- parent: steck kraj | Region
+	- Praha 9 | district
+		- parent: Praha, hlavn msto | Region
+	- Mlnk | district
+		- parent: Stedoesk kraj | Region
+	- Praha 10 | district
+		- parent: Praha, hlavn msto | Region
+	- Praha 11 | district
+		- parent: Praha, hlavn msto | Region
+	- Mlad Boleslav | district
+		- parent: Stedoesk kraj | Region
+	- Praha 12 | district
+		- parent: Praha, hlavn msto | Region
+	- Praha 13 | district
+		- parent: Praha, hlavn msto | Region
+	- Praha 14 | district
+		- parent: Praha, hlavn msto | Region
+	- Jihoesk kraj | Region
+	- Praha 15 | district
+		- parent: Praha, hlavn msto | Region
+	- Jihomoravsk kraj | Region
+	- Karlovarsk kraj | Region
+	- Praha vchod | district
+		- parent: Stedoesk kraj | Region
+	- Krlovhradeck kraj | Region
+	- Praha zpad | district
+		- parent: Stedoesk kraj | Region
+	- Libereck kraj | Region
+	- Moravskoslezsk kraj | Region
+	- Prachatice | district
+		- parent: Jihoesk kraj | Region
+	- Olomouck kraj | Region
+	- Prostjov | district
+		- parent: Olomouck kraj | Region
+	- Pardubick kraj | Region
+	- Plzesk kraj | Region
+	- Perov | district
+		- parent: Olomouck kraj | Region
+	- Praha, hlavn msto | Region
+	- Pbram | district
+		- parent: Stedoesk kraj | Region
+	- Stedoesk kraj | Region
+	- steck kraj | Region
+	- Rakovnk | district
+		- parent: Stedoesk kraj | Region
+	- Vysoina | Region
+	- Rokycany | district
+		- parent: Plzesk kraj | Region
+	- Zlnsk kraj | Region
+	- Beneov | district
+		- parent: Stedoesk kraj | Region
+	- Rychnov nad Knnou | district
+		- parent: Krlovhradeck kraj | Region
+	- Beroun | district
+		- parent: Stedoesk kraj | Region
+	- Semily | district
+		- parent: Libereck kraj | Region
+	- Blansko | district
+		- parent: Jihomoravsk kraj | Region
+	- Sokolov | district
+		- parent: Karlovarsk kraj | Region
+	- Brno-msto | district
+		- parent: Jihomoravsk kraj | Region
+	- Strakonice | district
+		- parent: Jihoesk kraj | Region
+	- Brno-venkov | district
+		- parent: Jihomoravsk kraj | Region
+	- Svitavy | district
+		- parent: Pardubick kraj | Region
+	- Bruntl | district
+		- parent: Moravskoslezsk kraj | Region
+	- umperk | district
+		- parent: Olomouck kraj | Region
+	- Beclav | district
+		- parent: Jihomoravsk kraj | Region
+	- Tbor | district
+		- parent: Jihoesk kraj | Region
+	- esk Lpa | district
+		- parent: Libereck kraj | Region
+	- Tachov | district
+		- parent: Plzesk kraj | Region
+	- esk Budjovice | district
+		- parent: Jihoesk kraj | Region
+	- Teplice | district
+		- parent: steck kraj | Region
+	- esk Krumlov | district
+		- parent: Jihoesk kraj | Region
+	- Trutnov | district
+		- parent: Krlovhradeck kraj | Region
+	- Dn | district
+		- parent: steck kraj | Region
+	- Teb | district
+		- parent: Vysoina | Region
+	- Domalice | district
+		- parent: Plzesk kraj | Region
+	- Uhersk Hradit | district
+		- parent: Zlnsk kraj | Region
+Denmark (DK)
+	- Sjlland | Region
+	- Syddanmark | Region
+	- Nordjylland | Region
+	- Midtjylland | Region
+	- Hovedstaden | Region
+Djibouti (DJ)
+	- Tadjourah | Region
+	- Ali Sabieh | Region
+	- Djibouti | City
+	- Arta | Region
+	- Dikhil | Region
+	- Obock | Region
+Dominica (DM)
+	- Saint Mark | Parish
+	- Saint George | Parish
+	- Saint Patrick | Parish
+	- Saint John | Parish
+	- Saint Paul | Parish
+	- Saint Joseph | Parish
+	- Saint Peter | Parish
+	- Saint Andrew | Parish
+	- Saint Luke | Parish
+	- Saint David | Parish
+Dominican Republic (DO)
+	- El Seybo [El Seibo] | Province
+	- San Juan | Province
+	- Espaillat | Province
+	- San Pedro de Macors | Province
+	- Hato Mayor | Province
+	- Snchez Ramrez | Province
+	- Independencia | Province
+	- Santiago | Province
+	- La Altagracia | Province
+	- Santiago Rodrguez | Province
+	- La Estrelleta [Elas Pia] | Province
+	- Valverde | Province
+	- La Romana | Province
+	- La Vega | Province
+	- Mara Trinidad Snchez | Province
+	- Monseor Nouel | Province
+	- Monte Cristi | Province
+	- Monte Plata | Province
+	- Pedernales | Province
+	- Distrito Nacional (Santo Domingo) | District
+	- Peravia | Province
+	- Azua | Province
+	- Puerto Plata | Province
+	- Bahoruco | Province
+	- Salcedo | Province
+	- Barahona | Province
+	- Saman | Province
+	- Dajabn | Province
+	- San Cristbal | Province
+	- Duarte | Province
+Ecuador (EC)
+	- Azuay | Province
+	- Pichincha | Province
+	- Bolvar | Province
+	- Santa Elena | Province
+	- Caar | Province
+	- Santo Domingo de los Tschilas | Province
+	- Carchi | Province
+	- Sucumbos | Province
+	- Cotopaxi | Province
+	- Tungurahua | Province
+	- Chimborazo | Province
+	- Zamora-Chinchipe | Province
+	- El Oro | Province
+	- Esmeraldas | Province
+	- Galpagos | Province
+	- Guayas | Province
+	- Imbabura | Province
+	- Loja | Province
+	- Los Ros | Province
+	- Manab | Province
+	- Morona-Santiago | Province
+	- Napo | Province
+	- Orellana | Province
+	- Pastaza | Province
+Egypt (EG)
+	- As Suways | Governorate
+	- Aswn | Governorate
+	- Asyt | Governorate
+	- Ad Daqahlyah | Governorate
+	- Ban Suwayf | Governorate
+	- Al Bahr al Ahmar | Governorate
+	- Br Sa`d | Governorate
+	- Al Buhayrah | Governorate
+	- Dumyt | Governorate
+	- Al Fayym | Governorate
+	- ulwn | Governorate
+	- Al Gharbyah | Governorate
+	- Janb Sn' | Governorate
+	- Al Iskandaryah | Governorate
+	- Kafr ash Shaykh | Governorate
+	- Al Ism`lyah | Governorate
+	- Matrh | Governorate
+	- Al Jzah | Governorate
+	- Qin | Governorate
+	- Al Minfyah | Governorate
+	- Shamal Sn' | Governorate
+	- Al Miny | Governorate
+	- Shj | Governorate
+	- Al Qhirah | Governorate
+	- Al Qalybyah | Governorate
+	- Al Wd al Jadd | Governorate
+	- As Sdis min Uktbar | Governorate
+	- Ash Sharqyah | Governorate
+El Salvador (SV)
+	- San Vicente | Department
+	- Morazn | Department
+	- Sonsonate | Department
+	- Chalatenango | Department
+	- San Miguel | Department
+	- Usulutn | Department
+	- La Libertad | Department
+	- Ahuachapn | Department
+	- San Salvador | Department
+	- La Paz | Department
+	- Cabaas | Department
+	- Santa Ana | Department
+	- Cuscatln | Department
+	- La Unin | Department
+Equatorial Guinea (GQ)
+	- Regin Insular | Region
+	- Annobn | Province
+		- parent: Regin Insular | Region
+	- Centro Sur | Province
+		- parent: Regin Continental | Region
+	- Wele-Nzas | Province
+		- parent: Regin Continental | Region
+	- Ki-Ntem | Province
+		- parent: Regin Continental | Region
+	- Bioko Norte | Province
+		- parent: Regin Insular | Region
+	- Regin Continental | Region
+	- Bioko Sur | Province
+		- parent: Regin Insular | Region
+	- Litoral | Province
+		- parent: Regin Continental | Region
+Eritrea (ER)
+	- Al Awsa | Province
+	- Shiml al Bar al Amar | Province
+	- Al Janb | Province
+	- Ansab | Province
+	- Janb al Bar al Amar | Province
+	- Qsh-Barkah | Province
+Estonia (EE)
+	- Ida-Virumaa | County
+	- Plvamaa | County
+	- Valgamaa | County
+	- Jgevamaa | County
+	- Prnumaa | County
+	- Viljandimaa | County
+	- Jrvamaa | County
+	- Raplamaa | County
+	- Harjumaa | County
+	- Vrumaa | County
+	- Lnemaa | County
+	- Saaremaa | County
+	- Hiiumaa | County
+	- Lne-Virumaa | County
+	- Tartumaa | County
+Ethiopia (ET)
+	- mara | State
+	- Sumal | State
+	- Bnshangul Gumuz | State
+	- Tigray | State
+	- ds beba | Administration
+	- Gambla Hizboch | State
+	- YeDebub Bihroch Bihreseboch na Hizboch | State
+	- Dir Dawa | Administration
+	- Hrer Hizb | State
+	- far | State
+	- Oromya | State
+Falkland Islands (Malvinas) (FK)
+Faroe Islands (FO)
+Fiji (FJ)
+	- Eastern | Division
+	- Rotuma | Dependency
+	- Central | Division
+	- Western | Division
+	- Northern | Division
+Finland (FI)
+	- Pijt-Hme | Region
+	- Keski-Pohjanmaa | Region
+	- Pohjanmaa | Region
+	- Etel-Pohjanmaa | Region
+	- Satakunta | Region
+	- Keski-Suomi | Region
+	- Pohjois-Karjala | Region
+	- Etel-Savo | Region
+	- Uusimaa | Region
+	- Kymenlaakso | Region
+	- Pohjois-Pohjanmaa | Region
+	- Kainuu | Region
+	- Varsinais-Suomi | Region
+	- Lappi | Region
+	- Ahvenanmaan maakunta | Region
+	- Pohjois-Savo | Region
+	- Kanta-Hme | Region
+	- Pirkanmaa | Region
+	- Etel-Karjala | Region
+France (FR)
+	- Alpes-Maritimes | Metropolitan department
+		- parent: Provence-Alpes-Cte d'Azur | Metropolitan region
+	- Loir-et-Cher | Metropolitan department
+		- parent: Centre | Metropolitan region
+	- Rhne | Metropolitan department
+		- parent: Rhne-Alpes | Metropolitan region
+	- Ardche | Metropolitan department
+		- parent: Rhne-Alpes | Metropolitan region
+	- Loire | Metropolitan department
+		- parent: Rhne-Alpes | Metropolitan region
+	- Sane-et-Loire | Metropolitan department
+		- parent: Bourgogne | Metropolitan region
+	- Ardennes | Metropolitan department
+		- parent: Champagne-Ardenne | Metropolitan region
+	- Loire-Atlantique | Metropolitan department
+		- parent: Pays de la Loire | Metropolitan region
+	- Sarthe | Metropolitan department
+		- parent: Pays de la Loire | Metropolitan region
+	- Arige | Metropolitan department
+		- parent: Midi-Pyrnes | Metropolitan region
+	- Loiret | Metropolitan department
+		- parent: Centre | Metropolitan region
+	- Savoie | Metropolitan department
+		- parent: Rhne-Alpes | Metropolitan region
+	- Aube | Metropolitan department
+		- parent: Champagne-Ardenne | Metropolitan region
+	- Lot | Metropolitan department
+		- parent: Midi-Pyrnes | Metropolitan region
+	- Seine-et-Marne | Metropolitan department
+		- parent: le-de-France | Metropolitan region
+	- Aude | Metropolitan department
+		- parent: Languedoc-Roussillon | Metropolitan region
+	- Lot-et-Garonne | Metropolitan department
+		- parent: Aquitaine | Metropolitan region
+	- Seine-Maritime | Metropolitan department
+		- parent: Haute-Normandie | Metropolitan region
+	- Alsace | Metropolitan region
+	- Aquitaine | Metropolitan region
+	- Aveyron | Metropolitan department
+		- parent: Midi-Pyrnes | Metropolitan region
+	- Lozre | Metropolitan department
+		- parent: Languedoc-Roussillon | Metropolitan region
+	- Seine-Saint-Denis | Metropolitan department
+		- parent: le-de-France | Metropolitan region
+	- Auvergne | Metropolitan region
+	- Bas-Rhin | Metropolitan department
+		- parent: Alsace | Metropolitan region
+	- Maine-et-Loire | Metropolitan department
+		- parent: Pays de la Loire | Metropolitan region
+	- Somme | Metropolitan department
+		- parent: Picardie | Metropolitan region
+	- Basse-Normandie | Metropolitan region
+	- Bourgogne | Metropolitan region
+	- Bouches-du-Rhne | Metropolitan department
+		- parent: Provence-Alpes-Cte d'Azur | Metropolitan region
+	- Manche | Metropolitan department
+		- parent: Basse-Normandie | Metropolitan region
+	- Tarn | Metropolitan department
+		- parent: Midi-Pyrnes | Metropolitan region
+	- Bretagne | Metropolitan region
+	- Calvados | Metropolitan department
+		- parent: Basse-Normandie | Metropolitan region
+	- Marne | Metropolitan department
+		- parent: Champagne-Ardenne | Metropolitan region
+	- Tarn-et-Garonne | Metropolitan department
+		- parent: Midi-Pyrnes | Metropolitan region
+	- Centre | Metropolitan region
+	- Champagne-Ardenne | Metropolitan region
+	- Cantal | Metropolitan department
+		- parent: Auvergne | Metropolitan region
+	- Mayenne | Metropolitan department
+		- parent: Pays de la Loire | Metropolitan region
+	- Territoire de Belfort | Metropolitan department
+		- parent: Franche-Comt | Metropolitan region
+	- Corse | Metropolitan region
+	- Charente | Metropolitan department
+		- parent: Poitou-Charentes | Metropolitan region
+	- Meurthe-et-Moselle | Metropolitan department
+		- parent: Lorraine | Metropolitan region
+	- Val-de-Marne | Metropolitan department
+		- parent: le-de-France | Metropolitan region
+	- Franche-Comt | Metropolitan region
+	- Haute-Normandie | Metropolitan region
+	- Charente-Maritime | Metropolitan department
+		- parent: Poitou-Charentes | Metropolitan region
+	- Meuse | Metropolitan department
+		- parent: Lorraine | Metropolitan region
+	- Val d'Oise | Metropolitan department
+		- parent: le-de-France | Metropolitan region
+	- le-de-France | Metropolitan region
+	- Cher | Metropolitan department
+		- parent: Centre | Metropolitan region
+	- Morbihan | Metropolitan department
+		- parent: Bretagne | Metropolitan region
+	- Var | Metropolitan department
+		- parent: Provence-Alpes-Cte d'Azur | Metropolitan region
+	- Languedoc-Roussillon | Metropolitan region
+	- Limousin | Metropolitan region
+	- Corrze | Metropolitan department
+		- parent: Limousin | Metropolitan region
+	- Moselle | Metropolitan department
+		- parent: Lorraine | Metropolitan region
+	- Vaucluse | Metropolitan department
+		- parent: Provence-Alpes-Cte d'Azur | Metropolitan region
+	- Lorraine | Metropolitan region
+	- Corse-du-Sud | Metropolitan department
+		- parent: Corse | Metropolitan region
+	- Nivre | Metropolitan department
+		- parent: Bourgogne | Metropolitan region
+	- Vende | Metropolitan department
+		- parent: Pays de la Loire | Metropolitan region
+	- Midi-Pyrnes | Metropolitan region
+	- Nord - Pas-de-Calais | Metropolitan region
+	- Cte-d'Or | Metropolitan department
+		- parent: Bourgogne | Metropolitan region
+	- Nord | Metropolitan department
+		- parent: Nord - Pas-de-Calais | Metropolitan region
+	- Vienne | Metropolitan department
+		- parent: Poitou-Charentes | Metropolitan region
+	- Pays de la Loire | Metropolitan region
+	- Ctes-d'Armor | Metropolitan department
+		- parent: Bretagne | Metropolitan region
+	- Oise | Metropolitan department
+		- parent: Picardie | Metropolitan region
+	- Vosges | Metropolitan department
+		- parent: Lorraine | Metropolitan region
+	- Picardie | Metropolitan region
+	- Poitou-Charentes | Metropolitan region
+	- Creuse | Metropolitan department
+		- parent: Limousin | Metropolitan region
+	- Orne | Metropolitan department
+		- parent: Basse-Normandie | Metropolitan region
+	- Yonne | Metropolitan department
+		- parent: Bourgogne | Metropolitan region
+	- Provence-Alpes-Cte d'Azur | Metropolitan region
+	- Deux-Svres | Metropolitan department
+		- parent: Poitou-Charentes | Metropolitan region
+	- Paris | Metropolitan department
+		- parent: le-de-France | Metropolitan region
+	- Yvelines | Metropolitan department
+		- parent: le-de-France | Metropolitan region
+	- Rhne-Alpes | Metropolitan region
+	- Ain | Metropolitan department
+		- parent: Rhne-Alpes | Metropolitan region
+	- Dordogne | Metropolitan department
+		- parent: Aquitaine | Metropolitan region
+	- Pas-de-Calais | Metropolitan department
+		- parent: Nord - Pas-de-Calais | Metropolitan region
+	- Guadeloupe | Overseas region/department
+	- Guyane | Overseas region/department
+	- Aisne | Metropolitan department
+		- parent: Picardie | Metropolitan region
+	- Doubs | Metropolitan department
+		- parent: Franche-Comt | Metropolitan region
+	- Puy-de-Dme | Metropolitan department
+		- parent: Auvergne | Metropolitan region
+	- Martinique | Overseas region/department
+	- Allier | Metropolitan department
+		- parent: Auvergne | Metropolitan region
+	- Drme | Metropolitan department
+		- parent: Rhne-Alpes | Metropolitan region
+	- Pyrnes-Atlantiques | Metropolitan department
+		- parent: Aquitaine | Metropolitan region
+	- Mayotte | Overseas region/department
+	- Runion | Overseas region/department
+	- Alpes-de-Haute-Provence | Metropolitan department
+		- parent: Provence-Alpes-Cte d'Azur | Metropolitan region
+	- Essonne | Metropolitan department
+		- parent: le-de-France | Metropolitan region
+	- Pyrnes-Orientales | Metropolitan department
+		- parent: Languedoc-Roussillon | Metropolitan region
+	- Clipperton | Dependency
+	- Eure | Metropolitan department
+		- parent: Haute-Normandie | Metropolitan region
+	- Nouvelle-Caldonie | Overseas territorial collectivity
+	- Polynsie franaise | Overseas territorial collectivity
+	- Eure-et-Loir | Metropolitan department
+		- parent: Centre | Metropolitan region
+	- Saint-Barthlemy | Overseas territorial collectivity
+	- Finistre | Metropolitan department
+		- parent: Bretagne | Metropolitan region
+	- Saint-Martin | Overseas territorial collectivity
+	- Saint-Pierre-et-Miquelon | Overseas territorial collectivity
+	- Gard | Metropolitan department
+		- parent: Languedoc-Roussillon | Metropolitan region
+	- Terres australes franaises | Overseas territorial collectivity
+	- Gers | Metropolitan department
+		- parent: Midi-Pyrnes | Metropolitan region
+	- Wallis-et-Futuna | Overseas territorial collectivity
+	- Gironde | Metropolitan department
+		- parent: Aquitaine | Metropolitan region
+	- Haute-Corse | Metropolitan department
+		- parent: Corse | Metropolitan region
+	- Haute-Garonne | Metropolitan department
+		- parent: Midi-Pyrnes | Metropolitan region
+	- Haute-Loire | Metropolitan department
+		- parent: Auvergne | Metropolitan region
+	- Haute-Marne | Metropolitan department
+		- parent: Champagne-Ardenne | Metropolitan region
+	- Hautes-Alpes | Metropolitan department
+		- parent: Provence-Alpes-Cte d'Azur | Metropolitan region
+	- Haute-Sane | Metropolitan department
+		- parent: Franche-Comt | Metropolitan region
+	- Haute-Savoie | Metropolitan department
+		- parent: Rhne-Alpes | Metropolitan region
+	- Hautes-Pyrnes | Metropolitan department
+		- parent: Midi-Pyrnes | Metropolitan region
+	- Haute-Vienne | Metropolitan department
+		- parent: Limousin | Metropolitan region
+	- Haut-Rhin | Metropolitan department
+		- parent: Alsace | Metropolitan region
+	- Hauts-de-Seine | Metropolitan department
+		- parent: le-de-France | Metropolitan region
+	- Hrault | Metropolitan department
+		- parent: Languedoc-Roussillon | Metropolitan region
+	- Ille-et-Vilaine | Metropolitan department
+		- parent: Bretagne | Metropolitan region
+	- Indre | Metropolitan department
+		- parent: Centre | Metropolitan region
+	- Indre-et-Loire | Metropolitan department
+		- parent: Centre | Metropolitan region
+	- Isre | Metropolitan department
+		- parent: Rhne-Alpes | Metropolitan region
+	- Jura | Metropolitan department
+		- parent: Franche-Comt | Metropolitan region
+	- Landes | Metropolitan department
+		- parent: Aquitaine | Metropolitan region
+French Guiana (GF)
+French Polynesia (PF)
+French Southern Territories (TF)
+Gabon (GA)
+	- Haut-Ogoou | Province
+	- Ogoou-Lolo | Province
+	- Moyen-Ogoou | Province
+	- Ogoou-Maritime | Province
+	- Ngouni | Province
+	- Woleu-Ntem | Province
+	- Nyanga | Province
+	- Estuaire | Province
+	- Ogoou-Ivindo | Province
+Gambia (GM)
+	- North Bank | Division
+	- Upper River | Division
+	- Western | Division
+	- Lower River | Division
+	- Banjul | City
+	- Central River | Division
+Georgia (GE)
+	- Abkhazia | Autonomous republic
+	- Kakheti | Region
+	- Samtskhe-Javakheti | Region
+	- Ajaria | Autonomous republic
+	- Kvemo Kartli | Region
+	- Shida Kartli | Region
+	- Tbilisi | City
+	- Mtskheta-Mtianeti | Region
+	- Guria | Region
+	- Racha-Lechkhumi-Kvemo Svaneti | Region
+	- Imereti | Region
+	- Samegrelo-Zemo Svaneti | Region
+Germany (DE)
+	- Brandenburg | State
+	- Bremen | State
+	- Rheinland-Pfalz | State
+	- Mecklenburg-Vorpommern | State
+	- Hamburg | State
+	- Saarland | State
+	- Sachsen | State
+	- Hessen | State
+	- Schleswig-Holstein | State
+	- Baden-Wrttemberg | State
+	- Sachsen-Anhalt | State
+	- Niedersachsen | State
+	- Berlin | State
+	- Bayern | State
+	- Thringen | State
+	- Nordrhein-Westfalen | State
+Ghana (GH)
+	- Central | Region
+	- Upper West | Region
+	- Eastern | Region
+	- Volta | Region
+	- Greater Accra | Region
+	- Western | Region
+	- Ashanti | Region
+	- Northern | Region
+	- Brong-Ahafo | Region
+	- Upper East | Region
+Gibraltar (GI)
+Greece (GR)
+	- Aitolia kai Akarnania | Department
+		- parent: Dytiki Ellada | Administrative region
+	- Kefallonia | Department
+		- parent: Ionia Nisia | Administrative region
+	- Evvoias | Department
+		- parent: Sterea Ellada | Administrative region
+	- Messinia | Department
+		- parent: Peloponnisos | Administrative region
+	- Xanthi | Department
+		- parent: Anatoliki Makedonia kai Thraki | Administrative region
+	- Argolida | Department
+		- parent: Peloponnisos | Administrative region
+	- Kerkyra | Department
+		- parent: Ionia Nisia | Administrative region
+	- Florina | Department
+		- parent: Dytiki Makedonia | Administrative region
+	- Pella | Department
+		- parent: Kentriki Makedonia | Administrative region
+	- Zakynthos | Department
+		- parent: Ionia Nisia | Administrative region
+	- Anatoliki Makedonia kai Thraki | Administrative region
+	- Arkadia | Department
+		- parent: Peloponnisos | Administrative region
+	- Kilkis | Department
+		- parent: Kentriki Makedonia | Administrative region
+	- Fokida | Department
+		- parent: Sterea Ellada | Administrative region
+	- Pieria | Department
+		- parent: Kentriki Makedonia | Administrative region
+	- Attiki | Administrative region
+	- Arta | Department
+		- parent: Ionia Nisia | Administrative region
+	- Korinthia | Department
+		- parent: Peloponnisos | Administrative region
+	- Dytiki Ellada | Administrative region
+	- Fthiotida | Department
+		- parent: Sterea Ellada | Administrative region
+	- Preveza | Department
+		- parent: Ipeiros | Administrative region
+	- Dytiki Makedonia | Administrative region
+	- Attiki | Department
+		- parent: Attiki | Administrative region
+	- Kozani | Department
+		- parent: Dytiki Makedonia | Administrative region
+	- Grevena | Department
+		- parent: Dytiki Makedonia | Administrative region
+	- Rethymno | Department
+		- parent: Kriti | Administrative region
+	- Ionia Nisia | Administrative region
+	- Chalkidiki | Department
+		- parent: Kentriki Makedonia | Administrative region
+	- Kyklades | Department
+		- parent: Notio Aigaio | Administrative region
+	- Ipeiros | Administrative region
+	- Ileia | Department
+		- parent: Dytiki Ellada | Administrative region
+	- Rodopi | Department
+		- parent: Anatoliki Makedonia kai Thraki | Administrative region
+	- Kentriki Makedonia | Administrative region
+	- Chania | Department
+		- parent: Kriti | Administrative region
+	- Lakonia | Department
+		- parent: Peloponnisos | Administrative region
+	- Imathia | Department
+		- parent: Kentriki Makedonia | Administrative region
+	- Samos | Department
+		- parent: Voreio Aigaio | Administrative region
+	- Kriti | Administrative region
+	- Chios | Department
+		- parent: Voreio Aigaio | Administrative region
+	- Larisa | Department
+		- parent: Thessalia | Administrative region
+	- Notio Aigaio | Administrative region
+	- Ioannina | Department
+		- parent: Ipeiros | Administrative region
+	- Serres | Department
+		- parent: Kentriki Makedonia | Administrative region
+	- Peloponnisos | Administrative region
+	- Dodekanisos | Department
+		- parent: Notio Aigaio | Administrative region
+	- Lasithi | Department
+		- parent: Kriti | Administrative region
+	- Irakleio | Department
+		- parent: Kriti | Administrative region
+	- Thesprotia | Department
+		- parent: Ipeiros | Administrative region
+	- Sterea Ellada | Administrative region
+	- Drama | Department
+		- parent: Anatoliki Makedonia kai Thraki | Administrative region
+	- Lefkada | Department
+		- parent: Ionia Nisia | Administrative region
+	- Thessalia | Administrative region
+	- Karditsa | Department
+		- parent: Thessalia | Administrative region
+	- Thessaloniki | Department
+		- parent: Kentriki Makedonia | Administrative region
+	- Voreio Aigaio | Administrative region
+	- Evros | Department
+		- parent: Anatoliki Makedonia kai Thraki | Administrative region
+	- Lesvos | Department
+		- parent: Voreio Aigaio | Administrative region
+	- Kastoria | Department
+		- parent: Dytiki Makedonia | Administrative region
+	- Trikala | Department
+		- parent: Thessalia | Administrative region
+	- Agio Oros | Self-governed part
+	- Evrytania | Department
+		- parent: Sterea Ellada | Administrative region
+	- Magnisia | Department
+		- parent: Thessalia | Administrative region
+	- Achaa | Department
+		- parent: Dytiki Ellada | Administrative region
+	- Kavala | Department
+		- parent: Anatoliki Makedonia kai Thraki | Administrative region
+	- Voiotia | Department
+		- parent: Sterea Ellada | Administrative region
+Greenland (GL)
+	- Qaasuitsup Kommunia | Municipality
+	- Kommuneqarfik Sermersooq | Municipality
+	- Kommune Kujalleq | Municipality
+	- Qeqqata Kommunia | Municipality
+Grenada (GD)
+	- Saint John | Parish
+	- Saint Mark | Parish
+	- Saint Andrew | Parish
+	- Saint Patrick | Parish
+	- Saint David | Parish
+	- Southern Grenadine Islands | Dependency
+	- Saint George | Parish
+Guadeloupe (GP)
+Guam (GU)
+Guatemala (GT)
+	- Sacatepquez | Department
+	- San Marcos | Department
+	- Santa Rosa | Department
+	- Alta Verapaz | Department
+	- Solol | Department
+	- Baja Verapaz | Department
+	- Suchitepquez | Department
+	- Chimaltenango | Department
+	- Totonicapn | Department
+	- Chiquimula | Department
+	- Zacapa | Department
+	- El Progreso | Department
+	- Escuintla | Department
+	- Guatemala | Department
+	- Huehuetenango | Department
+	- Izabal | Department
+	- Jalapa | Department
+	- Jutiapa | Department
+	- Petn | Department
+	- Quetzaltenango | Department
+	- Quich | Department
+	- Retalhuleu | Department
+Guernsey (GG)
+Guinea (GN)
+	- Dabola | Prefecture
+		- parent: Faranah | Governorate
+	- Pita | Prefecture
+		- parent: Mamou | Governorate
+	- Kissidougou | Prefecture
+		- parent: Faranah | Governorate
+	- Dalaba | Prefecture
+		- parent: Mamou | Governorate
+	- Siguiri | Prefecture
+		- parent: Kankan | Governorate
+	- Koubia | Prefecture
+		- parent: Lab | Governorate
+	- Dinguiraye | Prefecture
+		- parent: Faranah | Governorate
+	- Tliml | Prefecture
+		- parent: Kindia | Governorate
+	- Koundara | Prefecture
+		- parent: Bok | Governorate
+	- Bok | Governorate
+	- Dubrka | Prefecture
+		- parent: Kindia | Governorate
+	- Tougu | Prefecture
+		- parent: Lab | Governorate
+	- Kouroussa | Prefecture
+		- parent: Kankan | Governorate
+	- Faranah | Governorate
+	- Faranah | Prefecture
+		- parent: Faranah | Governorate
+	- Yomou | Prefecture
+		- parent: Nzrkor | Governorate
+	- Kankan | Governorate
+	- Lab | Prefecture
+		- parent: Lab | Governorate
+	- Kindia | Governorate
+	- Forcariah | Prefecture
+		- parent: Kindia | Governorate
+	- Llouma | Prefecture
+		- parent: Lab | Governorate
+	- Lab | Governorate
+	- Fria | Prefecture
+		- parent: Bok | Governorate
+	- Mamou | Governorate
+	- Lola | Prefecture
+		- parent: Nzrkor | Governorate
+	- Nzrkor | Governorate
+	- Gaoual | Prefecture
+		- parent: Bok | Governorate
+	- Macenta | Prefecture
+		- parent: Nzrkor | Governorate
+	- Conakry | Special zone
+	- Gukdou | Prefecture
+		- parent: Nzrkor | Governorate
+	- Beyla | Prefecture
+		- parent: Nzrkor | Governorate
+	- Mali | Prefecture
+		- parent: Lab | Governorate
+	- Kankan | Prefecture
+		- parent: Kankan | Governorate
+	- Boffa | Prefecture
+		- parent: Bok | Governorate
+	- Mamou | Prefecture
+		- parent: Mamou | Governorate
+	- Krouan | Prefecture
+		- parent: Kankan | Governorate
+	- Bok | Prefecture
+		- parent: Bok | Governorate
+	- Mandiana | Prefecture
+		- parent: Kankan | Governorate
+	- Kindia | Prefecture
+		- parent: Kindia | Governorate
+	- Coyah | Prefecture
+		- parent: Kindia | Governorate
+	- Nzrkor | Prefecture
+		- parent: Nzrkor | Governorate
+Guinea-Bissau (GW)
+	- Norte | Province
+	- Bolama | Region
+		- parent: Sul | Province
+	- Oio | Region
+		- parent: Norte | Province
+	- Sul | Province
+	- Quinara | Region
+		- parent: Sul | Province
+	- Bafat | Region
+		- parent: Leste | Province
+	- Cacheu | Region
+		- parent: Norte | Province
+	- Bissau | Autonomous sector
+	- Gab | Region
+		- parent: Leste | Province
+	- Leste | Province
+	- Biombo | Region
+		- parent: Norte | Province
+	- Tombali | Region
+		- parent: Sul | Province
+Guyana (GY)
+	- Essequibo Islands-West Demerara | Region
+	- Upper Takutu-Upper Essequibo | Region
+	- Barima-Waini | Region
+	- Mahaica-Berbice | Region
+	- Cuyuni-Mazaruni | Region
+	- Pomeroon-Supenaam | Region
+	- Demerara-Mahaica | Region
+	- Potaro-Siparuni | Region
+	- East Berbice-Corentyne | Region
+	- Upper Demerara-Berbice | Region
+Haiti (HT)
+	- Nord-Est | Department
+	- Artibonite | Department
+	- Nord-Ouest | Department
+	- Centre | Department
+	- Ouest | Department
+	- Grande-Anse | Department
+	- Sud | Department
+	- Nord | Department
+	- Sud-Est | Department
+Heard Island and McDonald Islands (HM)
+Holy See (Vatican City State) (VA)
+Honduras (HN)
+	- Francisco Morazn | Department
+	- Lempira | Department
+	- Copn | Department
+	- Yoro | Department
+	- Gracias a Dios | Department
+	- Ocotepeque | Department
+	- Atlntida | Department
+	- Corts | Department
+	- Intibuc | Department
+	- Olancho | Department
+	- Coln | Department
+	- Choluteca | Department
+	- Islas de la Baha | Department
+	- Santa Brbara | Department
+	- Comayagua | Department
+	- El Paraso | Department
+	- La Paz | Department
+	- Valle | Department
+Hong Kong (HK)
+Hungary (HU)
+	- Jsz-Nagykun-Szolnok | County
+	- Kecskemt | City with county rights
+	- Komrom-Esztergom | County
+	- Miskolc | City with county rights
+	- Ngrd | County
+	- Nagykanizsa | City with county rights
+	- Pest | County
+	- Nyregyhza | City with county rights
+	- Somogy | County
+	- Pcs | City with county rights
+	- Szabolcs-Szatmr-Bereg | County
+	- Salgtarjn | City with county rights
+	- Tolna | County
+	- Sopron | City with county rights
+	- Vas | County
+	- Szeged | City with county rights
+	- Veszprm (county) | County
+	- Szkesfehrvr | City with county rights
+	- Zala | County
+	- Bcs-Kiskun | County
+	- Szekszrd | City with county rights
+	- Bkscsaba | City with county rights
+	- Baranya | County
+	- Szolnok | City with county rights
+	- Debrecen | City with county rights
+	- Bks | County
+	- Szombathely | City with county rights
+	- Dunajvros | City with county rights
+	- Borsod-Abaj-Zempln | County
+	- Tatabnya | City with county rights
+	- Eger | City with county rights
+	- Csongrd | County
+	- Veszprm | City with county rights
+	- rd | City with county rights
+	- Fejr | County
+	- Zalaegerszeg | City with county rights
+	- Gyr | City with county rights
+	- Gyr-Moson-Sopron | County
+	- Budapest | Capital city
+	- Hdmezvsrhely | City with county rights
+	- Hajd-Bihar | County
+	- Kaposvr | City with county rights
+	- Heves | County
+Iceland (IS)
+	- Vesturland | Region
+	- Norurland vestra | Region
+	- Reykjavk | City
+	- Suurland | Region
+	- Austurland | Region
+	- Suurnes | Region
+	- Hfuborgarsvi | Region
+	- Vestfirir | Region
+	- Norurland eystra | Region
+India (IN)
+	- Goa | State
+	- Tamil Nadu | State
+	- Gujarat | State
+	- Tripura | State
+	- Haryana | State
+	- Uttarakhand | State
+	- Himachal Pradesh | State
+	- Uttar Pradesh | State
+	- Jammu and Kashmir | State
+	- West Bengal | State
+	- Jharkhand | State
+	- Andaman and Nicobar Islands | Union territory
+	- Karnataka | State
+	- Chandigarh | Union territory
+	- Kerala | State
+	- Dadra and Nagar Haveli | Union territory
+	- Madhya Pradesh | State
+	- Damen and Diu | Union territory
+	- Maharashtra | State
+	- Delhi | Union territory
+	- Manipur | State
+	- Lakshadweep | Union territory
+	- Meghalaya | State
+	- Puducherry | Union territory
+	- Mizoram | State
+	- Nagaland | State
+	- Andhra Pradesh | State
+	- Orissa | State
+	- Arunachal Pradesh | State
+	- Punjab | State
+	- Assam | State
+	- Rajasthan | State
+	- Bihar | State
+	- Sikkim | State
+	- Chhattisgarh | State
+Indonesia (ID)
+	- Maluku | Geographical unit
+	- Papua Barat | Province
+		- parent: Papua | Geographical unit
+	- Jawa Timur | Province
+		- parent: Jawa | Geographical unit
+	- Nusa Tenggara | Geographical unit
+	- Papua | Geographical unit
+	- Riau | Province
+		- parent: Sumatera | Geographical unit
+	- Kalimantan Barat | Province
+		- parent: Kalimantan | Geographical unit
+	- Sulawesi | Geographical unit
+	- Sulawesi Barat | Province
+		- parent: Sulawesi | Geographical unit
+	- Kalimantan Tengah | Province
+		- parent: Kalimantan | Geographical unit
+	- Sumatera | Geographical unit
+	- Aceh | Autonomous Province
+		- parent: Sumatera | Geographical unit
+	- Sulawesi Selatan | Province
+		- parent: Sulawesi | Geographical unit
+	- Kalimantan Selatan | Province
+		- parent: Kalimantan | Geographical unit
+	- Bali | Province
+		- parent: Nusa Tenggara | Geographical unit
+	- Sulawesi Tengah | Province
+		- parent: Sulawesi | Geographical unit
+	- Kalimantan Timur | Province
+		- parent: Kalimantan | Geographical unit
+	- Bangka Belitung | Province
+		- parent: Sumatera | Geographical unit
+	- Sulawesi Tenggara | Province
+		- parent: Sulawesi | Geographical unit
+	- Kepulauan Riau | Province
+		- parent: Sumatera | Geographical unit
+	- Banten | Province
+		- parent: Jawa | Geographical unit
+	- Sulawesi Utara | Province
+		- parent: Sulawesi | Geographical unit
+	- Lampung | Province
+		- parent: Sumatera | Geographical unit
+	- Bengkulu | Province
+		- parent: Sumatera | Geographical unit
+	- Sumatra Barat | Province
+		- parent: Sumatera | Geographical unit
+	- Maluku | Province
+		- parent: Maluku | Geographical unit
+	- Gorontalo | Province
+		- parent: Sulawesi | Geographical unit
+	- Sumatra Selatan | Province
+		- parent: Sumatera | Geographical unit
+	- Maluku Utara | Province
+		- parent: Maluku | Geographical unit
+	- Jambi | Province
+		- parent: Sumatera | Geographical unit
+	- Sumatera Utara | Province
+		- parent: Sumatera | Geographical unit
+	- Nusa Tenggara Barat | Province
+		- parent: Nusa Tenggara | Geographical unit
+	- Jawa Barat | Province
+		- parent: Jawa | Geographical unit
+	- Jakarta Raya | Special District
+		- parent: Jawa | Geographical unit
+	- Nusa Tenggara Timur | Province
+		- parent: Nusa Tenggara | Geographical unit
+	- Jawa | Geographical unit
+	- Jawa Tengah | Province
+		- parent: Jawa | Geographical unit
+	- Yogyakarta | Special Region
+		- parent: Jawa | Geographical unit
+	- Kalimantan | Geographical unit
+	- Papua | Province
+		- parent: Papua | Geographical unit
+Iran, Islamic Republic of (IR)
+	- Qom | Province
+	- Frs | Province
+	- Semnn | Province
+	- Gln | Province
+	- Sstn va Balchestn | Province
+	- Golestn | Province
+	- Tehrn | Province
+	- Hamadn | Province
+	- Yazd | Province
+	- Hormozgn | Province
+	- Zanjn | Province
+	- lm | Province
+	- Kermn | Province
+	- Kermnshh | Province
+	- Khorsn-e Janb | Province
+	- Khorsn-e Razav | Province
+	- Khorsn-e Sheml | Province
+	- Khzestn | Province
+	- Ardabl | Province
+	- Kohglyeh va Byer Ahmad | Province
+	- zarbyjn-e Gharb | Province
+	- Kordestn | Province
+	- zarbyjn-e Sharq | Province
+	- Lorestn | Province
+	- Bshehr | Province
+	- Markaz | Province
+	- Chahr Mahll va Bakhtr | Province
+	- Mzandarn | Province
+	- Efahn | Province
+	- Qazvn | Province
+Iraq (IQ)
+	- Dahuk | Governorate
+	- Al Basrah | Governorate
+	- Ninawa | Governorate
+	- As Sulaymaniyah | Governorate
+	- Dhi Qar | Governorate
+	- Al Muthanna | Governorate
+	- Salah ad Din | Governorate
+	- At Ta'mim | Governorate
+	- Diyala | Governorate
+	- Al Qadisiyah | Governorate
+	- Wasit | Governorate
+	- Babil | Governorate
+	- Karbala' | Governorate
+	- An Najef | Governorate
+	- Baghdad | Governorate
+	- Al Anbar | Governorate
+	- Maysan | Governorate
+	- Arbil | Governorate
+Ireland (IE)
+	- Kilkenny | County
+		- parent: Leinster | Province
+	- Tipperary | County
+		- parent: Munster | Province
+	- Connacht | Province
+	- Laois | County
+		- parent: Leinster | Province
+	- Leinster | Province
+	- Waterford | County
+		- parent: Munster | Province
+	- Munster | Province
+	- Leitrim | County
+		- parent: Connacht | Province
+	- Westmeath | County
+		- parent: Leinster | Province
+	- Ulster | Province
+	- Limerick | County
+		- parent: Munster | Province
+	- Carlow | County
+		- parent: Leinster | Province
+	- Wexford | County
+		- parent: Leinster | Province
+	- Longford | County
+		- parent: Leinster | Province
+	- Cavan | County
+		- parent: Ulster | Province
+	- Wicklow | County
+		- parent: Leinster | Province
+	- Louth | County
+		- parent: Leinster | Province
+	- Clare | County
+		- parent: Munster | Province
+	- Mayo | County
+		- parent: Connacht | Province
+	- Cork | County
+		- parent: Munster | Province
+	- Meath | County
+		- parent: Leinster | Province
+	- Donegal | County
+		- parent: Ulster | Province
+	- Monaghan | County
+		- parent: Ulster | Province
+	- Dublin | County
+		- parent: Leinster | Province
+	- Offaly | County
+		- parent: Leinster | Province
+	- Galway | County
+		- parent: Connacht | Province
+	- Roscommon | County
+		- parent: Connacht | Province
+	- Kerry | County
+		- parent: Munster | Province
+	- Sligo | County
+		- parent: Connacht | Province
+	- Kildare | County
+		- parent: Leinster | Province
+Isle of Man (IM)
+Israel (IL)
+	- HaMerkaz | District
+	- HaZafon | District
+	- Hefa | District
+	- Tel-Aviv | District
+	- HaDarom | District
+	- Yerushalayim Al Quds | District
+Italy (IT)
+	- Rimini | Province
+		- parent: Emilia-Romagna | Region
+	- Biella | Province
+		- parent: Piemonte | Region
+	- Roma | Province
+		- parent: Lazio | Region
+	- Viterbo | Province
+		- parent: Lazio | Region
+	- Bologna | Province
+		- parent: Emilia-Romagna | Region
+	- Rovigo | Province
+		- parent: Veneto | Region
+	- Bolzano | Province
+		- parent: Trentino-Alto Adige | Region
+	- Salerno | Province
+		- parent: Campania | Region
+	- Brescia | Province
+		- parent: Lombardia | Region
+	- Sassari | Province
+		- parent: Sardegna | Region
+	- Brindisi | Province
+		- parent: Puglia | Region
+	- Savona | Province
+		- parent: Liguria | Region
+	- Cagliari | Province
+		- parent: Sardegna | Region
+	- Siena | Province
+		- parent: Toscana | Region
+	- Caltanissetta | Province
+		- parent: Sicilia | Region
+	- Siracusa | Province
+		- parent: Sicilia | Region
+	- Campobasso | Province
+		- parent: Molise | Region
+	- Sondrio | Province
+		- parent: Lombardia | Region
+	- Carbonia-Iglesias | Province
+		- parent: Sardegna | Region
+	- Taranto | Province
+		- parent: Puglia | Region
+	- Caserta | Province
+		- parent: Campania | Region
+	- Teramo | Province
+		- parent: Abruzzo | Region
+	- Catania | Province
+		- parent: Sicilia | Region
+	- Terni | Province
+		- parent: Umbria | Region
+	- Catanzaro | Province
+		- parent: Calabria | Region
+	- Torino | Province
+		- parent: Piemonte | Region
+	- Chieti | Province
+		- parent: Abruzzo | Region
+	- Trapani | Province
+		- parent: Sicilia | Region
+	- Como | Province
+		- parent: Lombardia | Region
+	- Trento | Province
+		- parent: Trentino-Alto Adige | Region
+	- Cosenza | Province
+		- parent: Calabria | Region
+	- Treviso | Province
+		- parent: Veneto | Region
+	- Cremona | Province
+		- parent: Lombardia | Region
+	- Trieste | Province
+		- parent: Friuli-Venezia Giulia | Region
+	- Crotone | Province
+		- parent: Calabria | Region
+	- Udine | Province
+		- parent: Friuli-Venezia Giulia | Region
+	- Cuneo | Province
+		- parent: Piemonte | Region
+	- Varese | Province
+		- parent: Lombardia | Region
+	- Enna | Province
+		- parent: Sicilia | Region
+	- Venezia | Province
+		- parent: Veneto | Region
+	- Fermo | Province
+		- parent: Marche | Region
+	- Verbano-Cusio-Ossola | Province
+		- parent: Piemonte | Region
+	- Ferrara | Province
+		- parent: Emilia-Romagna | Region
+	- Vercelli | Province
+		- parent: Piemonte | Region
+	- Firenze | Province
+		- parent: Toscana | Region
+	- Verona | Province
+		- parent: Veneto | Region
+	- Foggia | Province
+		- parent: Puglia | Region
+	- Vibo Valentia | Province
+		- parent: Calabria | Region
+	- Forl-Cesena | Province
+		- parent: Emilia-Romagna | Region
+	- Vicenza | Province
+		- parent: Veneto | Region
+	- Campania | Region
+	- Frosinone | Province
+		- parent: Lazio | Region
+	- Novara | Province
+		- parent: Piemonte | Region
+	- Emilia-Romagna | Region
+	- Friuli-Venezia Giulia | Region
+	- Genova | Province
+		- parent: Liguria | Region
+	- Nuoro | Province
+		- parent: Sardegna | Region
+	- Lazio | Region
+	- Gorizia | Province
+		- parent: Friuli-Venezia Giulia | Region
+	- Ogliastra | Province
+		- parent: Sardegna | Region
+	- Liguria | Region
+	- Lombardia | Region
+	- Grosseto | Province
+		- parent: Toscana | Region
+	- Olbia-Tempio | Province
+		- parent: Sardegna | Region
+	- Marche | Region
+	- Imperia | Province
+		- parent: Liguria | Region
+	- Oristano | Province
+		- parent: Sardegna | Region
+	- Molise | Region
+	- Piemonte | Region
+	- Isernia | Province
+		- parent: Molise | Region
+	- Padova | Province
+		- parent: Veneto | Region
+	- Puglia | Region
+	- La Spezia | Province
+		- parent: Liguria | Region
+	- Palermo | Province
+		- parent: Sicilia | Region
+	- Sardegna | Region
+	- Sicilia | Region
+	- L'Aquila | Province
+		- parent: Abruzzo | Region
+	- Parma | Province
+		- parent: Emilia-Romagna | Region
+	- Toscana | Region
+	- Latina | Province
+		- parent: Lazio | Region
+	- Pavia | Province
+		- parent: Lombardia | Region
+	- Trentino-Alto Adige | Region
+	- Umbria | Region
+	- Lecce | Province
+		- parent: Puglia | Region
+	- Perugia | Province
+		- parent: Umbria | Region
+	- Valle d'Aosta | Region
+	- Lecco | Province
+		- parent: Lombardia | Region
+	- Pesaro e Urbino | Province
+		- parent: Marche | Region
+	- Veneto | Region
+	- Livorno | Province
+		- parent: Toscana | Region
+	- Agrigento | Province
+		- parent: Sicilia | Region
+	- Pescara | Province
+		- parent: Abruzzo | Region
+	- Alessandria | Province
+		- parent: Piemonte | Region
+	- Lodi | Province
+		- parent: Lombardia | Region
+	- Piacenza | Province
+		- parent: Emilia-Romagna | Region
+	- Ancona | Province
+		- parent: Marche | Region
+	- Lucca | Province
+		- parent: Toscana | Region
+	- Pisa | Province
+		- parent: Toscana | Region
+	- Aosta | Province
+		- parent: Valle d'Aosta | Region
+	- Macerata | Province
+		- parent: Marche | Region
+	- Pistoia | Province
+		- parent: Toscana | Region
+	- Arezzo | Province
+		- parent: Toscana | Region
+	- Mantova | Province
+		- parent: Lombardia | Region
+	- Pordenone | Province
+		- parent: Friuli-Venezia Giulia | Region
+	- Ascoli Piceno | Province
+		- parent: Marche | Region
+	- Massa-Carrara | Province
+		- parent: Toscana | Region
+	- Potenza | Province
+		- parent: Basilicata | Region
+	- Asti | Province
+		- parent: Piemonte | Region
+	- Matera | Province
+		- parent: Basilicata | Region
+	- Prato | Province
+		- parent: Toscana | Region
+	- Avellino | Province
+		- parent: Campania | Region
+	- Medio Campidano | Province
+		- parent: Sardegna | Region
+	- Ragusa | Province
+		- parent: Sicilia | Region
+	- Bari | Province
+		- parent: Puglia | Region
+	- Messina | Province
+		- parent: Sicilia | Region
+	- Ravenna | Province
+		- parent: Emilia-Romagna | Region
+	- Barletta-Andria-Trani | Province
+		- parent: Puglia | Region
+	- Milano | Province
+		- parent: Lombardia | Region
+	- Reggio Calabria | Province
+		- parent: Calabria | Region
+	- Belluno | Province
+		- parent: Veneto | Region
+	- Modena | Province
+		- parent: Emilia-Romagna | Region
+	- Reggio Emilia | Province
+		- parent: Emilia-Romagna | Region
+	- Abruzzo | Region
+	- Benevento | Province
+		- parent: Campania | Region
+	- Monza e Brianza | Province
+		- parent: Lombardia | Region
+	- Rieti | Province
+		- parent: Lazio | Region
+	- Basilicata | Region
+	- Napoli | Province
+		- parent: Campania | Region
+	- Calabria | Region
+	- Bergamo | Province
+		- parent: Lombardia | Region
+Jamaica (JM)
+	- Saint Ann | Parish
+	- Saint Thomas | Parish
+	- Kingston | Parish
+	- Saint Catherine | Parish
+	- Trelawny | Parish
+	- Manchester | Parish
+	- Saint Elizabeth | Parish
+	- Westmoreland | Parish
+	- Portland | Parish
+	- Saint James | Parish
+	- Clarendon | Parish
+	- Saint Andrew | Parish
+	- Saint Mary | Parish
+	- Hanover | Parish
+Japan (JP)
+	- Nagasaki | Prefecture
+	- Gifu | Prefecture
+	- Yamagata | Prefecture
+	- Nara | Prefecture
+	- Gunma | Prefecture
+	- Yamaguchi | Prefecture
+	- Niigata | Prefecture
+	- Hiroshima | Prefecture
+	- Yamanashi | Prefecture
+	- Oita | Prefecture
+	- Hokkaido | Prefecture
+	- Okayama | Prefecture
+	- Hyogo | Prefecture
+	- Okinawa | Prefecture
+	- Ibaraki | Prefecture
+	- Osaka | Prefecture
+	- Ishikawa | Prefecture
+	- Saga | Prefecture
+	- Iwate | Prefecture
+	- Saitama | Prefecture
+	- Kagawa | Prefecture
+	- Shiga | Prefecture
+	- Kagoshima | Prefecture
+	- Aichi | Prefecture
+	- Shimane | Prefecture
+	- Kanagawa | Prefecture
+	- Akita | Prefecture
+	- Shizuoka | Prefecture
+	- Kochi | Prefecture
+	- Aomori | Prefecture
+	- Tochigi | Prefecture
+	- Kumamoto | Prefecture
+	- Chiba | Prefecture
+	- Tokushima | Prefecture
+	- Kyoto | Prefecture
+	- Ehime | Prefecture
+	- Tokyo | Prefecture
+	- Mie | Prefecture
+	- Fukui | Prefecture
+	- Tottori | Prefecture
+	- Miyagi | Prefecture
+	- Fukuoka | Prefecture
+	- Toyama | Prefecture
+	- Miyazaki | Prefecture
+	- Fukushima | Prefecture
+	- Wakayama | Prefecture
+	- Nagano | Prefecture
+Jersey (JE)
+Jordan (JO)
+	- A aflah | Governorate
+	- Mdab | Governorate
+	- Al Balq' | Governorate
+	- Az Zarq' | Governorate
+	- Al Karak | Governorate
+	- Irbid | Governorate
+	- Al Mafraq | Governorate
+	- Jarash | Governorate
+	- Ajln | Governorate
+	- Ammn (Al Aimah) | Governorate
+	- Man | Governorate
+	- Al Aqabah | Governorate
+Kazakhstan (KZ)
+	- Qyzylorda oblysy | Region
+	- Ongtstik Qazaqstan oblysy | Region
+	- Shyghys Qazaqstan oblysy | Region
+	- Almaty | City
+	- Aqtbe oblysy | Region
+	- Pavlodar oblysy | Region
+	- Soltstik Quzaqstan oblysy | Region
+	- Atyra oblysy | Region
+	- Astana | City
+	- Qaraghandy oblysy | Region
+	- Zhambyl oblysy | Region
+	- Almaty oblysy | Region
+	- Batys Quzaqstan oblysy | Region
+	- Qostanay oblysy | Region
+	- Aqmola oblysy | Region
+	- Mangghysta oblysy | Region
+Kenya (KE)
+	- Rift Valley | Province
+	- Central | Province
+	- Western Magharibi | Province
+	- Coast | Province
+	- Eastern | Province
+	- North-Eastern Kaskazini Mashariki | Province
+	- Nairobi Municipality | Province
+Kiribati (KI)
+	- Phoenix Islands | Island group
+	- Line Islands | Island group
+	- Gilbert Islands | Island group
+Korea, Democratic People's Republic of (KP)
+	- Hamgyng-bukto | Province
+	- Hwanghae-namdo | Province
+	- Yanggang-do | Province
+	- Nasn (Najin-Snbong) | Special city
+	- Hwanghae-bukto | Province
+	- Pyngan-namdo | Province
+	- Kangwn-do | Province
+	- Pyngan-bukto | Province
+	- Hamgyng-namdo | Province
+	- Chagang-do | Province
+	- Pyngyang | Capital city
+Korea, Republic of (KR)
+	- Gyeongsangnamdo | Province
+	- Daejeon Gwang'yeogsi | Metropolitan cities
+	- Chungcheongnamdo | Province
+	- Jejudo | Province
+	- Gwangju Gwang'yeogsi | Metropolitan cities
+	- Gang'weondo | Province
+	- Seoul Teugbyeolsi | Capital Metropolitan City
+	- Jeonrabukdo | Province
+	- Incheon Gwang'yeogsi | Metropolitan cities
+	- Gyeonggido | Province
+	- Busan Gwang'yeogsi | Metropolitan cities
+	- Jeonranamdo | Province
+	- Ulsan Gwang'yeogsi | Metropolitan cities
+	- Gyeongsangbukdo | Province
+	- Daegu Gwang'yeogsi | Metropolitan cities
+	- Chungcheongbukdo | Province
+Kuwait (KW)
+	- Mubrak al Kabr | Governorate
+	- Al Farwnyah | Governorate
+	- Al Jahrr | Governorate
+	- Al Kuwayt (Al imah) | Governorate
+	- Hawall | Governorate
+	- Al Ahmadi | Governorate
+Kyrgyzstan (KG)
+	- Jalal-Abad | Region
+	- Naryn | Region
+	- Bishkek | City
+	- Osh | Region
+	- Batken | Region
+	- Talas | Region
+	- Ch | Region
+	- Ysyk-Kl | Region
+Lao People's Democratic Republic (LA)
+	- Phngsali | Province
+	- Attapu | Province
+	- Xkong | Province
+	- Khammouan | Province
+	- Salavan | Province
+	- Boko | Province
+	- Xiangkhoang | Province
+	- Louang Namtha | Province
+	- Savannakht | Province
+	- Bolikhamxai | Province
+	- Xiasmboun | Special zone
+	- Louangphabang | Province
+	- Vientiane | Province
+	- Champasak | Province
+	- Oudmxai | Province
+	- Vientiane | Prefecture
+	- Xaignabouli | Province
+	- Houaphan | Province
+Latvia (LV)
+	- Salas novads | Municipality
+	- Salacgrvas novads | Municipality
+	- Salaspils novads | Municipality
+	- Saldus novads | Municipality
+	- Saulkrastu novads | Municipality
+	- Sjas novads | Municipality
+	- Siguldas novads | Municipality
+	- Skrveru novads | Municipality
+	- Skrundas novads | Municipality
+	- Smiltenes novads | Municipality
+	- Stopiu novads | Municipality
+	- Strenu novads | Municipality
+	- Talsu novads | Municipality
+	- Trvetes novads | Municipality
+	- Tukuma novads | Municipality
+	- Vaiodes novads | Municipality
+	- Valkas novads | Municipality
+	- Varaknu novads | Municipality
+	- Vrkavas novads | Municipality
+	- Vecpiebalgas novads | Municipality
+	- Vecumnieku novads | Municipality
+	- Ventspils novads | Municipality
+	- Viestes novads | Municipality
+	- Viakas novads | Municipality
+	- Aglonas novads | Municipality
+	- Vinu novads | Municipality
+	- Aizkraukles novads | Municipality
+	- Zilupes novads | Municipality
+	- Aizputes novads | Municipality
+	- Daugavpils | Republican City
+	- Aknstes novads | Municipality
+	- Jelgava | Republican City
+	- Alojas novads | Municipality
+	- Jkabpils | Republican City
+	- Alsungas novads | Municipality
+	- Jrmala | Republican City
+	- Alksnes novads | Municipality
+	- Liepja | Republican City
+	- Amatas novads | Municipality
+	- Rzekne | Republican City
+	- Apes novads | Municipality
+	- Rga | Republican City
+	- Auces novads | Municipality
+	- Valmiera | Republican City
+	- dau novads | Municipality
+	- Ventspils | Republican City
+	- Babtes novads | Municipality
+	- Baldones novads | Municipality
+	- Krustpils novads | Municipality
+	- Baltinavas novads | Municipality
+	- Kuldgas novads | Municipality
+	- Balvu novads | Municipality
+	- eguma novads | Municipality
+	- Bauskas novads | Municipality
+	- ekavas novads | Municipality
+	- Bevernas novads | Municipality
+	- Lielvrdes novads | Municipality
+	- Brocnu novads | Municipality
+	- Limbau novads | Municipality
+	- Burtnieku novads | Municipality
+	- Lgatnes novads | Municipality
+	- Carnikavas novads | Municipality
+	- Lvnu novads | Municipality
+	- Cesvaines novads | Municipality
+	- Lubnas novads | Municipality
+	- Csu novads | Municipality
+	- Ludzas novads | Municipality
+	- Ciblas novads | Municipality
+	- Madonas novads | Municipality
+	- Dagdas novads | Municipality
+	- Mazsalacas novads | Municipality
+	- Daugavpils novads | Municipality
+	- Mlpils novads | Municipality
+	- Dobeles novads | Municipality
+	- Mrupes novads | Municipality
+	- Dundagas novads | Municipality
+	- Mrsraga novads | Municipality
+	- Durbes novads | Municipality
+	- Nauknu novads | Municipality
+	- Engures novads | Municipality
+	- Neretas novads | Municipality
+	- rgu novads | Municipality
+	- Ncas novads | Municipality
+	- Garkalnes novads | Municipality
+	- Ogres novads | Municipality
+	- Grobias novads | Municipality
+	- Olaines novads | Municipality
+	- Gulbenes novads | Municipality
+	- Ozolnieku novads | Municipality
+	- Iecavas novads | Municipality
+	- Prgaujas novads | Municipality
+	- Ikiles novads | Municipality
+	- Pvilostas novads | Municipality
+	- Ilkstes novads | Municipality
+	- Paviu novads | Municipality
+	- Inukalna novads | Municipality
+	- Preiu novads | Municipality
+	- Jaunjelgavas novads | Municipality
+	- Priekules novads | Municipality
+	- Jaunpiebalgas novads | Municipality
+	- Priekuu novads | Municipality
+	- Jaunpils novads | Municipality
+	- Raunas novads | Municipality
+	- Jelgavas novads | Municipality
+	- Rzeknes novads | Municipality
+	- Jkabpils novads | Municipality
+	- Riebiu novads | Municipality
+	- Kandavas novads | Municipality
+	- Rojas novads | Municipality
+	- Krsavas novads | Municipality
+	- Ropau novads | Municipality
+	- Kocnu novads | Municipality
+	- Rucavas novads | Municipality
+	- Kokneses novads | Municipality
+	- Rugju novads | Municipality
+	- Krslavas novads | Municipality
+	- Rundles novads | Municipality
+	- Krimuldas novads | Municipality
+	- Rjienas novads | Municipality
+Lebanon (LB)
+	- Beyrouth | Governorate
+	- Liban-Nord | Governorate
+	- Aakkr | Governorate
+	- Liban-Sud | Governorate
+	- Baalbek-Hermel | Governorate
+	- Mont-Liban | Governorate
+	- Bqaa | Governorate
+	- Nabaty | Governorate
+Lesotho (LS)
+	- Mafeteng | District
+	- Quthing | District
+	- Maseru | District
+	- Thaba-Tseka | District
+	- Berea | District
+	- Mohale's Hoek | District
+	- Butha-Buthe | District
+	- Mokhotlong | District
+	- Leribe | District
+	- Qacha's Nek | District
+Liberia (LR)
+	- Grand Cape Mount | County
+	- Maryland | County
+	- Sinoe | County
+	- Grand Gedeh | County
+	- Montserrado | County
+	- Bomi | County
+	- Grand Kru | County
+	- Nimba | County
+	- Bong | County
+	- Lofa | County
+	- Rivercess | County
+	- Grand Bassa | County
+	- Margibi | County
+Libya (LY)
+	- Surt | Popularates
+	- Al Jabal al Akhar | Popularates
+	- arbulus | Popularates
+	- Al Jabal al Gharb | Popularates
+	- Wd al ayt | Popularates
+	- Al Jifrah | Popularates
+	- Wd ash Shi | Popularates
+	- Al Jufrah | Popularates
+	- Al Kufrah | Popularates
+	- Al Marj | Popularates
+	- Al Marqab | Popularates
+	- Al Wt | Popularates
+	- An Nuqa al Khams | Popularates
+	- Az Zwiyah | Popularates
+	- Banghz | Popularates
+	- Darnah | Popularates
+	- Ght | Popularates
+	- Jaghbb | Popularates
+	- Mirtah | Popularates
+	- Murzuq | Popularates
+	- Nlt | Popularates
+	- Al Bunn | Popularates
+	- Sabh | Popularates
+Liechtenstein (LI)
+	- Eschen | Commune
+	- Vaduz | Commune
+	- Gamprin | Commune
+	- Schaan | Commune
+	- Mauren | Commune
+	- Schellenberg | Commune
+	- Planken | Commune
+	- Triesen | Commune
+	- Balzers | Commune
+	- Ruggell | Commune
+	- Triesenberg | Commune
+Lithuania (LT)
+	- Teli Apskritis | County
+	- Marijampols Apskritis | County
+	- Utenos Apskritis | County
+	- Panevio Apskritis | County
+	- Vilniaus Apskritis | County
+	- Alytaus Apskritis | County
+	- iauli Apskritis | County
+	- Kauno Apskritis | County
+	- Taurags Apskritis | County
+	- Klaipdos Apskritis | County
+Luxembourg (LU)
+	- Luxembourg | District
+	- Grevenmacher | District
+	- Diekirch | District
+Macao (MO)
+Macedonia, Republic of (MK)
+	- Petrovec | Municipality
+	- Tetovo | Municipality
+	- Demir Kapija | Municipality
+	- Plasnica | Municipality
+	- Arainovo | Municipality
+	- Kratovo | Municipality
+	- Valandovo | Municipality
+	- Dojran | Municipality
+	- Prilep | Municipality
+	- Berovo | Municipality
+	- Kriva Palanka | Municipality
+	- Vasilevo | Municipality
+	- Dolneni | Municipality
+	- Probitip | Municipality
+	- Bitola | Municipality
+	- Krivogatani | Municipality
+	- Veles | Municipality
+	- Drugovo | Municipality
+	- Radovi | Municipality
+	- Bogdanci | Municipality
+	- Kruevo | Municipality
+	- Vevani | Municipality
+	- Gazi Baba | Municipality
+	- Rankovce | Municipality
+	- Bogovinje | Municipality
+	- Kumanovo | Municipality
+	- Vinica | Municipality
+	- Gevgelija | Municipality
+	- Resen | Municipality
+	- Bosilovo | Municipality
+	- Lipkovo | Municipality
+	- Vranetica | Municipality
+	- Gjore Petrov | Municipality
+	- Rosoman | Municipality
+	- Brvenica | Municipality
+	- Lozovo | Municipality
+	- Vrapite | Municipality
+	- Gostivar | Municipality
+	- Saraj | Municipality
+	- Butel | Municipality
+	- Makedonska Kamenica | Municipality
+	- Zajas | Municipality
+	- Gradsko | Municipality
+	- Sopite | Municipality
+	- Centar | Municipality
+	- Makedonski Brod | Municipality
+	- Zelenikovo | Municipality
+	- Ilinden | Municipality
+	- Staro Nagoriane | Municipality
+	- Centar upa | Municipality
+	- Mavrovo-i-Rostua | Municipality
+	- Zrnovci | Municipality
+	- Jegunovce | Municipality
+	- Struga | Municipality
+	- air | Municipality
+	- Mogila | Municipality
+	- elino | Municipality
+	- Karbinci | Municipality
+	- Strumica | Municipality
+	- aka | Municipality
+	- Negotino | Municipality
+	- Karpo | Municipality
+	- Studeniani | Municipality
+	- einovo-Obleevo | Municipality
+	- Novaci | Municipality
+	- Kavadarci | Municipality
+	- Sveti Nikole | Municipality
+	- uer Sandevo | Municipality
+	- Novo Selo | Municipality
+	- Kievo | Municipality
+	- tip | Municipality
+	- Debar | Municipality
+	- Ohrid | Municipality
+	- Kisela Voda | Municipality
+	- uto Orizari | Municipality
+	- Debarca | Municipality
+	- Oslomej | Municipality
+	- Koani | Municipality
+	- Tearce | Municipality
+	- Delevo | Municipality
+	- Pehevo | Municipality
+	- Aerodrom | Municipality
+	- Kone | Municipality
+	- Demir Hisar | Municipality
+Madagascar (MG)
+	- Toamasina | Autonomous province
+	- Antananarivo | Autonomous province
+	- Toliara | Autonomous province
+	- Antsiranana | Autonomous province
+	- Fianarantsoa | Autonomous province
+	- Mahajanga | Autonomous province
+Malawi (MW)
+	- Chikwawa | District
+		- parent: Southern Region | Region
+	- Thyolo | District
+		- parent: Southern Region | Region
+	- Mulanje | District
+		- parent: Southern Region | Region
+	- Chiradzulu | District
+		- parent: Southern Region | Region
+	- Zomba | District
+		- parent: Southern Region | Region
+	- Mwanza | District
+		- parent: Southern Region | Region
+	- Chitipa | District
+		- parent: Northern Region | Region
+	- Mzimba | District
+		- parent: Northern Region | Region
+	- Dedza | District
+		- parent: Central Region | Region
+	- Neno | District
+		- parent: Northern Region | Region
+	- Dowa | District
+		- parent: Central Region | Region
+	- Nkhata Bay | District
+		- parent: Northern Region | Region
+	- Karonga | District
+		- parent: Northern Region | Region
+	- Nkhotakota | District
+		- parent: Central Region | Region
+	- Kasungu | District
+		- parent: Central Region | Region
+	- Nsanje | District
+		- parent: Southern Region | Region
+	- Likoma | District
+		- parent: Northern Region | Region
+	- Ntcheu | District
+		- parent: Central Region | Region
+	- Lilongwe | District
+		- parent: Central Region | Region
+	- Central Region | Region
+	- Ntchisi | District
+		- parent: Central Region | Region
+	- Northern Region | Region
+	- Machinga | District
+		- parent: Southern Region | Region
+	- Phalombe | District
+		- parent: Southern Region | Region
+	- Southern Region | Region
+	- Mangochi | District
+		- parent: Southern Region | Region
+	- Balaka | District
+		- parent: Southern Region | Region
+	- Rumphi | District
+		- parent: Northern Region | Region
+	- Mchinji | District
+		- parent: Central Region | Region
+	- Blantyre | District
+		- parent: Southern Region | Region
+	- Salima | District
+		- parent: Central Region | Region
+Malaysia (MY)
+	- Selangor | State
+	- Kelantan | State
+	- Perlis | State
+	- Wilayah Persekutuan Labuan | Federal Territories
+	- Terengganu | State
+	- Melaka | State
+	- Pulau Pinang | State
+	- Wilayah Persekutuan Putrajaya | Federal Territories
+	- Negeri Sembilan | State
+	- Sabah | State
+	- Johor | State
+	- Pahang | State
+	- Sarawak | State
+	- Kedah | State
+	- Perak | State
+	- Wilayah Persekutuan Kuala Lumpur | Federal Territories
+Maldives (MV)
+	- Alifu Alifu | Administrative atoll
+		- parent: North Central | Province
+	- Lhaviyani | Administrative atoll
+		- parent: North | Province
+	- Alifu Dhaalu | Administrative atoll
+		- parent: North Central | Province
+	- Meemu | Administrative atoll
+		- parent: Central | Province
+	- Baa | Administrative atoll
+		- parent: North | Province
+	- Noonu | Administrative atoll
+		- parent: North | Province
+	- Dhaalu | Administrative atoll
+		- parent: Central | Province
+	- Raa | Administrative atoll
+		- parent: North | Province
+	- Faafu | Administrative atoll
+		- parent: Central | Province
+	- Seenu | Administrative atoll
+		- parent: South | Province
+	- Gaafu Alifu | Administrative atoll
+		- parent: South Central | Province
+	- Shaviyani | Administrative atoll
+		- parent: Upper North | Province
+	- Gaafu Dhaalu | Administrative atoll
+		- parent: South Central | Province
+	- Thaa | Administrative atoll
+		- parent: Upper South | Province
+	- Male | City
+	- Gnaviyani | Administrative atoll
+		- parent: South | Province
+	- Vaavu | Administrative atoll
+		- parent: North Central | Province
+	- South | Province
+	- Haa Alifu | Administrative atoll
+		- parent: Upper North | Province
+	- Upper South | Province
+	- Upper North | Province
+	- Haa Dhaalu | Administrative atoll
+		- parent: Upper North | Province
+	- Central | Province
+	- Kaafu | Administrative atoll
+		- parent: North Central | Province
+	- South Central | Province
+	- North Central | Province
+	- Laamu | Administrative atoll
+		- parent: Upper South | Province
+	- North | Province
+Mali (ML)
+	- Kayes | Region
+	- Sikasso | Region
+	- Kidal | Region
+	- Tombouctou | Region
+	- Koulikoro | Region
+	- Bamako | District
+	- Mopti | Region
+	- Gao | Region
+	- Sgou | Region
+Malta (MT)
+	- Swieqi | Local council
+	- Kerem | Local council
+	- Ta Xbiex | Local council
+	- Birkirkara | Local council
+	- Pembroke | Local council
+	- Kirkop | Local council
+	- Tarxien | Local council
+	- Birebbua | Local council
+	- Piet | Local council
+	- Lija | Local council
+	- Valletta | Local council
+	- Bormla | Local council
+	- Qala | Local council
+	- Luqa | Local council
+	- Xagra | Local council
+	- Dingli | Local council
+	- Qormi | Local council
+	- Marsa | Local council
+	- Xewkija | Local council
+	- Fgura | Local council
+	- Qrendi | Local council
+	- Marsaskala | Local council
+	- Xgajra | Local council
+	- Floriana | Local council
+	- Rabat Gawdex | Local council
+	- Marsaxlokk | Local council
+	- abbar | Local council
+	- Fontana | Local council
+	- Rabat Malta | Local council
+	- Mdina | Local council
+	- ebbu Gawdex | Local council
+	- Gudja | Local council
+	- Safi | Local council
+	- Melliea | Local council
+	- ebbu Malta | Local council
+	- Gira | Local council
+	- San iljan | Local council
+	- Marr | Local council
+	- ejtun | Local council
+	- Gajnsielem | Local council
+	- San wann | Local council
+	- Mosta | Local council
+	- urrieq | Local council
+	- Garb | Local council
+	- San Lawrenz | Local council
+	- Mqabba | Local council
+	- Gargur | Local council
+	- San Pawl il-Baar | Local council
+	- Msida | Local council
+	- Gasri | Local council
+	- Sannat | Local council
+	- Mtarfa | Local council
+	- Gaxaq | Local council
+	- Santa Luija | Local council
+	- Munxar | Local council
+	- amrun | Local council
+	- Santa Venera | Local council
+	- Attard | Local council
+	- Nadur | Local council
+	- Iklin | Local council
+	- Siiewi | Local council
+	- Balzan | Local council
+	- Naxxar | Local council
+	- Isla | Local council
+	- Sliema | Local council
+	- Birgu | Local council
+	- Paola | Local council
+	- Kalkara | Local council
+Marshall Islands (MH)
+	- Majuro | Municipality
+		- parent: Ratak chain | Chains (of islands)
+	- Ailuk | Municipality
+		- parent: Ratak chain | Chains (of islands)
+	- Maloelap | Municipality
+		- parent: Ratak chain | Chains (of islands)
+	- Arno | Municipality
+		- parent: Ratak chain | Chains (of islands)
+	- Mejit | Municipality
+		- parent: Ratak chain | Chains (of islands)
+	- Aur | Municipality
+		- parent: Ratak chain | Chains (of islands)
+	- Mili | Municipality
+		- parent: Ratak chain | Chains (of islands)
+	- Ebon | Municipality
+		- parent: Ralik chain | Chains (of islands)
+	- Namdrik | Municipality
+		- parent: Ralik chain | Chains (of islands)
+	- Enewetak | Municipality
+		- parent: Ralik chain | Chains (of islands)
+	- Namu | Municipality
+		- parent: Ralik chain | Chains (of islands)
+	- Jabat | Municipality
+		- parent: Ralik chain | Chains (of islands)
+	- Rongelap | Municipality
+		- parent: Ralik chain | Chains (of islands)
+	- Jaluit | Municipality
+		- parent: Ralik chain | Chains (of islands)
+	- Ujae | Municipality
+		- parent: Ralik chain | Chains (of islands)
+	- Kili | Municipality
+		- parent: Ralik chain | Chains (of islands)
+	- Utirik | Municipality
+		- parent: Ratak chain | Chains (of islands)
+	- Kwajalein | Municipality
+		- parent: Ralik chain | Chains (of islands)
+	- Wotho | Municipality
+		- parent: Ralik chain | Chains (of islands)
+	- Lae | Municipality
+		- parent: Ralik chain | Chains (of islands)
+	- Ralik chain | Chains (of islands)
+	- Wotje | Municipality
+		- parent: Ratak chain | Chains (of islands)
+	- Lib | Municipality
+		- parent: Ralik chain | Chains (of islands)
+	- Ratak chain | Chains (of islands)
+	- Ailinglaplap | Municipality
+		- parent: Ralik chain | Chains (of islands)
+	- Likiep | Municipality
+		- parent: Ratak chain | Chains (of islands)
+Martinique (MQ)
+Mauritania (MR)
+	- Tiris Zemmour | Region
+	- Assaba | Region
+	- Hodh ech Chargui | Region
+	- Trarza | Region
+	- Brakna | Region
+	- Hodh el Charbi | Region
+	- Dakhlet Nouadhibou | Region
+	- Inchiri | Region
+	- Nouakchott | District
+	- Gorgol | Region
+	- Tagant | Region
+	- Adrar | Region
+	- Guidimaka | Region
+Mauritius (MU)
+	- Rivire du Rempart | District
+	- Port Louis | City
+	- Moka | District
+	- Savanne | District
+	- Quatre Bornes | City
+	- Rodrigues Island | Dependency
+	- Pamplemousses | District
+	- Vacoas-Phoenix | City
+	- Black River | District
+	- Plaines Wilhems | District
+	- Beau Bassin-Rose Hill | City
+	- Agalega Islands | Dependency
+	- Flacq | District
+	- Port Louis | District
+	- Curepipe | City
+	- Cargados Carajos Shoals | Dependency
+	- Grand Port | District
+Mayotte (YT)
+Mexico (MX)
+	- Michoacn | State
+	- Morelos | State
+	- Nayarit | State
+	- Distrito Federal | Federal district
+	- Nuevo Len | State
+	- Aguascalientes | State
+	- Oaxaca | State
+	- Baja California | State
+	- Puebla | State
+	- Baja California Sur | State
+	- Quertaro | State
+	- Campeche | State
+	- Quintana Roo | State
+	- Coahuila | State
+	- San Luis Potos | State
+	- Colima | State
+	- Sinaloa | State
+	- Chiapas | State
+	- Sonora | State
+	- Chihuahua | State
+	- Tabasco | State
+	- Durango | State
+	- Tamaulipas | State
+	- Guanajuato | State
+	- Tlaxcala | State
+	- Guerrero | State
+	- Veracruz | State
+	- Hidalgo | State
+	- Yucatn | State
+	- Jalisco | State
+	- Zacatecas | State
+	- Mxico | State
+Micronesia, Federated States of (FM)
+	- Yap | State
+	- Pohnpei | State
+	- Kosrae | State
+	- Chuuk | State
+Moldova, Republic of (MD)
+	- Dondueni | District
+	- oldneti | District
+	- Drochia | District
+	- tefan Vod | District
+	- Dubsari | District
+	- Taraclia | District
+	- Edine | District
+	- Teleneti | District
+	- Fleti | District
+	- Ungheni | District
+	- Floreti | District
+	- Gguzia, Unitatea teritorial autonom | Autonomous territorial unit
+	- Stnga Nistrului, unitatea teritorial din | Territorial unit
+	- Glodeni | District
+	- Bli | City
+	- Hnceti | District
+	- Tighina | City
+	- Ialoveni | District
+	- Chiinu | City
+	- Leova | District
+	- Anenii Noi | District
+	- Nisporeni | District
+	- Basarabeasca | District
+	- Ocnia | District
+	- Briceni | District
+	- Orhei | District
+	- Cahul | District
+	- Rezina | District
+	- Cantemir | District
+	- Rcani | District
+	- Clrai | District
+	- Sngerei | District
+	- Cueni | District
+	- Soroca | District
+	- Cimilia | District
+	- Streni | District
+	- Criuleni | District
+Monaco (MC)
+	- Malbousquet | Quarter
+	- Vallon de la Rousse | Quarter
+	- La Colle | Quarter
+	- Monaco-Ville | Quarter
+	- Port-Hercule | Quarter
+	- La Gare | Quarter
+	- Moneghetti | Quarter
+	- La Condamine | Quarter
+	- Saint-Roman | Quarter
+	- La Source | Quarter
+	- Monte-Carlo | Quarter
+	- Fontvieille | Quarter
+	- Sainte-Dvote | Quarter
+	- Larvotto | Quarter
+	- Moulins | Quarter
+	- Jardin Exotique | Quarter
+	- Splugues | Quarter
+Mongolia (MN)
+	- Govi-Sumber | Municipality
+	- Bayan-lgiy | Province
+	- Orhon | Municipality
+	- Bulgan | Province
+	- Dornod | Province
+	- Dornogovi | Province
+	- Dundgovi | Province
+	- Dzavhan | Province
+	- Govi-Altay | Province
+	- Hentiy | Province
+	- Hovd | Province
+	- Hvsgl | Province
+	- mngovi | Province
+	- vrhangay | Province
+	- Selenge | Province
+	- Shbaatar | Province
+	- Tv | Province
+	- Uvs | Province
+	- Arhangay | Province
+	- Ulanbaatar | Municipality
+	- Bayanhongor | Province
+	- Darhan uul | Municipality
+Montenegro (ME)
+	- Berane | Municipality
+	- Roaje | Municipality
+	- Herceg-Novi | Municipality
+	- Plav | Municipality
+	- Bijelo Polje | Municipality
+	- avnik | Municipality
+	- Kolain | Municipality
+	- Pljevlja | Municipality
+	- Budva | Municipality
+	- Tivat | Municipality
+	- Kotor | Municipality
+	- Andrijevica | Municipality
+	- Pluine | Municipality
+	- Cetinje | Municipality
+	- Ulcinj | Municipality
+	- Mojkovac | Municipality
+	- Bar | Municipality
+	- Podgorica | Municipality
+	- Danilovgrad | Municipality
+	- abljak | Municipality
+	- Niki | Municipality
+Montserrat (MS)
+Morocco (MA)
+	- Tanger-Ttouan | Economic region
+	- Chtouka-Ait Baha | Province
+		- parent: Sous-Massa-Draa | Economic region
+	- Sefrou | Province
+		- parent: Fs-Boulemane | Economic region
+	- Khemisaet | Province
+		- parent: Rabat-Sal-Zemmour-Zaer | Economic region
+	- Aousserd | Prefecture
+		- parent: Oued ed Dahab-Lagouira | Economic region
+	- Sidi Youssef Ben Ali | Prefecture
+		- parent: Marrakech-Tensift-Al Haouz | Economic region
+	- Taza-Al Hoceima-Taounate | Economic region
+	- El Hajeb | Province
+		- parent: Mekns-Tafilalet | Economic region
+	- Settat | Province
+		- parent: Chaouia-Ouardigha | Economic region
+	- Al Haouz | Province
+		- parent: Marrakech-Tensift-Al Haouz | Economic region
+	- Khenifra | Province
+		- parent: Mekns-Tafilalet | Economic region
+	- Casablanca [Dar el Beda] | Prefecture
+		- parent: Grand Casablanca | Economic region
+	- Skhirate-Tmara | Prefecture
+		- parent: Rabat-Sal-Zemmour-Zaer | Economic region
+	- El Jadida | Province
+		- parent: Doukhala-Abda | Economic region
+	- Sidl Kacem | Province
+		- parent: Gharb-Chrarda-Beni Hssen | Economic region
+	- Al Hocema | Province
+		- parent: Taza-Al Hoceima-Taounate | Economic region
+	- Chaouia-Ouardigha | Economic region
+	- Khouribga | Province
+		- parent: Chaouia-Ouardigha | Economic region
+	- Fahs-Beni Makada | Prefecture
+		- parent: Tanger-Ttouan | Economic region
+	- Tanger-Assilah | Prefecture
+		- parent: Tanger-Ttouan | Economic region
+	- Doukhala-Abda | Economic region
+	- Errachidia | Province
+		- parent: Mekns-Tafilalet | Economic region
+	- Assa-Zag | Province
+		- parent: Guelmim-Es Smara | Economic region
+	- Layoune (EH) | Province
+		- parent: Layoune-Boujdour-Sakia el Hamra | Economic region
+	- Tan-Tan | Province
+		- parent: Guelmim-Es Smara | Economic region
+	- Fs-Dar-Dbibegh | Prefecture
+		- parent: Fs-Boulemane | Economic region
+	- Ttouan | Prefecture
+		- parent: Tanger-Ttouan | Economic region
+	- Fs-Boulemane | Economic region
+	- Essaouira | Province
+		- parent: Marrakech-Tensift-Al Haouz | Economic region
+	- Taounate | Province
+		- parent: Taza-Al Hoceima-Taounate | Economic region
+	- Azilal | Province
+		- parent: Tadla-Azilal | Economic region
+	- Gharb-Chrarda-Beni Hssen | Economic region
+	- Larache | Province
+		- parent: Tanger-Ttouan | Economic region
+	- Inezgane-Ait Melloul | Prefecture
+		- parent: Sous-Massa-Draa | Economic region
+	- Grand Casablanca | Economic region
+	- Es Smara (EH) | Province
+		- parent: Guelmim-Es Smara | Economic region
+	- Beni Mellal | Province
+		- parent: Tadla-Azilal | Economic region
+	- Mdiouna | Province
+		- parent: Grand Casablanca | Economic region
+	- Taourirt | Province
+		- parent: L'Oriental | Economic region
+	- Marrakech-Medina | Prefecture
+		- parent: Marrakech-Tensift-Al Haouz | Economic region
+	- Guelmim-Es Smara | Economic region
+	- Figuig | Province
+		- parent: L'Oriental | Economic region
+	- Taroudant | Province
+		- parent: Sous-Massa-Draa | Economic region
+	- Ben Slimane | Province
+		- parent: Chaouia-Ouardigha | Economic region
+	- Layoune-Boujdour-Sakia el Hamra | Economic region
+	- Moulay Yacoub | Province
+		- parent: Fs-Boulemane | Economic region
+	- Marrakech-Menara | Prefecture
+		- parent: Marrakech-Tensift-Al Haouz | Economic region
+	- L'Oriental | Economic region
+	- Guelmim | Province
+		- parent: Guelmim-Es Smara | Economic region
+	- Berkane | Province
+		- parent: L'Oriental | Economic region
+	- Nador | Province
+		- parent: L'Oriental | Economic region
+	- Tata | Province
+		- parent: Guelmim-Es Smara | Economic region
+	- Mekns | Prefecture
+		- parent: Mekns-Tafilalet | Economic region
+	- Marrakech-Tensift-Al Haouz | Economic region
+	- Ifrane | Province
+		- parent: Mekns-Tafilalet | Economic region
+	- Taza | Province
+		- parent: Taza-Al Hoceima-Taounate | Economic region
+	- Boujdour (EH) | Province
+		- parent: Layoune-Boujdour-Sakia el Hamra | Economic region
+	- Mekns-Tafilalet | Economic region
+	- Nouaceur | Province
+		- parent: Grand Casablanca | Economic region
+	- Mohammadia | Prefecture
+		- parent: Grand Casablanca | Economic region
+	- Oued ed Dahab-Lagouira | Economic region
+	- Jrada | Province
+		- parent: L'Oriental | Economic region
+	- Boulemane | Province
+		- parent: Fs-Boulemane | Economic region
+	- Ouarzazate | Province
+		- parent: Sous-Massa-Draa | Economic region
+	- Tiznit | Province
+		- parent: Sous-Massa-Draa | Economic region
+	- Oujda-Angad | Prefecture
+		- parent: L'Oriental | Economic region
+	- Rabat-Sal-Zemmour-Zaer | Economic region
+	- Kelaat es Sraghna | Province
+		- parent: Marrakech-Tensift-Al Haouz | Economic region
+	- Zagora | Province
+		- parent: Sous-Massa-Draa | Economic region
+	- Chefchaouen | Province
+		- parent: Tanger-Ttouan | Economic region
+	- Sous-Massa-Draa | Economic region
+	- Oued ed Dahab (EH) | Province
+		- parent: Oued ed Dahab-Lagouira | Economic region
+	- Rabat | Prefecture
+		- parent: Rabat-Sal-Zemmour-Zaer | Economic region
+	- Tadla-Azilal | Economic region
+	- Knitra | Province
+		- parent: Gharb-Chrarda-Beni Hssen | Economic region
+	- Chichaoua | Province
+		- parent: Marrakech-Tensift-Al Haouz | Economic region
+	- Safi | Province
+		- parent: Doukhala-Abda | Economic region
+	- Agadir-Ida-Outanane | Prefecture
+		- parent: Sous-Massa-Draa | Economic region
+	- Sal | Prefecture
+		- parent: Rabat-Sal-Zemmour-Zaer | Economic region
+Mozambique (MZ)
+	- Niassa | Province
+	- Inhambane | Province
+	- Sofala | Province
+	- Manica | Province
+	- Maputo (city) | City
+	- Tete | Province
+	- Maputo | Province
+	- Cabo Delgado | Province
+	- Zambezia | Province
+	- Gaza | Province
+	- Numpula | Province
+Myanmar (MM)
+	- Mon | State
+	- Magway | Division
+	- Chin | State
+	- Rakhine | State
+	- Mandalay | Division
+	- Kachin | State
+	- Shan | State
+	- Sagaing | Division
+	- Kayah | State
+	- Ayeyarwady | Division
+	- Tanintharyi | Division
+	- Kayin | State
+	- Bago | Division
+	- Yangon | Division
+Namibia (NA)
+	- Caprivi | Region
+	- Kunene | Region
+	- Oshana | Region
+	- Erongo | Region
+	- Ohangwena | Region
+	- Oshikoto | Region
+	- Hardap | Region
+	- Okavango | Region
+	- Otjozondjupa | Region
+	- Karas | Region
+	- Omaheke | Region
+	- Khomas | Region
+	- Omusati | Region
+Nauru (NR)
+	- Baiti | District
+	- Ijuw | District
+	- Aiwo | District
+	- Boe | District
+	- Meneng | District
+	- Anabar | District
+	- Buada | District
+	- Nibok | District
+	- Anetan | District
+	- Denigomodu | District
+	- Uaboe | District
+	- Anibare | District
+	- Ewa | District
+	- Yaren | District
+Nepal (NP)
+	- Karnali | zone
+		- parent: Madhya Pashchimanchal | Development region
+	- Dhawalagiri | zone
+		- parent: Pashchimanchal | Development region
+	- Mahakali | zone
+		- parent: Sudur Pashchimanchal | Development region
+	- Rapti | zone
+		- parent: Madhya Pashchimanchal | Development region
+	- Sudur Pashchimanchal | Development region
+	- Madhyamanchal | Development region
+	- Mechi | zone
+		- parent: Purwanchal | Development region
+	- Gandaki | zone
+		- parent: Pashchimanchal | Development region
+	- Bagmati | zone
+		- parent: Madhyamanchal | Development region
+	- Kosi | zone
+		- parent: Purwanchal | Development region
+	- Sagarmatha | zone
+		- parent: Purwanchal | Development region
+	- Madhya Pashchimanchal | Development region
+	- Lumbini | zone
+		- parent: Pashchimanchal | Development region
+	- Bheri | zone
+		- parent: Madhya Pashchimanchal | Development region
+	- Pashchimanchal | Development region
+	- Janakpur | zone
+		- parent: Madhyamanchal | Development region
+	- Narayani | zone
+		- parent: Madhyamanchal | Development region
+	- Seti | zone
+		- parent: Sudur Pashchimanchal | Development region
+	- Purwanchal | Development region
+Netherlands (NL)
+	- Zuid-Holland | Province
+	- Friesland | Province
+	- Saba | Special municipality
+	- Noord-Holland | Province
+	- Aruba | Country
+	- Gelderland | Province
+	- Sint Eustatius | Special municipality
+	- Overijssel | Province
+	- Curaao | Country
+	- Groningen | Province
+	- Utrecht | Province
+	- Drenthe | Province
+	- Sint Maarten | Country
+	- Limburg | Province
+	- Zeeland | Province
+	- Flevoland | Province
+	- Bonaire | Special municipality
+	- Noord-Brabant | Province
+New Caledonia (NC)
+New Zealand (NZ)
+	- Wellington | Regional council
+		- parent: North Island | Island
+	- Marlborough District | Unitary authority
+		- parent: South Island | Island
+	- Chatham Islands Territory | Special island authority
+	- North Island | Island
+	- Northland | Regional council
+		- parent: North Island | Island
+	- Canterbury | Regional council
+		- parent: South Island | Island
+	- Taranaki | Regional council
+		- parent: North Island | Island
+	- West Coast | Regional council
+		- parent: South Island | Island
+	- Nelson City | Unitary authority
+		- parent: South Island | Island
+	- South Island | Island
+	- Waikato | Regional council
+		- parent: North Island | Island
+	- Hawke's Bay | Regional council
+		- parent: North Island | Island
+	- Auckland | Regional council
+		- parent: North Island | Island
+	- Otago | Regional council
+		- parent: South Island | Island
+	- Gisborne District | Unitary authority
+		- parent: North Island | Island
+	- Tasman District | Unitary authority
+		- parent: South Island | Island
+	- Southland | Regional council
+		- parent: South Island | Island
+	- Bay of Plenty | Regional council
+		- parent: North Island | Island
+	- Manawatu-Wanganui | Regional council
+		- parent: North Island | Island
+Nicaragua (NI)
+	- Rivas | Department
+	- Carazo | Department
+	- Masaya | Department
+	- Atlntico Norte | Autonomous Region
+	- Chinandega | Department
+	- Jinotega | Department
+	- Matagalpa | Department
+	- Atlntico Sur | Autonomous Region
+	- Chontales | Department
+	- Len | Department
+	- Nueva Segovia | Department
+	- Estel | Department
+	- Madriz | Department
+	- Ro San Juan | Department
+	- Boaco | Department
+	- Granada | Department
+	- Managua | Department
+Niger (NE)
+	- Agadez | Department
+	- Tillabri | Department
+	- Diffa | Department
+	- Zinder | Department
+	- Dosso | Department
+	- Maradi | Department
+	- Niamey | Capital District
+	- Tahoua | Department
+Nigeria (NG)
+	- Nassarawa | State
+	- Benue | State
+	- Niger | State
+	- Borno | State
+	- Ogun | State
+	- Cross River | State
+	- Ondo | State
+	- Delta | State
+	- Osun | State
+	- Ebonyi | State
+	- Oyo | State
+	- Edo | State
+	- Plateau | State
+	- Ekiti | State
+	- Rivers | State
+	- Enugu | State
+	- Sokoto | State
+	- Gombe | State
+	- Taraba | State
+	- Imo | State
+	- Yobe | State
+	- Jigawa | State
+	- Abuja Capital Territory | Capital Territory
+	- Zamfara | State
+	- Kaduna | State
+	- Abia | State
+	- Kano | State
+	- Adamawa | State
+	- Katsina | State
+	- Akwa Ibom | State
+	- Kebbi | State
+	- Anambra | State
+	- Kogi | State
+	- Bauchi | State
+	- Kwara | State
+	- Bayelsa | State
+	- Lagos | State
+Niue (NU)
+Norfolk Island (NF)
+Northern Mariana Islands (MP)
+Norway (NO)
+	- Troms | County
+	- Buskerud | County
+	- Svalbard (Arctic Region) | Arctic Region
+	- Rogaland | County
+	- Vest-Agder | County
+	- Finnmark | County
+	- Nordland | County
+	- Sogn og Fjordane | County
+	- Vestfold | County
+	- Hedmark | County
+	- Nord-Trndelag | County
+	- Sr-Trndelag | County
+	- Akershus | County
+	- stfold | County
+	- Hordaland | County
+	- Oppland | County
+	- Telemark | County
+	- Aust-Agder | County
+	- Jan Mayen (Arctic Region) | Arctic Region
+	- Mre og Romsdal | County
+	- Oslo | County
+Oman (OM)
+	- Az Zhirah | Region
+	- Ad Dkhilya | Region
+	- Al Buraym | Governorate
+	- Al Binah | Region
+	- Masqa | Governorate
+	- Al Wus | Region
+	- Musandam | Governorate
+	- Ash Sharqyah | Region
+	- Zufr | Governorate
+Pakistan (PK)
+	- Gilgit-Baltistan | Area
+	- Punjab | Province
+	- Sindh | Province
+	- Islamabad | Capital territory
+	- Federally Administered Tribal Areas | Territory
+	- Balochistan | Province
+	- Khyber Pakhtunkhwa | Province
+	- Azad Kashmir | Area
+Palau (PW)
+	- Ngatpang | State
+	- Airai | State
+	- Melekeok | State
+	- Ngchesar | State
+	- Angaur | State
+	- Sonsorol | State
+	- Ngaraard | State
+	- Ngeremlengui | State
+	- Hatobohei | State
+	- Ngarchelong | State
+	- Ngiwal | State
+	- Kayangel | State
+	- Ngardmau | State
+	- Aimeliik | State
+	- Peleliu | State
+	- Koror | State
+Palestine, State of (PS)
+	- Qalqilya | Governorate
+	- Deir El Balah | Governorate
+	- Jerusalem | Governorate
+	- Rafah | Governorate
+	- Gaza | Governorate
+	- Tulkarm | Governorate
+	- Khan Yunis | Governorate
+	- Ramallah | Governorate
+	- Hebron | Governorate
+	- Nablus | Governorate
+	- Salfit | Governorate
+	- Jenin | Governorate
+	- North Gaza | Governorate
+	- Bethlehem | Governorate
+	- Tubas | Governorate
+	- Jericho - Al Aghwar | Governorate
+Panama (PA)
+	- Darin | Province
+	- Ember | Indigenous region
+	- Bocas del Toro | Province
+	- Herrera | Province
+	- Kuna Yala | Indigenous region
+	- Chiriqu | Province
+	- Los Santos | Province
+	- Ngbe-Bugl | Indigenous region
+	- Cocl | Province
+	- Panam | Province
+	- Coln | Province
+	- Veraguas | Province
+Papua New Guinea (PG)
+	- Morobe | Province
+	- Chimbu | Province
+	- Gulf | Province
+	- New Ireland | Province
+	- Eastern Highlands | Province
+	- Western | Province
+	- Madang | Province
+	- Northern | Province
+	- East New Britain | Province
+	- Western Highlands | Province
+	- Manus | Province
+	- National Capital District (Port Moresby) | District
+	- Sandaun | Province
+	- East Sepik | Province
+	- West New Britain | Province
+	- Milne Bay | Province
+	- Central | Province
+	- Southern Highlands | Province
+	- Enga | Province
+	- Bougainville | Autonomous region
+Paraguay (PY)
+	- Canindey | Department
+	- Itapa | Department
+	- Amambay | Department
+	- San Pedro | Department
+	- Central | Department
+	- Misiones | Department
+	- Boquern | Department
+	- Concepcin | Department
+	- Asuncin | Capital district
+	- eembuc | Department
+	- Caaguaz | Department
+	- Cordillera | Department
+	- Alto Paraguay | Department
+	- Paraguar | Department
+	- Caazap | Department
+	- Guair | Department
+	- Alto Paran | Department
+	- Presidente Hayes | Department
+Peru (PE)
+	- Tumbes | Region
+	- Ayacucho | Region
+	- Ucayali | Region
+	- Cajamarca | Region
+	- Cusco [Cuzco] | Region
+	- Huancavelica | Region
+	- Hunuco | Region
+	- Ica | Region
+	- Junn | Region
+	- La Libertad | Region
+	- Lambayeque | Region
+	- Lima | Region
+	- Loreto | Region
+	- Madre de Dios | Region
+	- El Callao | Constitutional province
+	- Moquegua | Region
+	- Municipalidad Metropolitana de Lima | Municipality
+	- Pasco | Region
+	- Amazonas | Region
+	- Piura | Region
+	- Ancash | Region
+	- Puno | Region
+	- Apurmac | Region
+	- San Martn | Region
+	- Arequipa | Region
+	- Tacna | Region
+Philippines (PH)
+	- Batanes | Province
+		- parent: Cagayan Valley (Region II) | Region
+	- Batangas | Province
+		- parent: CALABARZON (Region IV-A) | Region
+	- Benguet | Province
+		- parent: Cordillera Administrative Region (CAR) | Region
+	- Autonomous Region in Muslim Mindanao (ARMM) | Region
+	- Biliran | Province
+		- parent: Eastern Visayas (Region VIII) | Region
+	- Bicol (Region V) | Region
+	- Cagayan Valley (Region II) | Region
+	- Bohol | Province
+		- parent: Central Visayas (Region VII) | Region
+	- CALABARZON (Region IV-A) | Region
+	- Bukidnon | Province
+		- parent: Northern Mindanao (Region X) | Region
+	- Caraga (Region XIII) | Region
+	- Central Luzon (Region III) | Region
+	- Bulacan | Province
+		- parent: Central Luzon (Region III) | Region
+	- Central Visayas (Region VII) | Region
+	- Cagayan | Province
+		- parent: Cagayan Valley (Region II) | Region
+	- Cordillera Administrative Region (CAR) | Region
+	- Eastern Visayas (Region VIII) | Region
+	- Camarines Norte | Province
+		- parent: Bicol (Region V) | Region
+	- Ilocos (Region I) | Region
+	- Camarines Sur | Province
+		- parent: Bicol (Region V) | Region
+	- MIMAROPA (Region IV-B) | Region
+	- National Capital Region | Region
+	- Camiguin | Province
+		- parent: Northern Mindanao (Region X) | Region
+	- Northern Mindanao (Region X) | Region
+	- Capiz | Province
+		- parent: Western Visayas (Region VI) | Region
+	- Davao (Region XI) | Region
+	- Soccsksargen (Region XII) | Region
+	- Catanduanes | Province
+		- parent: Bicol (Region V) | Region
+	- Western Visayas (Region VI) | Region
+	- Cavite | Province
+		- parent: CALABARZON (Region IV-A) | Region
+	- Zamboanga Peninsula (Region IX) | Region
+	- Abra | Province
+		- parent: Cordillera Administrative Region (CAR) | Region
+	- Cebu | Province
+		- parent: Central Visayas (Region VII) | Region
+	- Agusan del Norte | Province
+		- parent: Caraga (Region XIII) | Region
+	- Compostela Valley | Province
+		- parent: Davao (Region XI) | Region
+	- Agusan del Sur | Province
+		- parent: Caraga (Region XIII) | Region
+	- Davao del Norte | Province
+		- parent: Davao (Region XI) | Region
+	- Aklan | Province
+		- parent: Western Visayas (Region VI) | Region
+	- Davao del Sur | Province
+		- parent: Davao (Region XI) | Region
+	- Albay | Province
+		- parent: Bicol (Region V) | Region
+	- Davao Oriental | Province
+		- parent: Davao (Region XI) | Region
+	- Antique | Province
+		- parent: Western Visayas (Region VI) | Region
+	- Dinagat Islands | Province
+		- parent: Caraga (Region XIII) | Region
+	- Apayao | Province
+		- parent: Cordillera Administrative Region (CAR) | Region
+	- Eastern Samar | Province
+		- parent: Eastern Visayas (Region VIII) | Region
+	- Aurora | Province
+		- parent: Central Luzon (Region III) | Region
+	- Guimaras | Province
+		- parent: Western Visayas (Region VI) | Region
+	- Basilan | Province
+		- parent: Zamboanga Peninsula (Region IX) | Region
+	- Ifugao | Province
+		- parent: Cordillera Administrative Region (CAR) | Region
+	- Batasn | Province
+		- parent: Central Luzon (Region III) | Region
+	- Ilocos Norte | Province
+		- parent: Ilocos (Region I) | Region
+	- Ilocos Sur | Province
+		- parent: Ilocos (Region I) | Region
+	- Pampanga | Province
+		- parent: Central Luzon (Region III) | Region
+	- Iloilo | Province
+		- parent: Western Visayas (Region VI) | Region
+	- Pangasinan | Province
+		- parent: Ilocos (Region I) | Region
+	- Isabela | Province
+		- parent: Cagayan Valley (Region II) | Region
+	- Quezon | Province
+		- parent: CALABARZON (Region IV-A) | Region
+	- Kalinga-Apayso | Province
+		- parent: Cordillera Administrative Region (CAR) | Region
+	- Quirino | Province
+		- parent: Cagayan Valley (Region II) | Region
+	- Laguna | Province
+		- parent: CALABARZON (Region IV-A) | Region
+	- Rizal | Province
+		- parent: CALABARZON (Region IV-A) | Region
+	- Lanao del Norte | Province
+		- parent: Soccsksargen (Region XII) | Region
+	- Romblon | Province
+		- parent: MIMAROPA (Region IV-B) | Region
+	- Lanao del Sur | Province
+		- parent: Autonomous Region in Muslim Mindanao (ARMM) | Region
+	- Sarangani | Province
+		- parent: Davao (Region XI) | Region
+	- La Union | Province
+		- parent: Ilocos (Region I) | Region
+	- Siquijor | Province
+		- parent: Central Visayas (Region VII) | Region
+	- Leyte | Province
+		- parent: Eastern Visayas (Region VIII) | Region
+	- Sorsogon | Province
+		- parent: Bicol (Region V) | Region
+	- Maguindanao | Province
+		- parent: Autonomous Region in Muslim Mindanao (ARMM) | Region
+	- South Cotabato | Province
+		- parent: Davao (Region XI) | Region
+	- Marinduque | Province
+		- parent: MIMAROPA (Region IV-B) | Region
+	- Southern Leyte | Province
+		- parent: Eastern Visayas (Region VIII) | Region
+	- Masbate | Province
+		- parent: Bicol (Region V) | Region
+	- Sultan Kudarat | Province
+		- parent: Soccsksargen (Region XII) | Region
+	- Mindoro Occidental | Province
+		- parent: MIMAROPA (Region IV-B) | Region
+	- Sulu | Province
+		- parent: Autonomous Region in Muslim Mindanao (ARMM) | Region
+	- Mindoro Oriental | Province
+		- parent: MIMAROPA (Region IV-B) | Region
+	- Surigao del Norte | Province
+		- parent: Caraga (Region XIII) | Region
+	- Misamis Occidental | Province
+		- parent: Northern Mindanao (Region X) | Region
+	- Surigao del Sur | Province
+		- parent: Caraga (Region XIII) | Region
+	- Misamis Oriental | Province
+		- parent: Northern Mindanao (Region X) | Region
+	- Tarlac | Province
+		- parent: Central Luzon (Region III) | Region
+	- Mountain Province | Province
+		- parent: Cordillera Administrative Region (CAR) | Region
+	- Tawi-Tawi | Province
+		- parent: Autonomous Region in Muslim Mindanao (ARMM) | Region
+	- Negroe Occidental | Province
+		- parent: Western Visayas (Region VI) | Region
+	- Western Samar | Province
+		- parent: Eastern Visayas (Region VIII) | Region
+	- Negros Oriental | Province
+		- parent: Central Visayas (Region VII) | Region
+	- Zambales | Province
+		- parent: Central Luzon (Region III) | Region
+	- North Cotabato | Province
+		- parent: Soccsksargen (Region XII) | Region
+	- Zamboanga del Norte | Province
+		- parent: Zamboanga Peninsula (Region IX) | Region
+	- Northern Samar | Province
+		- parent: Eastern Visayas (Region VIII) | Region
+	- Zamboanga del Sur | Province
+		- parent: Zamboanga Peninsula (Region IX) | Region
+	- Nueva Ecija | Province
+		- parent: Central Luzon (Region III) | Region
+	- Zamboanga Sibugay | Province
+		- parent: Zamboanga Peninsula (Region IX) | Region
+	- Nueva Vizcaya | Province
+		- parent: Cagayan Valley (Region II) | Region
+	- Palawan | Province
+		- parent: MIMAROPA (Region IV-B) | Region
+Pitcairn (PN)
+Poland (PL)
+	- Lubuskie | Province
+	- Podkarpackie | Province
+	- Warmisko-mazurskie | Province
+	- dzkie | Province
+	- Podlaskie | Province
+	- Dolnolskie | Province
+	- Wielkopolskie | Province
+	- Maopolskie | Province
+	- Pomorskie | Province
+	- Kujawsko-pomorskie | Province
+	- Zachodniopomorskie | Province
+	- Mazowieckie | Province
+	- lskie | Province
+	- Lubelskie | Province
+	- Opolskie | Province
+	- witokrzyskie | Province
+Portugal (PT)
+	- Faro | District
+	- Porto | District
+	- Bragana | District
+	- Viseu | District
+	- Guarda | District
+	- Santarm | District
+	- Castelo Branco | District
+	- Regio Autnoma dos Aores | Autonomous region
+	- Leiria | District
+	- Aveiro | District
+	- Setbal | District
+	- Coimbra | District
+	- Regio Autnoma da Madeira | Autonomous region
+	- Lisboa | District
+	- Beja | District
+	- Viana do Castelo | District
+	- vora | District
+	- Portalegre | District
+	- Braga | District
+	- Vila Real | District
+Puerto Rico (PR)
+Qatar (QA)
+	- Ar Rayyan | Municipality
+	- Ash Shamal | Municipality
+	- Ad Dawhah | Municipality
+	- Az Zayin | Municipality
+	- Al Khawr wa adh Dhakhrah | Municipality
+	- Umm Salal | Municipality
+	- Al Wakrah | Municipality
+Runion (RE)
+Romania (RO)
+	- Neam | Department
+	- Cara-Severin | Department
+	- Olt | Department
+	- Clrai | Department
+	- Prahova | Department
+	- Cluj | Department
+	- Satu Mare | Department
+	- Constana | Department
+	- Slaj | Department
+	- Covasna | Department
+	- Sibiu | Department
+	- Dmbovia | Department
+	- Suceava | Department
+	- Dolj | Department
+	- Teleorman | Department
+	- Galai | Department
+	- Alba | Department
+	- Timi | Department
+	- Giurgiu | Department
+	- Arad | Department
+	- Tulcea | Department
+	- Gorj | Department
+	- Arge | Department
+	- Vaslui | Department
+	- Harghita | Department
+	- Bacu | Department
+	- Vlcea | Department
+	- Hunedoara | Department
+	- Bihor | Department
+	- Vrancea | Department
+	- Ialomia | Department
+	- Bistria-Nsud | Department
+	- Bucureti | Municipality
+	- Iai | Department
+	- Botoani | Department
+	- Ilfov | Department
+	- Braov | Department
+	- Maramure | Department
+	- Brila | Department
+	- Mehedini | Department
+	- Buzu | Department
+	- Mure | Department
+Russian Federation (RU)
+	- Orlovskaya oblast' | Administrative Region
+	- Vologodskaya oblast' | Administrative Region
+	- Udmurtskaya Respublika | Republic
+	- Penzenskaya oblast' | Administrative Region
+	- Bashkortostan, Respublika | Republic
+	- Kaliningradskaya oblast' | Administrative Region
+	- Voronezhskaya oblast' | Administrative Region
+	- Altayskiy kray | Administrative Territory
+	- Pskovskaya oblast' | Administrative Region
+	- Buryatiya, Respublika | Republic
+	- Kaluzhskaya oblast' | Administrative Region
+	- Yaroslavskaya oblast' | Administrative Region
+	- Kamchatskiy kray | Administrative Territory
+	- Rostovskaya oblast' | Administrative Region
+	- Chechenskaya Respublika | Republic
+	- Kemerovskaya oblast' | Administrative Region
+	- Moskva | Autonomous City
+	- Khabarovskiy kray | Administrative Territory
+	- Ryazanskaya oblast' | Administrative Region
+	- Chuvashskaya Respublika | Republic
+	- Kirovskaya oblast' | Administrative Region
+	- Sankt-Peterburg | Autonomous City
+	- Krasnodarskiy kray | Administrative Territory
+	- Sakhalinskaya oblast' | Administrative Region
+	- Dagestan, Respublika | Republic
+	- Kostromskaya oblast' | Administrative Region
+	- Yevreyskaya avtonomnaya oblast' | Autonomous Region
+	- Krasnoyarskiy kray | Administrative Territory
+	- Samaraskaya oblast' | Administrative Region
+	- Respublika Ingushetiya | Republic
+	- Kurganskaya oblast' | Administrative Region
+	- Chukotskiy avtonomnyy okrug | Autonomous District
+	- Permskiy kray | Administrative Territory
+	- Saratovskaya oblast' | Administrative Region
+	- Kabardino-Balkarskaya Respublika | Republic
+	- Kurskaya oblast' | Administrative Region
+	- Khanty-Mansiysky avtonomnyy okrug-Yugra | Autonomous District
+	- Primorskiy kray | Administrative Territory
+	- Smolenskaya oblast' | Administrative Region
+	- Kalmykiya, Respublika | Republic
+	- Leningradskaya oblast' | Administrative Region
+	- Nenetskiy avtonomnyy okrug | Autonomous District
+	- Stavropol'skiy kray | Administrative Territory
+	- Sverdlovskaya oblast' | Administrative Region
+	- Karachayevo-Cherkesskaya Respublika | Republic
+	- Lipetskaya oblast' | Administrative Region
+	- Yamalo-Nenetskiy avtonomnyy okrug | Autonomous District
+	- Zabajkal'skij kraj | Administrative Territory
+	- Tambovskaya oblast' | Administrative Region
+	- Kareliya, Respublika | Republic
+	- Magadanskaya oblast' | Administrative Region
+	- Amurskaya oblast' | Administrative Region
+	- Tomskaya oblast' | Administrative Region
+	- Khakasiya, Respublika | Republic
+	- Moskovskaya oblast' | Administrative Region
+	- Arkhangel'skaya oblast' | Administrative Region
+	- Tul'skaya oblast' | Administrative Region
+	- Komi, Respublika | Republic
+	- Murmanskaya oblast' | Administrative Region
+	- Astrakhanskaya oblast' | Administrative Region
+	- Tverskaya oblast' | Administrative Region
+	- Mariy El, Respublika | Republic
+	- Nizhegorodskaya oblast' | Administrative Region
+	- Belgorodskaya oblast' | Administrative Region
+	- Tyumenskaya oblast' | Administrative Region
+	- Mordoviya, Respublika | Republic
+	- Novgorodskaya oblast' | Administrative Region
+	- Bryanskaya oblast' | Administrative Region
+	- Ul'yanovskaya oblast' | Administrative Region
+	- Sakha, Respublika [Yakutiya] | Republic
+	- Novosibirskaya oblast' | Administrative Region
+	- Chelyabinskaya oblast' | Administrative Region
+	- Vladimirskaya oblast' | Administrative Region
+	- Severnaya Osetiya-Alaniya, Respublika | Republic
+	- Omskaya oblast' | Administrative Region
+	- Adygeya, Respublika | Republic
+	- Irkutiskaya oblast' | Administrative Region
+	- Tatarstan, Respublika | Republic
+	- Orenburgskaya oblast' | Administrative Region
+	- Volgogradskaya oblast' | Administrative Region
+	- Altay, Respublika | Republic
+	- Ivanovskaya oblast' | Administrative Region
+	- Tyva, Respublika [Tuva] | Republic
+Rwanda (RW)
+	- Sud | Province
+	- Ouest | Province
+	- Nord | Province
+	- Est | Province
+	- Ville de Kigali | Town council
+Saint Barthlemy (BL)
+Saint Helena, Ascension and Tristan da Cunha (SH)
+	- Tristan da Cunha | Geographical Entity
+	- Saint Helena | Geographical Entity
+	- Ascension | Geographical Entity
+Saint Kitts and Nevis (KN)
+	- Saint James Windward | Parish
+		- parent: Nevis | State
+	- Saint Peter Basseterre | Parish
+		- parent: Saint Kitts | State
+	- Saint Kitts | State
+	- Saint Thomas Lowland | Parish
+		- parent: Nevis | State
+	- Saint John Capisterre | Parish
+		- parent: Saint Kitts | State
+	- Saint George Basseterre | Parish
+		- parent: Saint Kitts | State
+	- Saint Paul Capisterre | Parish
+		- parent: Saint Kitts | State
+	- Nevis | State
+	- Saint Paul Charlestown | Parish
+		- parent: Nevis | State
+	- Saint George Gingerland | Parish
+		- parent: Nevis | State
+	- Christ Church Nichola Town | Parish
+		- parent: Saint Kitts | State
+	- Saint John Figtree | Parish
+		- parent: Nevis | State
+	- Saint Thomas Middle Island | Parish
+		- parent: Saint Kitts | State
+	- Trinity Palmetto Point | Parish
+		- parent: Saint Kitts | State
+	- Saint Mary Cayon | Parish
+		- parent: Saint Kitts | State
+	- Saint Anne Sandy Point | Parish
+		- parent: Saint Kitts | State
+Saint Lucia (LC)
+Saint Martin (French part) (MF)
+Saint Pierre and Miquelon (PM)
+Saint Vincent and the Grenadines (VC)
+	- Grenadines | Parish
+	- Saint Andrew | Parish
+	- Saint David | Parish
+	- Saint George | Parish
+	- Charlotte | Parish
+	- Saint Patrick | Parish
+Samoa (WS)
+	- Fa'asaleleaga | District
+	- Tuamasaga | District
+	- Gaga'emauga | District
+	- Va'a-o-Fonoti | District
+	- A'ana | District
+	- Gagaifomauga | District
+	- Vaisigano | District
+	- Aiga-i-le-Tai | District
+	- Palauli | District
+	- Atua | District
+	- Satupa'itea | District
+San Marino (SM)
+	- Chiesanuova | Municipalities
+	- San Marino | Municipalities
+	- Domagnano | Municipalities
+	- Serravalle | Municipalities
+	- Faetano | Municipalities
+	- Acquaviva | Municipalities
+	- Fiorentino | Municipalities
+	- Borgo Maggiore | Municipalities
+	- Montegiardino | Municipalities
+Sao Tome and Principe (ST)
+	- So Tom | Municipality
+	- Prncipe | Municipality
+Saudi Arabia (SA)
+	- 'il | Province
+	- Al Qam | Province
+	- Jzan | Province
+	- Al Bhah | Province
+	- Ar Riy | Province
+	- Makkah | Province
+	- Al udd ash Shamliyah | Province
+	- Ash Sharqyah | Province
+	- Najrn | Province
+	- Al Jawf | Province
+	- `Asr | Province
+	- Tabk | Province
+	- Al Madnah | Province
+Senegal (SN)
+	- Louga | Region
+	- This | Region
+	- Kaffrine | Region
+	- Matam | Region
+	- Ziguinchor | Region
+	- Kaolack | Region
+	- Saint-Louis | Region
+	- Dakar | Region
+	- Kdougou | Region
+	- Sdhiou | Region
+	- Diourbel | Region
+	- Kolda | Region
+	- Tambacounda | Region
+	- Fatick | Region
+Serbia (RS)
+	- Pomoravski okrug | District
+	- Branievski okrug | District
+	- Prizrenski okrug | District
+		- parent: Kosovo-Metohija | Autonomous province
+	- Jablaniki okrug | District
+	- Junobaki okrug | District
+		- parent: Vojvodina | Autonomous province
+	- Rasinski okrug | District
+	- Raki okrug | District
+	- Junobanatski okrug | District
+		- parent: Vojvodina | Autonomous province
+	- Severnobaki okrug | District
+		- parent: Vojvodina | Autonomous province
+	- Kolubarski okrug | District
+	- Severnobanatski okrug | District
+		- parent: Vojvodina | Autonomous province
+	- Kosovski okrug | District
+		- parent: Kosovo-Metohija | Autonomous province
+	- Srednjebanatski okrug | District
+		- parent: Vojvodina | Autonomous province
+	- Kosovsko-Mitrovaki okrug | District
+		- parent: Kosovo-Metohija | Autonomous province
+	- Sremski okrug | District
+		- parent: Vojvodina | Autonomous province
+	- Kosovsko-Pomoravski okrug | District
+		- parent: Kosovo-Metohija | Autonomous province
+	- umadijski okrug | District
+	- Mavanski okrug | District
+	- Topliki okrug | District
+	- Moraviki okrug | District
+	- Zajearski okrug | District
+	- Niavski okrug | District
+	- Zapadnobaki okrug | District
+		- parent: Vojvodina | Autonomous province
+	- Pinjski okrug | District
+	- Beograd | City
+	- Peki okrug | District
+		- parent: Kosovo-Metohija | Autonomous province
+	- Kosovo-Metohija | Autonomous province
+	- Zlatiborski okrug | District
+	- Vojvodina | Autonomous province
+	- Pirotski okrug | District
+	- Borski okrug | District
+	- Podunavski okrug | District
+Seychelles (SC)
+	- Mont Buxton | District
+	- Mont Fleuri | District
+	- Anse aux Pins | District
+	- Plaisance | District
+	- Anse Boileau | District
+	- Pointe Larue | District
+	- Anse Etoile | District
+	- Port Glaud | District
+	- Anse Louis | District
+	- Roche Caiman | District
+	- Anse Royale | District
+	- Saint Louis | District
+	- Baie Lazare | District
+	- Takamaka | District
+	- Baie Sainte Anne | District
+	- Beau Vallon | District
+	- Bel Air | District
+	- Bel Ombre | District
+	- Cascade | District
+	- Glacis | District
+	- Grand Anse Mahe | District
+	- Grand Anse Praslin | District
+	- La Digue | District
+	- English River | District
+	- Les Mamelles | District
+Sierra Leone (SL)
+	- Southern (Sierra Leone) | Province
+	- Northern | Province
+	- Eastern | Province
+	- Western Area (Freetown) | Area
+Singapore (SG)
+	- South West | district
+	- South East | district
+	- North West | district
+	- North East | district
+	- Central Singapore | district
+Sint Maarten (Dutch part) (SX)
+Slovakia (SK)
+	- Bratislavsk kraj | Region
+	- Koick kraj | Region
+	- Trnavsk kraj | Region
+	- Nitriansky kraj | Region
+	- ilinsk kraj | Region
+	- Preovsk kraj | Region
+	- Banskobystrick kraj | Region
+	- Treniansky kraj | Region
+Slovenia (SI)
+	- Ajdovina | Municipality
+	- Muta | Municipality
+	- Rogatec | Municipality
+	- Tabor | Municipality
+	- Apae | Municipality
+	- Naklo | Municipality
+	- Rue | Municipality
+	- Tiina | Municipality
+	- Beltinci | Municipality
+	- Nazarje | Municipality
+	- Selnica ob Dravi | Municipality
+	- Tolmin | Municipality
+	- Benedikt | Municipality
+	- Nova Gorica | Municipality
+	- Semi | Municipality
+	- Trbovlje | Municipality
+	- Bistrica ob Sotli | Municipality
+	- Novo mesto | Municipality
+	- Sevnica | Municipality
+	- Trebnje | Municipality
+	- Bled | Municipality
+	- Odranci | Municipality
+	- Seana | Municipality
+	- Trnovska vas | Municipality
+	- Bloke | Municipality
+	- Oplotnica | Municipality
+	- Slovenj Gradec | Municipality
+	- Trzin | Municipality
+	- Bohinj | Municipality
+	- Ormo | Municipality
+	- Slovenska Bistrica | Municipality
+	- Tri | Municipality
+	- Borovnica | Municipality
+	- Osilnica | Municipality
+	- Slovenske Konjice | Municipality
+	- Turnie | Municipality
+	- Bovec | Municipality
+	- Pesnica | Municipality
+	- Sodraica | Municipality
+	- Velenje | Municipality
+	- Braslove | Municipality
+	- Piran/Pirano | Municipality
+	- Solava | Municipality
+	- Velika Polana | Municipality
+	- Brda | Municipality
+	- Pivka | Municipality
+	- Sredie ob Dravi | Municipality
+	- Velike Lae | Municipality
+	- Brezovica | Municipality
+	- Podetrtek | Municipality
+	- Stare | Municipality
+	- Verej | Municipality
+	- Breice | Municipality
+	- Podlehnik | Municipality
+	- Straa | Municipality
+	- Videm | Municipality
+	- Cankova | Municipality
+	- Podvelka | Municipality
+	- Sveta Ana | Municipality
+	- Vipava | Municipality
+	- Celje | Municipality
+	- Poljane | Municipality
+	- Sveta Trojica v Slovenskih Goricah | Municipality
+	- Vitanje | Municipality
+	- Cerklje na Gorenjskem | Municipality
+	- Polzela | Municipality
+	- Sveta Andra v Slovenskih Goricah | Municipality
+	- Vodice | Municipality
+	- Cerknica | Municipality
+	- Postojna | Municipality
+	- Sveti Jurij | Municipality
+	- Vojnik | Municipality
+	- Cerkno | Municipality
+	- Prebold | Municipality
+	- Sveti Jurij v Slovenskih Goricah | Municipality
+	- Vransko | Municipality
+	- Cerkvenjak | Municipality
+	- Preddvor | Municipality
+	- Sveti Toma | Municipality
+	- Vrhnika | Municipality
+	- Cirkulane | Municipality
+	- Prevalje | Municipality
+	- alovci | Municipality
+	- Vuzenica | Municipality
+	- renovci | Municipality
+	- Ptuj | Municipality
+	- empeter-Vrtojba | Municipality
+	- Zagorje ob Savi | Municipality
+	- rna na Korokem | Municipality
+	- Puconci | Municipality
+	- enur | Municipality
+	- Zavr | Municipality
+	- rnomelj | Municipality
+	- Rae-Fram | Municipality
+	- entilj | Municipality
+	- Zree | Municipality
+	- Destrnik | Municipality
+	- Radee | Municipality
+	- entjernej | Municipality
+	- alec | Municipality
+	- Divaa | Municipality
+	- Radenci | Municipality
+	- entjur | Municipality
+	- elezniki | Municipality
+	- Dobje | Municipality
+	- Radlje ob Dravi | Municipality
+	- entrupert | Municipality
+	- etale | Municipality
+	- Dobrepolje | Municipality
+	- Radovljica | Municipality
+	- kocjan | Municipality
+	- iri | Municipality
+	- Dobrna | Municipality
+	- Ravne na Korokem | Municipality
+	- kofja Loka | Municipality
+	- irovnica | Municipality
+	- Dobrova-Polhov Gradec | Municipality
+	- Razkrije | Municipality
+	- kofljica | Municipality
+	- uemberk | Municipality
+	- Dobrovnik/Dobronak | Municipality
+	- Reica ob Savinji | Municipality
+	- marje pri Jelah | Municipality
+	- Dol pri Ljubljani | Municipality
+	- Rene-Vogrsko | Municipality
+	- marjeske Toplie | Municipality
+	- Dolenjske Toplice | Municipality
+	- Ribnica | Municipality
+	- martno ob Paki | Municipality
+	- Domale | Municipality
+	- Ribnica na Pohorju | Municipality
+	- martno pri Litiji | Municipality
+	- Dornava | Municipality
+	- Rogaka Slatina | Municipality
+	- otanj | Municipality
+	- Dravograd | Municipality
+	- Rogaovci | Municipality
+	- tore | Municipality
+	- Duplek | Municipality
+	- Kranjska Gora | Municipality
+	- Gorenja vas-Poljane | Municipality
+	- Krievci | Municipality
+	- Gorinica | Municipality
+	- Krko | Municipality
+	- Gorje | Municipality
+	- Kungota | Municipality
+	- Gornja Radgona | Municipality
+	- Kuzma | Municipality
+	- Gornji Grad | Municipality
+	- Lako | Municipality
+	- Gornji Petrovci | Municipality
+	- Lenart | Municipality
+	- Grad | Municipality
+	- Lendava/Lendva | Municipality
+	- Grosuplje | Municipality
+	- Litija | Municipality
+	- Hajdina | Municipality
+	- Ljubljana | Municipality
+	- Hoe-Slivnica | Municipality
+	- Ljubno | Municipality
+	- Hodo/Hodos | Municipality
+	- Ljutomer | Municipality
+	- Horjul | Municipality
+	- Log-Dragomer | Municipality
+	- Hrastnik | Municipality
+	- Logatec | Municipality
+	- Hrpelje-Kozina | Municipality
+	- Loka dolina | Municipality
+	- Idrija | Municipality
+	- Loki Potok | Municipality
+	- Ig | Municipality
+	- Lovrenc na Pohorju | Municipality
+	- Ilirska Bistrica | Municipality
+	- Lue | Municipality
+	- Ivanna Gorica | Municipality
+	- Lukovica | Municipality
+	- Izola/Isola | Municipality
+	- Majperk | Municipality
+	- Jesenice | Municipality
+	- Makole | Municipality
+	- Jezersko | Municipality
+	- Maribor | Municipality
+	- Jurinci | Municipality
+	- Markovci | Municipality
+	- Kamnik | Municipality
+	- Medvode | Municipality
+	- Kanal | Municipality
+	- Menge | Municipality
+	- Kidrievo | Municipality
+	- Metlika | Municipality
+	- Kobarid | Municipality
+	- Meica | Municipality
+	- Kobilje | Municipality
+	- Miklav na Dravskem polju | Municipality
+	- Koevje | Municipality
+	- Miren-Kostanjevica | Municipality
+	- Komen | Municipality
+	- Mirna Pe | Municipality
+	- Komenda | Municipality
+	- Mislinja | Municipality
+	- Koper/Capodistria | Municipality
+	- Mokronog-Trebelno | Municipality
+	- Kosanjevica na Krki | Municipality
+	- Morave | Municipality
+	- Kostel | Municipality
+	- Moravske Toplice | Municipality
+	- Kozje | Municipality
+	- Mozirje | Municipality
+	- Kranj | Municipality
+	- Murska Sobota | Municipality
+Solomon Islands (SB)
+	- Isabel | Province
+	- Capital Territory (Honiara) | Capital territory
+	- Makira | Province
+	- Western | Province
+	- Central | Province
+	- Malaita | Province
+	- Choiseul | Province
+	- Rennell and Bellona | Province
+	- Guadalcanal | Province
+	- Temotu | Province
+Somalia (SO)
+	- Sool | Region
+	- Banaadir | Region
+	- Nugaal | Region
+	- Togdheer | Region
+	- Bari | Region
+	- Hiirsan | Region
+	- Saneag | Region
+	- Woqooyi Galbeed | Region
+	- Bay | Region
+	- Jubbada Dhexe | Region
+	- Shabeellaha Dhexe | Region
+	- Awdal | Region
+	- Galguduud | Region
+	- Jubbada Hoose | Region
+	- Shabeellaha Hoose | Region
+	- Bakool | Region
+	- Gedo | Region
+	- Mudug | Region
+South Africa (ZA)
+	- Western Cape | Province
+	- Limpopo | Province
+	- Eastern Cape | Province
+	- Mpumalanga | Province
+	- Free State | Province
+	- Northern Cape | Province
+	- Gauteng | Province
+	- North-West (South Africa) | Province
+	- Kwazulu-Natal | Province
+South Georgia and the South Sandwich Islands (GS)
+Spain (ES)
+	- Cantabria | Province
+		- parent: Cantabria | Autonomous community
+	- Pontevedra | Province
+		- parent: Galicia | Autonomous community
+	- A Corua | Province
+		- parent: Galicia | Autonomous community
+	- La Rioja | Province
+		- parent: La Rioja | Autonomous community
+	- Zamora | Province
+		- parent: Castilla y Len | Autonomous community
+	- Andaluca | Autonomous community
+	- Castelln | Province
+		- parent: Valenciana, Comunidad / Valenciana, Comunitat  | Autonomous community
+	- Salamanca | Province
+		- parent: Castilla y Len | Autonomous community
+	- lava | Province
+		- parent: Pas Vasco / Euskal Herria | Autonomous community
+	- Las Palmas | Province
+		- parent: Canarias | Autonomous community
+	- Aragn | Autonomous community
+	- Zaragoza | Province
+		- parent: Aragn | Autonomous community
+	- Asturias, Principado de | Autonomous community
+	- Ciudad Real | Province
+		- parent: Castilla-La Mancha | Autonomous community
+	- Albacete | Province
+		- parent: Castilla-La Mancha | Autonomous community
+	- Len | Province
+		- parent: Castilla y Len | Autonomous community
+	- Santa Cruz de Tenerife | Province
+		- parent: Canarias | Autonomous community
+	- Ceuta | Autonomous city
+	- Canarias | Autonomous community
+	- Melilla | Autonomous city
+	- Crdoba | Province
+		- parent: Andaluca | Autonomous community
+	- Segovia | Province
+		- parent: Castilla y Len | Autonomous community
+	- Alicante | Province
+		- parent: Valenciana, Comunidad / Valenciana, Comunitat  | Autonomous community
+	- Lleida | Province
+		- parent: Catalunya | Autonomous community
+	- Cantabria | Autonomous community
+	- Castilla-La Mancha | Autonomous community
+	- Cuenca | Province
+		- parent: Castilla-La Mancha | Autonomous community
+	- Almera | Province
+		- parent: Andaluca | Autonomous community
+	- Lugo | Province
+		- parent: Galicia | Autonomous community
+	- Sevilla | Province
+		- parent: Andaluca | Autonomous community
+	- Castilla y Len | Autonomous community
+	- Girona | Province
+		- parent: Catalunya | Autonomous community
+	- Soria | Province
+		- parent: Castilla y Len | Autonomous community
+	- Asturias | Province
+		- parent: Asturias, Principado de | Autonomous community
+	- Madrid | Province
+		- parent: Madrid, Comunidad de | Autonomous community
+	- Catalunya | Autonomous community
+	- Extremadura | Autonomous community
+	- Granada | Province
+		- parent: Andaluca | Autonomous community
+	- vila | Province
+		- parent: Castilla y Len | Autonomous community
+	- Mlaga | Province
+		- parent: Andaluca | Autonomous community
+	- Tarragona | Province
+		- parent: Catalunya | Autonomous community
+	- Galicia | Autonomous community
+	- Guadalajara | Province
+		- parent: Castilla-La Mancha | Autonomous community
+	- Teruel | Province
+		- parent: Aragn | Autonomous community
+	- Badajoz | Province
+		- parent: Extremadura | Autonomous community
+	- Murcia | Province
+		- parent: Murcia, Regin de | Autonomous community
+	- Illes Balears | Autonomous community
+	- La Rioja | Autonomous community
+	- Guipzcoa / Gipuzkoa | Province
+		- parent: Pas Vasco / Euskal Herria | Autonomous community
+	- Barcelona | Province
+		- parent: Catalunya | Autonomous community
+	- Navarra / Nafarroa | Province
+		- parent: Navarra, Comunidad Foral de / Nafarroako Foru Komunitatea | Autonomous community
+	- Toledo | Province
+		- parent: Castilla-La Mancha | Autonomous community
+	- Madrid, Comunidad de | Autonomous community
+	- Huelva | Province
+		- parent: Andaluca | Autonomous community
+	- Valencia / Valncia | Province
+		- parent: Valenciana, Comunidad / Valenciana, Comunitat  | Autonomous community
+	- Burgos | Province
+		- parent: Castilla y Len | Autonomous community
+	- Ourense | Province
+		- parent: Galicia | Autonomous community
+	- Murcia, Regin de | Autonomous community
+	- Navarra, Comunidad Foral de / Nafarroako Foru Komunitatea | Autonomous community
+	- Huesca | Province
+		- parent: Aragn | Autonomous community
+	- Cceres | Province
+		- parent: Extremadura | Autonomous community
+	- Palencia | Province
+		- parent: Castilla y Len | Autonomous community
+	- Valladolid | Province
+		- parent: Castilla y Len | Autonomous community
+	- Pas Vasco / Euskal Herria | Autonomous community
+	- Jan | Province
+		- parent: Andaluca | Autonomous community
+	- Vizcayaa / Bizkaia | Province
+		- parent: Pas Vasco / Euskal Herria | Autonomous community
+	- Cdiz | Province
+		- parent: Andaluca | Autonomous community
+	- Balears | Province
+		- parent: Illes Balears | Autonomous community
+	- Valenciana, Comunidad / Valenciana, Comunitat  | Autonomous community
+Sri Lanka (LK)
+	- Puttalama | District
+		- parent: Vayamba pata | Province
+	- Kautara | District
+		- parent: Basnhira pata | Province
+	- Uturumda pata | Province
+	- Uturu pata | Province
+	- Ratnapura | District
+		- parent: Sabaragamuva pata | Province
+	- Mahanuvara | District
+		- parent: Madhyama pata | Province
+	- va pata | Province
+	- Trikumalaya | District
+		- parent: Ngnahira pata | Province
+	- Kgalla | District
+		- parent: Sabaragamuva pata | Province
+	- Vayamba pata | Province
+	- Ampara | District
+		- parent: Ngnahira pata | Province
+	- Vavuniyva | District
+		- parent: Uturu pata | Province
+	- Kilinchchi | District
+		- parent: Uturu pata | Province
+	- Anurdhapura | District
+		- parent: Uturumda pata | Province
+	- Kurugala | District
+		- parent: Vayamba pata | Province
+	- Badulla | District
+		- parent: va pata | Province
+	- Mannrama | District
+		- parent: Uturu pata | Province
+	- Maakalapuva | District
+		- parent: Ngnahira pata | Province
+	- Mtale | District
+		- parent: Madhyama pata | Province
+	- Kamba | District
+		- parent: Basnhira pata | Province
+	- Mtara | District
+		- parent: Dakuu pata | Province
+	- Glla | District
+		- parent: Dakuu pata | Province
+	- Margala | District
+		- parent: va pata | Province
+	- Gampaha | District
+		- parent: Basnhira pata | Province
+	- Basnhira pata | Province
+	- Mulativ | District
+		- parent: Uturu pata | Province
+	- Dakuu pata | Province
+	- Hambanta | District
+		- parent: Dakuu pata | Province
+	- Nuvara liya | District
+		- parent: Madhyama pata | Province
+	- Madhyama pata | Province
+	- Ypanaya | District
+		- parent: Uturu pata | Province
+	- Ngnahira pata | Province
+	- Pnnaruva | District
+		- parent: Uturumda pata | Province
+	- Sabaragamuva pata | Province
+Sudan (SD)
+	- An Nl al Abya | state
+	- Sharq Drfr | state
+	- Al Jazrah | state
+	- An Nl al Azraq | state
+	- Janb Kurdufn | state
+	- Sinnr | state
+	- Al Kharm | state
+	- Ash Shamlyah | state
+	- Kassal | state
+	- Zalingei | state
+	- Al Qarif | state
+	- Gharb Drfr | state
+	- Shaml Drfr | state
+	- An Nl | state
+	- Janb Drfr | state
+	- Al Bar al Amar | state
+	- Shaml Kurdufn | state
+Suriname (SR)
+	- Coronie | District
+	- Saramacca | District
+	- Marowijne | District
+	- Sipaliwini | District
+	- Nickerie | District
+	- Wanica | District
+	- Brokopondo | District
+	- Para | District
+	- Commewijne | District
+	- Paramaribo | District
+South Sudan (SS)
+	- Eastern Equatoria | state
+	- Upper Nile | state
+	- Jonglei | state
+	- Warrap | state
+	- Lakes | state
+	- Western Bahr el-Ghazal | state
+	- Northern Bahr el-Ghazal | state
+	- Western Equatoria | state
+	- Central Equatoria | state
+	- Unity | state
+Svalbard and Jan Mayen (SJ)
+Swaziland (SZ)
+	- Shiselweni | District
+	- Manzini | District
+	- Lubombo | District
+	- Hhohho | District
+Sweden (SE)
+	- Dalarnas ln | County
+	- Vsterbottens ln | County
+	- Jnkpings ln | County
+	- stergtlands ln | County
+	- Stockholms ln | County
+	- Gotlands ln | County
+	- Vsternorrlands ln | County
+	- Kalmar ln | County
+	- Sdermanlands ln | County
+	- Gvleborgs ln | County
+	- Vstmanlands ln | County
+	- Kronobergs ln | County
+	- Uppsala ln | County
+	- Hallands ln | County
+	- Vstra Gtalands ln | County
+	- Norrbottens ln | County
+	- Blekinge ln | County
+	- Vrmlands ln | County
+	- Jmtlands ln | County
+	- rebro ln | County
+	- Skne ln | County
+Switzerland (CH)
+	- Sankt Gallen | Canton
+	- Schaffhausen | Canton
+	- Solothurn | Canton
+	- Aargau | Canton
+	- Schwyz | Canton
+	- Appenzell Innerrhoden | Canton
+	- Thurgau | Canton
+	- Appenzell Ausserrhoden | Canton
+	- Ticino | Canton
+	- Bern | Canton
+	- Uri | Canton
+	- Basel-Landschaft | Canton
+	- Vaud | Canton
+	- Basel-Stadt | Canton
+	- Valais | Canton
+	- Fribourg | Canton
+	- Zug | Canton
+	- Genve | Canton
+	- Zrich | Canton
+	- Glarus | Canton
+	- Graubnden | Canton
+	- Jura | Canton
+	- Luzern | Canton
+	- Neuchtel | Canton
+	- Nidwalden | Canton
+	- Obwalden | Canton
+Syrian Arab Republic (SY)
+	- Idlib | Governorate
+	- Al Qunaytirah | Governorate
+	- Dimashq | Governorate
+	- Rif Dimashq | Governorate
+	- Ar Raqqah | Governorate
+	- Halab | Governorate
+	- Tartus | Governorate
+	- As Suwayda' | Governorate
+	- Hamah | Governorate
+	- Al Hasakah | Governorate
+	- Dar'a | Governorate
+	- Homs | Governorate
+	- Al Ladhiqiyah | Governorate
+	- Dayr az Zawr | Governorate
+Taiwan, Province of China (TW)
+	- Hsinchui City | Municipality
+	- Keelung City | Municipality
+	- Changhua | District
+	- Taichung City | Municipality
+	- Chiayi | District
+	- Tainan City | Municipality
+	- Hsinchu | District
+	- Kaohsiung City | Special Municipality
+	- Hualien | District
+	- Taipei City | Special Municipality
+	- Ilan | District
+	- Kaohsiung | District
+	- Miaoli | District
+	- Nantou | District
+	- Penghu | District
+	- Pingtung | District
+	- Taichung | District
+	- Tainan | District
+	- Taipei | District
+	- Taitung | District
+	- Taoyuan | District
+	- Yunlin | District
+	- Chiay City | Municipality
+Tajikistan (TJ)
+	- Sughd | Region
+	- Khatlon | Region
+	- Gorno-Badakhshan | Autonomous region
+Tanzania, United Republic of (TZ)
+	- Manyara | Region
+	- Mara | Region
+	- Mbeya | Region
+	- Mjini Magharibi | Region
+	- Morogoro | Region
+	- Mtwara | Region
+	- Arusha | Region
+	- Mwanza | Region
+	- Dar-es-Salaam | Region
+	- Pwani | Region
+	- Dodoma | Region
+	- Rukwa | Region
+	- Iringa | Region
+	- Ruvuma | Region
+	- Kagera | Region
+	- Shinyanga | Region
+	- Kaskazini Pemba | Region
+	- Singida | Region
+	- Kaskazini Unguja | Region
+	- Tabora | Region
+	- Kigoma | Region
+	- Tanga | Region
+	- Kilimanjaro | Region
+	- Kusini Pemba | Region
+	- Kusini Unguja | Region
+	- Lindi | Region
+Thailand (TH)
+	- Trang | Province
+	- Nong Khai | Province
+	- Trat | Province
+	- Khon Kaen | Province
+	- Rayong | Province
+	- Nonthaburi | Province
+	- Ubon Ratchathani | Province
+	- Krabi | Province
+	- Roi Et | Province
+	- Krung Thep Maha Nakhon Bangkok | Municipality
+	- Pathum Thani | Province
+	- Lampang | Province
+	- Sa Kaeo | Province
+	- Udon Thani | Province
+	- Phatthaya | Province
+	- Pattani | Province
+	- Lamphun | Province
+	- Sakon Nakhon | Province
+	- Uthai Thani | Province
+	- Amnat Charoen | Province
+	- Phangnga | Province
+	- Loei | Province
+	- Samut Prakan | Province
+	- Uttaradit | Province
+	- Ang Thong | Province
+	- Phatthalung | Province
+	- Lop Buri | Province
+	- Samut Sakhon | Province
+	- Yala | Province
+	- Buri Ram | Province
+	- Phayao | Province
+	- Mae Hong Son | Province
+	- Samut Songkhram | Province
+	- Yasothon | Province
+	- Chachoengsao | Province
+	- Phetchabun | Province
+	- Maha Sarakham | Province
+	- Saraburi | Province
+	- Chai Nat | Province
+	- Phetchaburi | Province
+	- Mukdahan | Province
+	- Satun | Province
+	- Chaiyaphum | Province
+	- Phichit | Province
+	- Nakhon Nayok | Province
+	- Sing Buri | Province
+	- Chanthaburi | Province
+	- Phitsanulok | Province
+	- Nakhon Pathom | Province
+	- Si Sa Ket | Province
+	- Chiang Mai | Province
+	- Phrae | Province
+	- Nakhon Phanom | Province
+	- Songkhla | Province
+	- Chiang Rai | Province
+	- Phra Nakhon Si Ayutthaya | Province
+	- Nakhon Ratchasima | Province
+	- Sukhothai | Province
+	- Chon Buri | Province
+	- Phuket | Province
+	- Nakhon Sawan | Province
+	- Suphan Buri | Province
+	- Chumphon | Province
+	- Prachin Buri | Province
+	- Nakhon Si Thammarat | Province
+	- Surat Thani | Province
+	- Kalasin | Province
+	- Prachuap Khiri Khan | Province
+	- Nan | Province
+	- Surin | Province
+	- Kamphaeng Phet | Province
+	- Ranong | Province
+	- Narathiwat | Province
+	- Tak | Province
+	- Kanchanaburi | Province
+	- Ratchaburi | Province
+	- Nong Bua Lam Phu | Province
+Timor-Leste (TL)
+	- Bobonaro | District
+	- Viqueque | District
+	- Cova Lima | District
+	- Liquia | District
+	- Aileu | District
+	- Dli | District
+	- Manatuto | District
+	- Ainaro | District
+	- Ermera | District
+	- Manufahi | District
+	- Baucau | District
+	- Lautem | District
+	- Oecussi | District
+Togo (TG)
+	- Rgion de la Kara | Region
+	- Rgion du Centre | Region
+	- Rgion des Savannes | Region
+	- Rgion des Plateaux | Region
+	- Rgion Maritime | Region
+Tokelau (TK)
+Tonga (TO)
+	- Ha'apai | Division
+	- Vava'u | Division
+	- 'Eua | Division
+	- Tongatapu | Division
+	- Niuas | Division
+Trinidad and Tobago (TT)
+	- Tunapuna-Piarco | Region
+	- Couva-Tabaquite-Talparo | Region
+	- Port of Spain | City
+	- Rio Claro-Mayaro | Region
+	- Western Tobago | Region
+	- Diego Martin | Region
+	- San Fernando | City
+	- Sangre Grande | Region
+	- Arima | Borough
+	- Eastern Tobago | Region
+	- San Juan-Laventille | Region
+	- Chaguanas | Borough
+	- Penal-Debe | Region
+	- Siparia | Region
+	- Point Fortin | Borough
+	- Princes Town | Region
+Tunisia (TN)
+	- Kairouan | Governorate
+	- Kasserine | Governorate
+	- Kebili | Governorate
+	- Le Kef | Governorate
+	- Mahdia | Governorate
+	- La Manouba | Governorate
+	- Medenine | Governorate
+	- Monastir | Governorate
+	- Nabeul | Governorate
+	- Sfax | Governorate
+	- Sidi Bouzid | Governorate
+	- Siliana | Governorate
+	- Ariana | Governorate
+	- Sousse | Governorate
+	- Bja | Governorate
+	- Tataouine | Governorate
+	- Ben Arous | Governorate
+	- Tozeur | Governorate
+	- Bizerte | Governorate
+	- Tunis | Governorate
+	- Gabs | Governorate
+	- Zaghouan | Governorate
+	- Gafsa | Governorate
+	- Jendouba | Governorate
+Turkey (TR)
+	- Krehir | Province
+	- Bayburt | Province
+	- Kilis | Province
+	- Gaziantep | Province
+	- Sinop | Province
+	- Bilecik | Province
+	- Kocaeli | Province
+	- Giresun | Province
+	- Sivas | Province
+	- Bingl | Province
+	- Konya | Province
+	- Gmhane | Province
+	- anlurfa | Province
+	- Bitlis | Province
+	- Ktahya | Province
+	- Hakkri | Province
+	- rnak | Province
+	- Bolu | Province
+	- Malatya | Province
+	- Adana | Province
+	- Hatay | Province
+	- Tekirda | Province
+	- Burdur | Province
+	- Manisa | Province
+	- Adyaman | Province
+	- Idr | Province
+	- Tokat | Province
+	- Bursa | Province
+	- Mardin | Province
+	- Afyonkarahisar | Province
+	- Isparta | Province
+	- Trabzon | Province
+	- anakkale | Province
+	- Mersin | Province
+	- Ar | Province
+	- stanbul | Province
+	- Tunceli | Province
+	- ankr | Province
+	- Mula | Province
+	- Aksaray | Province
+	- zmir | Province
+	- Uak | Province
+	- orum | Province
+	- Mu | Province
+	- Amasya | Province
+	- Kahramanmara | Province
+	- Van | Province
+	- Denizli | Province
+	- Nevehir | Province
+	- Ankara | Province
+	- Karabk | Province
+	- Yalova | Province
+	- Diyarbakr | Province
+	- Nide | Province
+	- Antalya | Province
+	- Karaman | Province
+	- Yozgat | Province
+	- Dzce | Province
+	- Ordu | Province
+	- Ardahan | Province
+	- Kars | Province
+	- Zonguldak | Province
+	- Edirne | Province
+	- Osmaniye | Province
+	- Artvin | Province
+	- Kastamonu | Province
+	- Elaz | Province
+	- Rize | Province
+	- Aydn | Province
+	- Kayseri | Province
+	- Erzincan | Province
+	- Sakarya | Province
+	- Balkesir | Province
+	- Krkkale | Province
+	- Erzurum | Province
+	- Samsun | Province
+	- Bartn | Province
+	- Krklareli | Province
+	- Eskiehir | Province
+	- Siirt | Province
+	- Batman | Province
+Turkmenistan (TM)
+	- Lebap | Region
+	- Mary | Region
+	- Ahal | Region
+	- Agabat | City
+	- Balkan | Region
+	- Daoguz | Region
+Turks and Caicos Islands (TC)
+Tuvalu (TV)
+	- Nanumea | Island council
+	- Niutao | Island council
+	- Vaitupu | Island council
+	- Nui | Island council
+	- Funafuti | Town council
+	- Nukufetau | Island council
+	- Nanumanga | Island council
+	- Nukulaelae | Island council
+Uganda (UG)
+	- Arua | District
+		- parent: Northern | Geographical region
+	- Kampala | District
+		- parent: Central | Geographical region
+	- Gulu | District
+		- parent: Northern | Geographical region
+	- Kitgum | District
+		- parent: Northern | Geographical region
+	- Mayuge | District
+		- parent: Eastern | Geographical region
+	- Namutumba | District
+		- parent: Eastern | Geographical region
+	- Wakiso | District
+		- parent: Central | Geographical region
+	- Budaka | District
+		- parent: Eastern | Geographical region
+	- Kamuli | District
+		- parent: Eastern | Geographical region
+	- Hoima | District
+		- parent: Western | Geographical region
+	- Koboko | District
+		- parent: Northern | Geographical region
+	- Mbale | District
+		- parent: Eastern | Geographical region
+	- Nebbi | District
+		- parent: Northern | Geographical region
+	- Yumbe | District
+		- parent: Northern | Geographical region
+	- Bududa | District
+		- parent: Eastern | Geographical region
+	- Kamwenge | District
+		- parent: Western | Geographical region
+	- Ibanda | District
+		- parent: Western | Geographical region
+	- Kotido | District
+		- parent: Northern | Geographical region
+	- Mbarara | District
+		- parent: Western | Geographical region
+	- Ntungamo | District
+		- parent: Western | Geographical region
+	- Bugiri | District
+		- parent: Eastern | Geographical region
+	- Kanungu | District
+		- parent: Western | Geographical region
+	- Iganga | District
+		- parent: Eastern | Geographical region
+	- Kumi | District
+		- parent: Eastern | Geographical region
+	- Mityana | District
+		- parent: Central | Geographical region
+	- Oyam | District
+		- parent: Northern | Geographical region
+	- Central | Geographical region
+	- Bukedea | District
+		- parent: Eastern | Geographical region
+	- Kapchorwa | District
+		- parent: Eastern | Geographical region
+	- Eastern | Geographical region
+	- Isingiro | District
+		- parent: Western | Geographical region
+	- Kyenjojo | District
+		- parent: Western | Geographical region
+	- Moroto | District
+		- parent: Northern | Geographical region
+	- Pader | District
+		- parent: Northern | Geographical region
+	- Northern | Geographical region
+	- Bukwa | District
+		- parent: Eastern | Geographical region
+	- Kasese | District
+		- parent: Western | Geographical region
+	- Jinja | District
+		- parent: Eastern | Geographical region
+	- Lira | District
+		- parent: Northern | Geographical region
+	- Moyo | District
+		- parent: Northern | Geographical region
+	- Pallisa | District
+		- parent: Eastern | Geographical region
+	- Western | Geographical region
+	- Buliisa | District
+		- parent: Western | Geographical region
+	- Katakwi | District
+		- parent: Eastern | Geographical region
+	- Abim | District
+		- parent: Northern | Geographical region
+	- Kaabong | District
+		- parent: Northern | Geographical region
+	- Luwero | District
+		- parent: Central | Geographical region
+	- Mpigi | District
+		- parent: Central | Geographical region
+	- Rakai | District
+		- parent: Central | Geographical region
+	- Bundibugyo | District
+		- parent: Western | Geographical region
+	- Kayunga | District
+		- parent: Central | Geographical region
+	- Adjumani | District
+		- parent: Northern | Geographical region
+	- Kabale | District
+		- parent: Western | Geographical region
+	- Lyantonde | District
+		- parent: Central | Geographical region
+	- Mubende | District
+		- parent: Central | Geographical region
+	- Rukungiri | District
+		- parent: Western | Geographical region
+	- Bushenyi | District
+		- parent: Western | Geographical region
+	- Kibaale | District
+		- parent: Western | Geographical region
+	- Amolatar | District
+		- parent: Northern | Geographical region
+	- Kabarole | District
+		- parent: Western | Geographical region
+	- Manafwa | District
+		- parent: Eastern | Geographical region
+	- Mukono | District
+		- parent: Central | Geographical region
+	- Sembabule | District
+		- parent: Central | Geographical region
+	- Busia | District
+		- parent: Eastern | Geographical region
+	- Kiboga | District
+		- parent: Central | Geographical region
+	- Amuria | District
+		- parent: Eastern | Geographical region
+	- Kaberamaido | District
+		- parent: Eastern | Geographical region
+	- Maracha | District
+		- parent: Northern | Geographical region
+	- Nakapiripirit | District
+		- parent: Northern | Geographical region
+	- Sironko | District
+		- parent: Eastern | Geographical region
+	- Butaleja | District
+		- parent: Eastern | Geographical region
+	- Kiruhura | District
+		- parent: Western | Geographical region
+	- Amuru | District
+		- parent: Northern | Geographical region
+	- Kalangala | District
+		- parent: Central | Geographical region
+	- Masaka | District
+		- parent: Central | Geographical region
+	- Nakaseke | District
+		- parent: Central | Geographical region
+	- Soroti | District
+		- parent: Eastern | Geographical region
+	- Dokolo | District
+		- parent: Northern | Geographical region
+	- Kisoro | District
+		- parent: Western | Geographical region
+	- Apac | District
+		- parent: Northern | Geographical region
+	- Kaliro | District
+		- parent: Eastern | Geographical region
+	- Masindi | District
+		- parent: Western | Geographical region
+	- Nakasongola | District
+		- parent: Central | Geographical region
+	- Tororo | District
+		- parent: Eastern | Geographical region
+Ukraine (UA)
+	- Donets'ka Oblast' | Province
+	- Zaporiz'ka Oblast' | Province
+	- Ivano-Frankivs'ka Oblast' | Province
+	- Zhytomyrs'ka Oblast' | Province
+	- Kharkivs'ka Oblast' | Province
+	- Respublika Krym | Autonomous republic
+	- Khersons'ka Oblast' | Province
+	- Kyvs'ka mis'ka rada | City
+	- Khmel'nyts'ka Oblast' | Province
+	- Sevastopol | City
+	- Kirovohrads'ka Oblast' | Province
+	- Kyvs'ka Oblast' | Province
+	- Luhans'ka Oblast' | Province
+	- L'vivs'ka Oblast' | Province
+	- Mykolavs'ka Oblast' | Province
+	- Odes'ka Oblast' | Province
+	- Poltavs'ka Oblast' | Province
+	- Rivnens'ka Oblast' | Province
+	- Sums 'ka Oblast' | Province
+	- Ternopil's'ka Oblast' | Province
+	- Cherkas'ka Oblast' | Province
+	- Vinnyts'ka Oblast' | Province
+	- Chernihivs'ka Oblast' | Province
+	- Volyns'ka Oblast' | Province
+	- Chernivets'ka Oblast' | Province
+	- Zakarpats'ka Oblast' | Province
+	- Dnipropetrovs'ka Oblast' | Province
+United Arab Emirates (AE)
+	- Dubayy | Emirate
+	- Ab aby [Abu Dhabi] | Emirate
+	- Ras al Khaymah | Emirate
+	- 'Ajmn | Emirate
+	- Umm al Qaywayn | Emirate
+	- Al Fujayrah | Emirate
+	- Ash Shriqah | Emirate
+United Kingdom (GB)
+	- Shropshire | Unitary authority (England)
+	- Vale of Glamorgan, The;Bro Morgannwg | Unitary authority (Wales)
+	- Merton | London borough
+	- South Tyneside | Metropolitan district
+	- Wrexham;Wrecsam | Unitary authority (Wales)
+	- Newham | London borough
+	- Stockport | Metropolitan district
+	- Redbridge | London borough
+	- Sunderland | Metropolitan district
+	- Richmond upon Thames | London borough
+	- Tameside | Metropolitan district
+	- Southwark | London borough
+	- Trafford | Metropolitan district
+	- Sutton | London borough
+	- Wakefield | Metropolitan district
+	- Tower Hamlets | London borough
+	- Walsall | Metropolitan district
+	- Waltham Forest | London borough
+	- Wigan | Metropolitan district
+	- Wandsworth | London borough
+	- Wirral | Metropolitan district
+	- Westminster | London borough
+	- Wolverhampton | Metropolitan district
+	- Barnsley | Metropolitan district
+	- London, City of | City corporation
+	- Birmingham | Metropolitan district
+	- Aberdeen City | Council area
+	- Bolton | Metropolitan district
+	- Aberdeenshire | Council area
+	- Bradford | Metropolitan district
+	- Angus | Council area
+	- Bury | Metropolitan district
+	- Argyll and Bute | Council area
+	- Calderdale | Metropolitan district
+	- Clackmannanshire | Council area
+	- Coventry | Metropolitan district
+	- Dumfries and Galloway | Council area
+	- Doncaster | Metropolitan district
+	- Dundee City | Council area
+	- Dudley | Metropolitan district
+	- East Ayrshire | Council area
+	- Gateshead | Metropolitan district
+	- East Dunbartonshire | Council area
+	- Kirklees | Metropolitan district
+	- East Lothian | Council area
+	- Knowsley | Metropolitan district
+	- East Renfrewshire | Council area
+	- Leeds | Metropolitan district
+	- Edinburgh, City of | Council area
+	- Liverpool | Metropolitan district
+	- Eilean Siar | Council area
+	- Manchester | Metropolitan district
+	- Falkirk | Council area
+	- Newcastle upon Tyne | Metropolitan district
+	- Fife | Council area
+	- North Tyneside | Metropolitan district
+	- Glasgow City | Council area
+	- Oldham | Metropolitan district
+	- Highland | Council area
+	- Rochdale | Metropolitan district
+	- Inverclyde | Council area
+	- Rotherham | Metropolitan district
+	- Midlothian | Council area
+	- St. Helens | Metropolitan district
+	- Moray | Council area
+	- Salford | Metropolitan district
+	- North Ayrshire | Council area
+	- Sandwell | Metropolitan district
+	- North Lanarkshire | Council area
+	- Sefton | Metropolitan district
+	- Orkney Islands | Council area
+	- Sheffield | Metropolitan district
+	- Perth and Kinross | Council area
+	- Solihull | Metropolitan district
+	- Renfrewshire | Council area
+	- Leicestershire | Two-tier county
+	- Scottish Borders, The | Council area
+	- Blackpool | Unitary authority (England)
+	- Slough | Unitary authority (England)
+	- Lincolnshire | Two-tier county
+	- Shetland Islands | Council area
+	- Bournemouth | Unitary authority (England)
+	- South Gloucestershire | Unitary authority (England)
+	- Norfolk | Two-tier county
+	- South Ayrshire | Council area
+	- Bracknell Forest | Unitary authority (England)
+	- Southampton | Unitary authority (England)
+	- North Yorkshire | Two-tier county
+	- South Lanarkshire | Council area
+	- Brighton and Hove | Unitary authority (England)
+	- Southend-on-Sea | Unitary authority (England)
+	- Northamptonshire | Two-tier county
+	- Stirling | Council area
+	- Bristol, City of | Unitary authority (England)
+	- Stockton-on-Tees | Unitary authority (England)
+	- Nottinghamshire | Two-tier county
+	- West Dunbartonshire | Council area
+	- Central Bedfordshire | Unitary authority (England)
+	- Stoke-on-Trent | Unitary authority (England)
+	- Oxfordshire | Two-tier county
+	- West Lothian | Council area
+	- Cheshire East | Unitary authority (England)
+	- Swindon | Unitary authority (England)
+	- Somerset | Two-tier county
+	- Antrim | District council area
+	- Cheshire West and Chester | Unitary authority (England)
+	- Telford and Wrekin | Unitary authority (England)
+	- Staffordshire | Two-tier county
+	- Ards | District council area
+	- Cornwall | Unitary authority (England)
+	- Thurrock | Unitary authority (England)
+	- Suffolk | Two-tier county
+	- Armagh | District council area
+	- Darlington | Unitary authority (England)
+	- Torbay | Unitary authority (England)
+	- Surrey | Two-tier county
+	- Ballymena | District council area
+	- Derby | Unitary authority (England)
+	- Warrington | Unitary authority (England)
+	- Warwickshire | Two-tier county
+	- Ballymoney | District council area
+	- Durham, County | Unitary authority (England)
+	- West Berkshire | Unitary authority (England)
+	- West Sussex | Two-tier county
+	- Banbridge | District council area
+	- East Riding of Yorkshire | Unitary authority (England)
+	- Windsor and Maidenhead | Unitary authority (England)
+	- Worcestershire | Two-tier county
+	- Belfast | District council area
+	- Halton | Unitary authority (England)
+	- Wokingham | Unitary authority (England)
+	- Barking and Dagenham | London borough
+	- Carrickfergus | District council area
+	- Hartlepool | Unitary authority (England)
+	- York | Unitary authority (England)
+	- Barnet | London borough
+	- Castlereagh | District council area
+	- Herefordshire | Unitary authority (England)
+	- Blaenau Gwent | Unitary authority (Wales)
+	- England | Country
+	- Bexley | London borough
+	- Coleraine | District council area
+	- Isle of Wight | Unitary authority (England)
+	- Bridgend;Pen-y-bont ar Ogwr | Unitary authority (Wales)
+	- Brent | London borough
+	- Scotland | Country
+	- Cookstown | District council area
+	- Kingston upon Hull | Unitary authority (England)
+	- Caerphilly;Caerffili | Unitary authority (Wales)
+	- Wales | Country
+	- Bromley | London borough
+	- Craigavon | District council area
+	- Leicester | Unitary authority (England)
+	- Cardiff;Caerdydd | Unitary authority (Wales)
+	- Northern Ireland | Province
+	- Camden | London borough
+	- Derry | District council area
+	- Luton | Unitary authority (England)
+	- Carmarthenshire;Sir Gaerfyrddin | Unitary authority (Wales)
+	- England and Wales | Included for completeness
+	- Croydon | London borough
+	- Down | District council area
+	- Medway | Unitary authority (England)
+	- Ceredigion;Sir Ceredigion | Unitary authority (Wales)
+	- Great Britain | Included for completeness
+	- Ealing | London borough
+	- Dungannon and South Tyrone | District council area
+	- Middlesbrough | Unitary authority (England)
+	- Conwy | Unitary authority (Wales)
+	- United Kingdom | Included for completeness
+	- Enfield | London borough
+	- Fermanagh | District council area
+	- Milton Keynes | Unitary authority (England)
+	- Denbighshire;Sir Ddinbych | Unitary authority (Wales)
+	- Buckinghamshire | Two-tier county
+	- Greenwich | London borough
+	- Larne | District council area
+	- North East Lincolnshire | Unitary authority (England)
+	- Flintshire;Sir y Fflint | Unitary authority (Wales)
+	- Cambridgeshire | Two-tier county
+	- Hackney | London borough
+	- Limavady | District council area
+	- North Lincolnshire | Unitary authority (England)
+	- Gwynedd | Unitary authority (Wales)
+	- Cumbria | Two-tier county
+	- Hammersmith and Fulham | London borough
+	- Lisburn | District council area
+	- North Somerset | Unitary authority (England)
+	- Isle of Anglesey;Sir Ynys Mn | Unitary authority (Wales)
+	- Derbyshire | Two-tier county
+	- Haringey | London borough
+	- Magherafelt | District council area
+	- Northumberland | Unitary authority (England)
+	- Merthyr Tydfil;Merthyr Tudful | Unitary authority (Wales)
+	- Devon | Two-tier county
+	- Harrow | London borough
+	- Moyle | District council area
+	- Nottingham | Unitary authority (England)
+	- Monmouthshire;Sir Fynwy | Unitary authority (Wales)
+	- Dorset | Two-tier county
+	- Havering | London borough
+	- Newry and Mourne | District council area
+	- Peterborough | Unitary authority (England)
+	- Neath Port Talbot;Castell-nedd Port Talbot | Unitary authority (Wales)
+	- East Sussex | Two-tier county
+	- Hillingdon | London borough
+	- Newtownabbey | District council area
+	- Plymouth | Unitary authority (England)
+	- Newport;Casnewydd | Unitary authority (Wales)
+	- Essex | Two-tier county
+	- Hounslow | London borough
+	- North Down | District council area
+	- Poole | Unitary authority (England)
+	- Pembrokeshire;Sir Benfro | Unitary authority (Wales)
+	- Gloucestershire | Two-tier county
+	- Islington | London borough
+	- Omagh | District council area
+	- Portsmouth | Unitary authority (England)
+	- Powys | Unitary authority (Wales)
+	- Hampshire | Two-tier county
+	- Kensington and Chelsea | London borough
+	- Strabane | District council area
+	- Reading | Unitary authority (England)
+	- Rhondda, Cynon, Taff;Rhondda, Cynon,Taf | Unitary authority (Wales)
+	- Hertfordshire | Two-tier county
+	- Kingston upon Thames | London borough
+	- Bath and North East Somerset | Unitary authority (England)
+	- Redcar and Cleveland | Unitary authority (England)
+	- Swansea;Abertawe | Unitary authority (Wales)
+	- Kent | Two-tier county
+	- Lambeth | London borough
+	- Blackburn with Darwen | Unitary authority (England)
+	- Rutland | Unitary authority (England)
+	- Torfaen;Tor-faen | Unitary authority (Wales)
+	- Lancashire | Two-tier county
+	- Lewisham | London borough
+	- Bedford | Unitary authority (England)
+United States (US)
+	- Missouri | State
+	- Connecticut | State
+	- Texas | State
+	- Montana | State
+	- Delaware | State
+	- Utah | State
+	- Nebraska | State
+	- Florida | State
+	- Vermont | State
+	- Nevada | State
+	- Georgia | State
+	- Virginia | State
+	- New Hampshire | State
+	- Hawaii | State
+	- Washington | State
+	- New Jersey | State
+	- Idaho | State
+	- West Virginia | State
+	- New Mexico | State
+	- Illinois | State
+	- Wisconsin | State
+	- New York | State
+	- Indiana | State
+	- Wyoming | State
+	- North Carolina | State
+	- Iowa | State
+	- District of Columbia | District
+	- North Dakota | State
+	- Kansas | State
+	- American Samoa | Outlying area
+	- Ohio | State
+	- Kentucky | State
+	- Guam | Outlying area
+	- Oklahoma | State
+	- Louisiana | State
+	- Northern Mariana Islands | Outlying area
+	- Alabama | State
+	- Oregon | State
+	- Maine | State
+	- Puerto Rico | Outlying area
+	- Alaska | State
+	- Pennsylvania | State
+	- Maryland | State
+	- United States Minor Outlying Islands | Outlying area
+	- Arizona | State
+	- Rhode Island | State
+	- Massachusetts | State
+	- Virgin Islands | Outlying area
+	- Arkansas | State
+	- South Carolina | State
+	- Michigan | State
+	- California | State
+	- South Dakota | State
+	- Minnesota | State
+	- Colorado | State
+	- Tennessee | State
+	- Mississippi | State
+United States Minor Outlying Islands (UM)
+	- Howland Island | Territory
+	- Navassa Island | Territory
+	- Jarvis Island | Territory
+	- Palmyra Atoll | Territory
+	- Johnston Atoll | Territory
+	- Wake Island | Territory
+	- Kingman Reef | Territory
+	- Baker Island | Territory
+	- Midway Islands | Territory
+Uruguay (UY)
+	- Soriano | Department
+	- Lavalleja | Department
+	- Rivera | Department
+	- Colonia | Department
+	- Tacuaremb | Department
+	- Maldonado | Department
+	- Rocha | Department
+	- Durazno | Department
+	- Treinta y Tres | Department
+	- Montevideo | Department
+	- Artigas | Department
+	- Salto | Department
+	- Flores | Department
+	- Paysand | Department
+	- Canelones | Department
+	- San Jos | Department
+	- Florida | Department
+	- Ro Negro | Department
+	- Cerro Largo | Department
+Uzbekistan (UZ)
+	- Surxondaryo | Region
+	- Navoiy | Region
+	- Toshkent | Region
+	- Buxoro | Region
+	- Qashqadaryo | Region
+	- Xorazm | Region
+	- Farg'ona | Region
+	- Samarqand | Region
+	- Qoraqalpog'iston Respublikasi | Republic
+	- Jizzax | Region
+	- Toshkent | City
+	- Sirdaryo | Region
+	- Namangan | Region
+	- Andijon | Region
+Vanuatu (VU)
+	- Torba | Province
+	- Pnama | Province
+	- Sanma | Province
+	- Shfa | Province
+	- Tafa | Province
+	- Malampa | Province
+Venezuela, Bolivarian Republic of (VE)
+	- Dependencias Federales | Federal Dependency
+	- Portuguesa | State
+	- Distrito Federal | Federal District
+	- Sucre | State
+	- Amazonas | State
+	- Tchira | State
+	- Anzotegui | State
+	- Trujillo | State
+	- Apure | State
+	- Vargas | State
+	- Aragua | State
+	- Yaracuy | State
+	- Barinas | State
+	- Zulia | State
+	- Bolvar | State
+	- Carabobo | State
+	- Cojedes | State
+	- Delta Amacuro | State
+	- Falcn | State
+	- Gurico | State
+	- Lara | State
+	- Mrida | State
+	- Miranda | State
+	- Monagas | State
+	- Nueva Esparta | State
+Viet Nam (VN)
+	- Sc Trng | Province
+	- C Mau | Province
+	- Sn La | Province
+	- Kon Tum | Province
+	- Cao Bng | Province
+	- Ty Ninh | Province
+	- Lai Chu | Province
+	- c Lk | Province
+	- Thi Bnh | Province
+	- Lm ng | Province
+	- k Nng | Province
+	- Thi Nguyn | Province
+	- Lng Sn | Province
+	- in Bin | Province
+	- Thanh Ha | Province
+	- Lo Cai | Province
+	- ng Nai | Province
+	- Tha Thin-Hu | Province
+	- Long An | Province
+	- ng Thp | Province
+	- Tin Giang | Province
+	- Nam nh | Province
+	- Gia Lai | Province
+	- Tr Vinh | Province
+	- An Giang | Province
+	- Ngh An | Province
+	- H Giang | Province
+	- Tuyn Quang | Province
+	- B Ra-Vng Tu | Province
+	- Ninh Bnh | Province
+	- H Nam | Province
+	- Vnh Long | Province
+	- Bc Giang | Province
+	- Ninh Thun | Province
+	- H Ty | Province
+	- Vnh Phc | Province
+	- Bc Kn | Province
+	- Ph Th | Province
+	- H Tnh | Province
+	- Yn Bi | Province
+	- Bc Liu | Province
+	- Ph Yn | Province
+	- Hi Duong | Province
+	- Cn Th | Municipality
+	- Bc Ninh | Province
+	- Qung Bnh | Province
+	- Hu Giang | Province
+	-  Nng | Municipality
+	- Bn Tre | Province
+	- Qung Nam | Province
+	- Ho Bnh | Province
+	- H Ni | Municipality
+	- Bnh nh | Province
+	- Qung Ngi | Province
+	- Hng Yn | Province
+	- Hi Phng | Municipality
+	- Bnh Dng | Province
+	- Qung Ninh | Province
+	- Khnh Ha | Province
+	- H Ch Minh [Si Gn] | Municipality
+	- Bnh Phc | Province
+	- Qung Tr | Province
+	- Kin Giang | Province
+	- Bnh Thun | Province
+Virgin Islands, British (VG)
+Virgin Islands, U.S. (VI)
+Wallis and Futuna (WF)
+Western Sahara (EH)
+Yemen (YE)
+	- Raymah | Governorate
+	- Al Mahrah | Governorate
+	- ajjah | Governorate
+	- A li | Governorate
+	- a'dah | Governorate
+	- Al Mawt | Governorate
+	- Ibb | Governorate
+	- Al Bay' | Governorate
+	- an'' | Governorate
+	- 'Amrn | Governorate
+	- Laij | Governorate
+	- Al udaydah | Governorate
+	- Shabwah | Governorate
+	- Dhamr | Governorate
+	- Abyn | Governorate
+	- Ma'rib | Governorate
+	- Al Jawf | Governorate
+	- T'izz | Governorate
+	- aramawt | Governorate
+	- 'Adan | Governorate
+Zambia (ZM)
+	- Lusaka | Province
+	- Central | Province
+	- Northern | Province
+	- Copperbelt | Province
+	- North-Western | Province
+	- Eastern | Province
+	- Southern (Zambia) | Province
+	- Luapula | Province
+	- Western | Province
+Zimbabwe (ZW)
+	- Mashonaland East | Province
+	- Midlands | Province
+	- Bulawayo | City
+	- Mashonaland West | Province
+	- Harare | City
+	- Masvingo | Province
+	- Manicaland | Province
+	- Matabeleland North | Province
+	- Mashonaland Central | Province
+	- Matabeleland South | Province
