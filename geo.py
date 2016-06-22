@@ -19,7 +19,26 @@ try:
         sql = "SELECT `id`, `sortname`, `name` FROM `countries`"
         cursor.execute(sql)
         result = cursor.fetchone()
-        print(result)
+        while result is not None:
+            print(result['name'])
+            # Fetch states
+            with connection.cursor() as cursor2:
+                sql = "SELECT * FROM `states` WHERE country_id = " + str(result['id'])
+                cursor2.execute(sql)
+                result2 = cursor2.fetchone()
+                while result2 is not None:
+                    print("\t -" + result2['name'])
+                    # Fetch citites
+                    with connection.cursor() as cursor3:
+                        sql = "SELECT * FROM `cities` WHERE state_id = " + str(result2['id'])
+                        cursor3.execute(sql)
+                        result3 = cursor3.fetchone()
+                        while result3 is not None:
+                            print("\t\t -" + result3['name'])
+                            result3 = cursor3.fetchone()
+                    result2 = cursor2.fetchone()
+            result = cursor.fetchone()
+        
 finally:
     connection.close()
 
