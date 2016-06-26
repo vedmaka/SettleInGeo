@@ -4,10 +4,10 @@ Afghanistan
 		 -Fayzabad
 		 -Jurm
 		 -Khandud
-		 -Qal'eh-ye Panjeh
+		 -Qaleh-ye Panjeh
 	 -Badgis
 		 -Bala Morghab
-		 -Qal'eh-ye Naw
+		 -Qaleh-ye Naw
 	 -Baglan
 		 -Andarab
 		 -Baghlan
@@ -24,7 +24,7 @@ Afghanistan
 	 -Bamiyan
 		 -Bamiyan
 		 -Panjab
-		 -Qil Qal'eh
+		 -Qil Qaleh
 	 -Farah
 		 -Anar Darreh
 		 -Farah
@@ -42,7 +42,7 @@ Afghanistan
 		 -Ghazni
 	 -Herat
 		 -Awbeh
-		 -Eslam Qal'eh
+		 -Eslam Qaleh
 		 -Ghurian
 		 -Herat
 		 -Karukh
@@ -105,7 +105,7 @@ Afghanistan
 		 -Zareh Sharan
 		 -Zarghun Shahr
 	 -Paktiya
-		 -'Ali Khayl
+		 -Ali Khayl
 		 -Ghardez
 	 -Parwan
 		 -Charikar
@@ -117,7 +117,7 @@ Afghanistan
 		 -Emam Saheb
 		 -Hazart Imam
 		 -Khanabad
-		 -Qal'eh-ye Zal
+		 -Qaleh-ye Zal
 		 -Qunduz
 	 -Samangan
 		 -Aybak
@@ -130,7 +130,7 @@ Afghanistan
 		 -Khwajeh Ghar
 		 -Rostaq
 		 -Taloqan
-		 -Yangi Qal'eh
+		 -Yangi Qaleh
 	 -Uruzgan
 		 -Deh Rawud
 		 -Gaz Ab
@@ -247,8 +247,8 @@ Albania
 		 -Selenice
 		 -Vlore
 Algeria
-	 -'Ayn Daflah
-	 -'Ayn Tamushanat
+	 -Ayn Daflah
+	 -Ayn Tamushanat
 	 -Adrar
 		 -Adrar
 		 -Awlaf
@@ -265,22 +265,22 @@ Algeria
 		 -al-Buni
 		 -al-Hajar
 	 -Bashshar
-		 -'Abadlah
+		 -Abadlah
 		 -Bani Wanif
 		 -Bashshar
 		 -Qanadsan
 		 -Taghit
 	 -Batnah
-		 -'Aris
-		 -'Ayn Tutah
+		 -Aris
+		 -Ayn Tutah
 		 -Barikah
 		 -Batnah
 		 -Marwanah
 		 -Naghaus
-		 -Ra's-al-'Ayun
+		 -Ras-al-Ayun
 		 -Tazult
 	 -Bijayah
-		 -'Ayt Rizin
+		 -Ayt Rizin
 		 -Akbu
 		 -Amizur
 		 -Barbasha
@@ -289,7 +289,7 @@ Algeria
 		 -Ighram
 		 -Sadduk
 		 -Shamini
-		 -Sidi 'Aysh
+		 -Sidi Aysh
 		 -Taskaryut
 		 -Tazmalt
 		 -Timazrit
@@ -301,7 +301,7 @@ Algeria
 		 -Sidi Khalid
 		 -Sidi Ukbah
 		 -Tulja
-		 -Um'ash
+		 -Umash
 		 -Zaribat-al-Wad
 	 -Blidah
 		 -Awlad Salam
@@ -317,23 +317,23 @@ Algeria
 		 -Maftah
 		 -Muzayah
 		 -Shabli
-		 -Shari'ah
+		 -Shariah
 		 -Shiffa
 		 -Sidi Mussa
 		 -Suma
 		 -Wadi al-Allagh
-		 -al-'Afrun
-		 -al-Arba'a
+		 -al-Afrun
+		 -al-Arbaa
 	 -Buirah
-		 -'Ayn Bissim
+		 -Ayn Bissim
 		 -Aghbalu
-		 -Bi'r Ghabalu
+		 -Bir Ghabalu
 		 -Buirah
 		 -Lakhdariyah
 		 -Shurfa
 		 -Sur-al-Ghuzlan
 	 -Bumardas
-		 -'Ayn Tayah
+		 -Ayn Tayah
 		 -Awlad Haddaj
 		 -Awlad Mussa
 		 -Bani Amran
@@ -347,9 +347,9 @@ Algeria
 		 -Khamis-al-Khashnah
 		 -Nasiriyah
 		 -Raghayah
-		 -Sa'abat
+		 -Saabat
 		 -Tinyah
-		 -al-Arba'a Tash
+		 -al-Arbaa Tash
 		 -ar-Ruwibah
 	 -Burj Bu Arririj
 	 -Ghalizan
@@ -357,7 +357,7 @@ Algeria
 		 -Ghalizan
 		 -Jidiwiyah
 		 -Mazunah
-		 -Sidi Muhammad Ban 'Ali
+		 -Sidi Muhammad Ban Ali
 		 -Wadi Rahiyu
 		 -Zammurah
 	 -Ghardayah
@@ -366,24 +366,24 @@ Algeria
 		 -Ghardaia
 		 -Ghardayah
 		 -Matlili
-		 -al-Ghuli'ah
+		 -al-Ghuliah
 		 -al-Qararah
 	 -Ilizi
 		 -Ilizi
 	 -Jijili
-		 -Amir 'Abd-al-Qadar
+		 -Amir Abd-al-Qadar
 		 -Jijili
 		 -Shifka
 		 -Tahar
 		 -al-Miliyah
 	 -Jilfah
-		 -'Ayn Wissarah
-		 -'Ayn-al-Ibil
+		 -Ayn Wissarah
+		 -Ayn-al-Ibil
 		 -Birin
 		 -Dar Shiyukh
 		 -Hassi Bahbah
 		 -Jilfah
-		 -Mis'ad
+		 -Misad
 		 -Sharif
 		 -al-Idrisiyah
 	 -Khanshalah
@@ -392,17 +392,17 @@ Algeria
 		 -Tawziyanat
 		 -al-Mahmal
 	 -Masilah
-		 -'Ayn-al-Hajal
-		 -'Ayn-al-Milh
-		 -Bu Sa'adah
-		 -Hammam Dhala'a
-		 -Ma'adid
+		 -Ayn-al-Hajal
+		 -Ayn-al-Milh
+		 -Bu Saadah
+		 -Hammam Dhalaa
+		 -Maadid
 		 -Maghra
 		 -Masilah
-		 -Sidi 'Aysa
+		 -Sidi Aysa
 		 -Wanugha
 	 -Midyah
-		 -'Ayn Bu Sif
+		 -Ayn Bu Sif
 		 -Birwaghiyah
 		 -Midyah
 		 -Qasr-al-Bukhari
@@ -413,7 +413,7 @@ Algeria
 		 -Milah
 		 -Qararam Quqa
 		 -Ruwashad
-		 -Salghum-al-'Ayd
+		 -Salghum-al-Ayd
 		 -Sidi Maruf
 		 -Sidi Marwan
 		 -Tajananah
@@ -428,13 +428,13 @@ Algeria
 		 -Wadi al-Abtal
 		 -Zahana
 	 -Mustaghanam
-		 -'Ayn Tadalas
+		 -Ayn Tadalas
 		 -Hassi Mamash
 		 -Mazaghran
 		 -Mustaghanam
 		 -Sidi Ali
 	 -Naama
-		 -'Ayn Safra
+		 -Ayn Safra
 		 -Mishriyah
 		 -Naama
 	 -Oran
@@ -442,21 +442,21 @@ Algeria
 	 -Ouargla
 		 -Ouargla
 	 -Qalmah
-		 -'Ayn Bardah
+		 -Ayn Bardah
 		 -Bumahra Ahmad
-		 -Hamman Awlad 'Ali
+		 -Hamman Awlad Ali
 		 -Qalmah
 		 -Wadi Zinati
 	 -Qustantinah
-		 -'Ayn Abid
-		 -'Ayn Samara
+		 -Ayn Abid
+		 -Ayn Samara
 		 -Didush Murad
 		 -Hamma Bu Ziyan
 		 -Qustantinah
 		 -Zighut Yusuf
 		 -al-Khurub
 	 -Sakikdah
-		 -'Azzabah
+		 -Azzabah
 		 -Amjaz Adshish
 		 -Fil Fila
 		 -Karkira
@@ -467,31 +467,31 @@ Algeria
 		 -al-Harush
 		 -al-Qull
 	 -Satif
-		 -'Ayn 'Azl
-		 -'Ayn Arnat
-		 -'Ayn Taqrut
-		 -'Ayn Wilman
-		 -'Ayn-al-Khabira
+		 -Ayn Azl
+		 -Ayn Arnat
+		 -Ayn Taqrut
+		 -Ayn Wilman
+		 -Ayn-al-Khabira
 		 -Bouira
-		 -Buq'ah
+		 -Buqah
 		 -Salah Bay
 		 -Satif
 		 -Setif
 		 -Ziyama Mansuriyah
-		 -al-'Ulmah
-	 -Sayda'
-		 -'Ayn-al-Hajar
-		 -Sayda'
-	 -Sidi ban-al-'Abbas
+		 -al-Ulmah
+	 -Sayda
+		 -Ayn-al-Hajar
+		 -Sayda
+	 -Sidi ban-al-Abbas
 	 -Suq Ahras
 	 -Tamanghasat
-		 -'Ayn Qazzan
-		 -'Ayn Salah
+		 -Ayn Qazzan
+		 -Ayn Salah
 		 -Tamanghasat
 	 -Tibazah
-		 -'Ayn Binyan
-		 -Bu Isma'il
-		 -Bu Midfar'ah
+		 -Ayn Binyan
+		 -Bu Ismail
+		 -Bu Midfarah
 		 -Damus
 		 -Duwirah
 		 -Hajut
@@ -503,15 +503,15 @@ Algeria
 		 -Stawali
 		 -Tibazah
 		 -Ziralda
-		 -al-Qull'ah
+		 -al-Qullah
 	 -Tibissah
-		 -Bi'r-al-'Itir
+		 -Bir-al-Itir
 		 -Hammamat
 		 -Mursut
 		 -Shariyah
 		 -Tibissah
 		 -Winzah
-		 -al-'Awaynat
+		 -al-Awaynat
 	 -Tilimsan
 		 -Awlad Mimun
 		 -Bani Mastar
@@ -524,7 +524,7 @@ Algeria
 		 -Sabra
 		 -Shatwan
 		 -Sibdu
-		 -Sidi 'Abdallah
+		 -Sidi Abdallah
 		 -Tilimsan
 		 -al-Mansurah
 	 -Tinduf
@@ -533,10 +533,10 @@ Algeria
 		 -Thaniyat-al-Had
 		 -Tisamsilt
 	 -Tiyarat
-		 -'Ayn Dhahab
+		 -Ayn Dhahab
 		 -Firindah
 		 -Mahdiyah
-		 -Mashra'a Asfa
+		 -Mashraa Asfa
 		 -Qasr Shillalah
 		 -Rahuyah
 		 -Sughar
@@ -544,19 +544,19 @@ Algeria
 		 -Tiyarat
 	 -Tizi Wazu
 	 -Umm-al-Bawaghi
-		 -'Ayn Bayda
-		 -'Ayn Fakrun
-		 -'Ayn Kirshah
-		 -'Ayn Malilah
-		 -Bi'r Shuhada
+		 -Ayn Bayda
+		 -Ayn Fakrun
+		 -Ayn Kirshah
+		 -Ayn Malilah
+		 -Bir Shuhada
 		 -Miskyanah
 		 -Shamurah
 		 -Umm-al-Bawaghi
 	 -Wahran
-		 -'Ayn Biya
-		 -'Ayn-at-Turk
+		 -Ayn Biya
+		 -Ayn-at-Turk
 		 -Arzu
-		 -Bi'r-al-Jir
+		 -Bir-al-Jir
 		 -Butlilis
 		 -Hassi Bu Nif
 		 -Mars-al-Kabir
@@ -567,7 +567,7 @@ Algeria
 		 -al-Ansur
 		 -as-Saniyah
 	 -Warqla
-		 -Hassi Mas'ud
+		 -Hassi Masud
 		 -Nazla
 		 -Ruwisiyat
 		 -Tabisbast
@@ -588,20 +588,20 @@ Algeria
 		 -Brizyanah
 		 -al-Abyad Sidi Shaykh
 		 -al-Bayadh
-	 -al-Jaza'ir
+	 -al-Jazair
 		 -Bab Azwar
 		 -Baraki
 		 -Bir Murad Rais
 		 -Birkhadam
 		 -Burj-al-Kiffan
 		 -Dar-al-Bayda
-		 -al-Jaza'ir
+		 -al-Jazair
 	 -al-Wad
 		 -Bayadha
 		 -Dabilah
-		 -Hassan 'Abd-al-Karim
+		 -Hassan Abd-al-Karim
 		 -Hassi Halifa
-		 -Jama'a
+		 -Jamaa
 		 -Maqran
 		 -Qamar
 		 -Raqiba
@@ -610,7 +610,7 @@ Algeria
 		 -al-Mighair
 		 -al-Wad
 	 -ash-Shalif
-		 -'Ayn Maran
+		 -Ayn Maran
 		 -Abu al-Hassan
 		 -Bani Hawa
 		 -Bu Qadir
@@ -625,8 +625,8 @@ Algeria
 		 -Bani Amar
 		 -Basbas
 		 -Dariyan
-		 -Saba'ita Muk
-		 -al-Qal'ah
+		 -Sabaita Muk
+		 -al-Qalah
 		 -at-Tarif
 American Samoa
 	 -Eastern
@@ -635,35 +635,35 @@ American Samoa
 		 -Alofau
 		 -Amouli
 		 -Aoa
-		 -Atu'u
+		 -Atuu
 		 -Aua
-		 -Aunu'u
-		 -Faga'alu
-		 -Faga'itua
+		 -Aunuu
+		 -Fagaalu
+		 -Fagaitua
 		 -Fagasa
 		 -Fagatogo
-		 -Lauli'i
+		 -Laulii
 		 -Leloaloa
-		 -Nu'uuli
+		 -Nuuuli
 		 -Pago Pago
 		 -Tula
 		 -Utulei
 		 -Vatia
-	 -Manu'a
+	 -Manua
 		 -Ofu
 	 -Swains Island
 	 -Western
 		 -Aoloau
 		 -Faleniu
 		 -Futiga
-		 -Ili'ili
+		 -Iliili
 		 -Leone
 		 -Malaeimi
 		 -Malaeloa-Aitulagi
 		 -Malaeloa-Ituau
 		 -Mapusagafou
 		 -Mesepa
-		 -Pava'ia'i
+		 -Pavaiai
 		 -Tafuna
 		 -Taputimu
 		 -Vailoatai
@@ -726,8 +726,8 @@ Angola
 		 -Camabatela
 		 -Uige
 	 -Zaire
-		 -M'banza-Kongo
-		 -N'zeto
+		 -Mbanza-Kongo
+		 -Nzeto
 		 -Soyo
 Anguilla
 	 -Other Provinces
@@ -1646,8 +1646,8 @@ Bahamas The
 	 -Rum Cay
 	 -San Salvador
 Bahrain
-	 -'Isa
-		 -'Isa
+	 -Isa
+		 -Isa
 	 -Badiyah
 		 -Badiyah
 	 -Hidd
@@ -1663,8 +1663,8 @@ Bahrain
 		 -al-Manamah
 	 -al-Muharraq
 		 -al-Muharraq
-	 -ar-Rifa'a
-		 -ar-Rifa'a
+	 -ar-Rifaa
+		 -ar-Rifaa
 Bangladesh
 	 -Bagar Hat
 	 -Bandarban
@@ -1819,7 +1819,7 @@ Bangladesh
 	 -Nilphamari
 		 -Domar
 		 -Nilphamari
-		 -Sa'idpur
+		 -Saidpur
 	 -Noakhali
 		 -Begamganj
 		 -Noakhali
@@ -1908,13 +1908,13 @@ Belarus
 		 -Stolin
 		 -Vysokoje
 		 -Zhabinka
-	 -Homjel'
+	 -Homjel
 		 -Buda Kosheljovo
 		 -Chechersk
 		 -Dobrush
 		 -Hojniki
-		 -Homjel'
-		 -Jel'sk
+		 -Homjel
+		 -Jelsk
 		 -Kalinkavichy
 		 -Kascjukovka
 		 -Mazyr
@@ -1935,9 +1935,9 @@ Belarus
 		 -Masty
 		 -Navahrudak
 		 -Shchuchyn
-		 -Skidel'
+		 -Skidel
 		 -Slonim
-		 -Smarhon'
+		 -Smarhon
 		 -Vawkavysk
 	 -Mahiljow
 		 -Asipovichy
@@ -1956,11 +1956,11 @@ Belarus
 	 -Mahilyowskaya Voblasts
 	 -Minsk
 		 -Minsk
-	 -Minskaja Voblasts'
+	 -Minskaja Voblasts
 	 -Petrik
 		 -Petrikov
 	 -Vicebsk
-		 -Baran'
+		 -Baran
 		 -Braslav
 		 -Chashniki
 		 -Disna
@@ -1968,10 +1968,10 @@ Belarus
 		 -Dubrovna
 		 -Haradok
 		 -Hlybokaje
-		 -Ljepjel'
+		 -Ljepjel
 		 -Mjory
 		 -Navapolack
-		 -Novalukoml'
+		 -Novalukoml
 		 -Orsha
 		 -Pastavy
 		 -Polack
@@ -2107,7 +2107,7 @@ Belgium
 		 -Farciennes
 		 -Fleurus
 		 -Flobecq
-		 -Fontaine-l'Eveque
+		 -Fontaine-lEveque
 		 -Frameries
 		 -Frasnes-lez-Anvaing
 		 -Froidchapelle
@@ -2128,7 +2128,7 @@ Belgium
 		 -Merbes-le-Chateau
 		 -Momignies
 		 -Mons
-		 -Mont-de-l'Enclus
+		 -Mont-de-lEnclus
 		 -Montigny-le-Tilleul
 		 -Morlanwelz
 		 -Mouscron
@@ -3160,7 +3160,7 @@ Brazil
 		 -Minador do Negrao
 		 -Murici
 		 -Novo Lino
-		 -Olho d'Agua das Flores
+		 -Olho dAgua das Flores
 		 -Olivenca
 		 -Palmeira dos Indios
 		 -Pao de Acucar
@@ -3299,7 +3299,7 @@ Brazil
 		 -Correntina
 		 -Cruz das Almas
 		 -Curaca
-		 -Dias d'Avila
+		 -Dias dAvila
 		 -Encruzilhada
 		 -Entre Rios
 		 -Esplanada
@@ -3706,7 +3706,7 @@ Brazil
 		 -Montes Altos
 		 -Morros
 		 -Nova Olinda do Maranhao
-		 -Olho d'Agua das Cunhas
+		 -Olho dAgua das Cunhas
 		 -Paco do Lumiar
 		 -Paraibano
 		 -Parnarama
@@ -4241,10 +4241,10 @@ Brazil
 	 -Rio Grande do Sul
 	 -Rio de Janeiro
 	 -Rondonia
-		 -Alta Floresta d'Oeste
+		 -Alta Floresta dOeste
 		 -Alto Alegre do Parecis
 		 -Alto Paraiso
-		 -Alvorada d'Oeste
+		 -Alvorada dOeste
 		 -Ariquemes
 		 -Buritis
 		 -Cacoal
@@ -4252,15 +4252,15 @@ Brazil
 		 -Cerejeiras
 		 -Colorado do Oeste
 		 -Corumbiara
-		 -Espigao d'Oeste
+		 -Espigao dOeste
 		 -Governador Jorge Teixeira
 		 -Guajara-Mirim
 		 -Jaru
 		 -Ji-Parana
-		 -Machadinho d'Oeste
+		 -Machadinho dOeste
 		 -Ministro Andreazza
 		 -Mirante da Serra
-		 -Nova Brasilandia d'Oeste
+		 -Nova Brasilandia dOeste
 		 -Nova Mamore
 		 -Novo Horizonte do Oeste
 		 -Ouro Preto do Oeste
@@ -4268,7 +4268,7 @@ Brazil
 		 -Porto Velho
 		 -Presidente Medici
 		 -Rolim de Moura
-		 -Santa Luzia d'Oeste
+		 -Santa Luzia dOeste
 		 -Sao Miguel do Guapore
 		 -Urupa
 		 -Vale do Paraiso
@@ -4302,7 +4302,7 @@ Brazil
 		 -Indiaroba
 		 -Itabaiana
 		 -Itabaianinha
-		 -Itaporanga d'Ajuda
+		 -Itaporanga dAjuda
 		 -Japaratuba
 		 -Japoata
 		 -Lagarto
@@ -4620,7 +4620,7 @@ Burkina Faso
 	 -Gnagna
 		 -Bogande
 	 -Gourma
-		 -Fada N'gourma
+		 -Fada Ngourma
 	 -Houet
 		 -Bekuy
 		 -Bobo Dioulasso
@@ -5027,7 +5027,7 @@ Canada
 		 -Aylmer
 		 -Ayr
 		 -Barrie
-		 -Barry's Bay
+		 -Barrys Bay
 		 -Beamsville
 		 -Beaverton
 		 -Beeton
@@ -5149,7 +5149,7 @@ Canada
 		 -Kingston
 		 -Kirkland Lake
 		 -Kitchener
-		 -L'Original
+		 -LOriginal
 		 -Lakefield
 		 -Lanark
 		 -Leamington
@@ -5388,9 +5388,9 @@ Canada
 		 -Huntingdon
 		 -Joliette
 		 -Kingsey Falls
-		 -L'Annonciation
-		 -L'Ascension-de-Notre-Seigneur
-		 -L'Epiphanie
+		 -LAnnonciation
+		 -LAscension-de-Notre-Seigneur
+		 -LEpiphanie
 		 -La Malbaie
 		 -La Pocatiere
 		 -La Sarre
@@ -5513,7 +5513,7 @@ Canada
 		 -Saint-Raphael
 		 -Saint-Raymond
 		 -Saint-Remi
-		 -Saint-Roch-de-l'Achigan
+		 -Saint-Roch-de-lAchigan
 		 -Saint-Sauveur-des-Monts
 		 -Saint-Tite
 		 -Sainte-Adele
@@ -5548,7 +5548,7 @@ Canada
 		 -Trois-Pistoles
 		 -Trois-Rivieres
 		 -Val-David
-		 -Val-d'Or
+		 -Val-dOr
 		 -Valcourt
 		 -Vallee-Jonction
 		 -Vaudreuil
@@ -5576,7 +5576,7 @@ Canada
 		 -Estevan
 		 -Eston
 		 -Foam Lake
-		 -Fort Qu'Appelle
+		 -Fort QuAppelle
 		 -Gravelbourg
 		 -Grenfell
 		 -Gull Lake
@@ -5722,7 +5722,7 @@ Chad
 		 -Massaguet
 		 -Massakory
 		 -Massenya
-		 -N'Djamena
+		 -NDjamena
 		 -Ngama
 	 -Guera
 		 -Bitkine
@@ -5771,7 +5771,7 @@ Chile
 		 -Coihaique
 		 -Guaitecas
 		 -Lago Verde
-		 -O'Higgins
+		 -OHiggins
 		 -Rio Ibanez
 		 -Tortel
 	 -Antofagasta
@@ -5843,7 +5843,7 @@ Chile
 		 -Rio Hurtado
 		 -Salamanca
 		 -Vicuna
-	 -Libertador General Bernardo O'
+	 -Libertador General Bernardo O
 	 -Los Lagos
 	 -Magellanes
 		 -Cabo de Horno
@@ -8798,7 +8798,7 @@ Costa Rica
 		 -Quepos
 		 -San Vito
 	 -San Jose
-Cote D'Ivoire (Ivory Coast)
+Cote DIvoire (Ivory Coast)
 	 -Abidjan
 		 -Marcory
 	 -Agneby
@@ -8849,15 +8849,15 @@ Cote D'Ivoire (Ivory Coast)
 	 -Moyen-Comoe
 		 -Abengourou
 		 -Agnibilekrou
-	 -N'zi-Comoe
+	 -Nzi-Comoe
 		 -Arrah
 		 -Bocanda
 		 -Bongouanou
 		 -Daoukro
 		 -Dimbokro
-		 -M'bahiakro
+		 -Mbahiakro
 		 -Mbatto
-		 -N'zi-Comoe
+		 -Nzi-Comoe
 	 -Sassandra
 		 -San-Pedro
 		 -Sassandra
@@ -9672,7 +9672,7 @@ Czech Republic
 		 -Letovice
 		 -Mikulov
 		 -Moravsky Krumlov
-		 -Namesht' nad Oslavou
+		 -Namesht nad Oslavou
 		 -Rosice
 		 -Shlapanice
 		 -Slavkov u Brna
@@ -9824,7 +9824,7 @@ Czech Republic
 	 -Plzensky
 		 -Dobrany
 		 -Domazhlice
-		 -Horazhd'ovice
+		 -Horazhdovice
 		 -Horshovky Tyn
 		 -Kdyne
 		 -Klatovy
@@ -9929,9 +9929,9 @@ Czech Republic
 		 -Svetla nad Sazavou
 		 -Telch
 		 -Trebich
-		 -Tresht'
+		 -Tresht
 		 -Velke Mezirichi
-		 -Zhd'ar
+		 -Zhdar
 	 -Zlinsky
 		 -Brumov
 		 -Bystrice pod Hostynem
@@ -10127,7 +10127,7 @@ Denmark
 		 -Logstor
 		 -Nibe
 		 -Norresundby
-		 -NÃƒÂƒÃ‚Â¸rresundby
+		 -Nrresundby
 		 -Pandrup
 		 -Saby
 		 -Sindal
@@ -10327,7 +10327,7 @@ Denmark
 		 -Ulstrup
 		 -Viborg
 Djibouti
-	 -'Ali Sabih
+	 -Ali Sabih
 	 -Dikhil
 		 -Dikhil
 	 -Jibuti
@@ -10576,7 +10576,7 @@ Egypt
 		 -al-Qusiyah
 		 -an-Nukhaylah
 	 -Bani Suwayf
-	 -Bur Sa'id
+	 -Bur Said
 	 -Cairo
 		 -6th of October City
 		 -Ataba
@@ -10585,19 +10585,19 @@ Egypt
 		 -Nasr City
 		 -Obour City
 	 -Dumyat
-		 -'Izbat-al-Burj
+		 -Izbat-al-Burj
 		 -Damietta
 		 -Dumyat
 		 -El-Zarka
 		 -Faraskur
-		 -Kafr Sa'd
+		 -Kafr Sad
 		 -Kafr-al-Battikh
 		 -az-Zarqa
 	 -Kafr-ash-Shaykh
 		 -Biyala
 		 -Disuq
 		 -Fuwah
-		 -Kafr-al-Jara'idah
+		 -Kafr-al-Jaraidah
 		 -Kafr-ash-Shaykh
 		 -Mutubis
 		 -Qallin
@@ -10611,7 +10611,7 @@ Egypt
 		 -Nasr
 		 -Sidi Barrani
 		 -Zawiyat Shammas
-		 -ad-Da'ba
+		 -ad-Daba
 	 -Muhafazat ad Daqahliyah
 	 -Muhafazat al Fayyum
 	 -Muhafazat al Gharbiyah
@@ -10619,7 +10619,7 @@ Egypt
 	 -Muhafazat al Qahirah
 	 -Qina
 		 -Armant
-		 -Asfun-al-Mata'inah
+		 -Asfun-al-Matainah
 		 -Dandarah
 		 -Dishna
 		 -Farshut
@@ -10627,8 +10627,8 @@ Egypt
 		 -Hiw
 		 -Idfu
 		 -Isna
-		 -Kiman-al-Mata'inah
-		 -Naj' Hammadi
+		 -Kiman-al-Matainah
+		 -Naj Hammadi
 		 -Naqadah
 		 -Qift
 		 -Qina
@@ -10663,7 +10663,7 @@ Egypt
 		 -Shirbin
 		 -Talkha
 		 -al-Jamaliyah
-		 -al-Ma'sarah
+		 -al-Masarah
 		 -al-Mansurah
 		 -al-Manzilah
 		 -al-Matariyah
@@ -10679,7 +10679,7 @@ Egypt
 		 -Buturis
 		 -Damanhur
 		 -Edfina
-		 -Hawsh 'Isa
+		 -Hawsh Isa
 		 -Idku
 		 -Ityay-al-Barud
 		 -Kafr Salim
@@ -10720,7 +10720,7 @@ Egypt
 		 -al-Iskandariyah
 		 -al-Maks
 	 -al-Ismailiyah
-		 -Fa'id
+		 -Faid
 		 -Sarabiyum
 		 -al-Ismailiyah
 	 -al-Jizah
@@ -10730,7 +10730,7 @@ Egypt
 		 -Madinat Sittah Uktubar
 		 -Nahya
 		 -Saqqarah
-		 -al-'Ayyat
+		 -al-Ayyat
 		 -al-Badrashayn
 		 -al-Hawamidiyah
 		 -al-Jizah
@@ -10739,7 +10739,7 @@ Egypt
 		 -as-Saff
 	 -al-Minufiyah
 		 -Ashmun
-		 -Birkat-as-Sab'
+		 -Birkat-as-Sab
 		 -Milij
 		 -Minuf
 		 -Quwaysina
@@ -10768,7 +10768,7 @@ Egypt
 		 -Heliopolis
 		 -al-Qahira
 	 -al-Qalyubiyah
-		 -Abu Za'bal
+		 -Abu Zabal
 		 -Banha
 		 -Qalyub
 		 -Shubra al-Khaymah
@@ -10890,7 +10890,7 @@ Eritrea
 		 -Edd
 		 -Mersa Fatma
 	 -Gash-Barka
-		 -Ak'ordat
+		 -Akordat
 		 -Barentu
 		 -Teseney
 	 -Maekel
@@ -10899,10 +10899,10 @@ Eritrea
 		 -Himbirti
 		 -Nefasit
 	 -Semien-Keih-Bahri
-		 -Addi K'eyih
-		 -Dek'emhare
+		 -Addi Keyih
+		 -Dekemhare
 		 -Mitsiwa
-		 -Sen'afe
+		 -Senafe
 Estonia
 	 -Harju
 		 -Aasmae
@@ -11939,8 +11939,8 @@ Ethiopia
 		 -Dubti
 		 -Gewane
 	 -Amhara
-		 -Addi Ark'ay
-		 -Addis 'Alem
+		 -Addi Arkay
+		 -Addis Alem
 		 -Addis Zemen
 		 -Adet
 		 -Bahir Dar
@@ -11952,7 +11952,7 @@ Ethiopia
 		 -Dangla
 		 -Debark
 		 -Debre Birhan
-		 -Debre Mark'os
+		 -Debre Markos
 		 -Debre Sina
 		 -Debre Tabor
 		 -Debre Werk
@@ -11960,13 +11960,13 @@ Ethiopia
 		 -Dese
 		 -Finote Selam
 		 -Gondar
-		 -K'obo
+		 -Kobo
 		 -Kembolcha
 		 -Kemise
 		 -Lalibela
-		 -Mott'a
+		 -Motta
 		 -Nefas Mewcha
-		 -Sek'ot'a
+		 -Sekota
 		 -Shewa Robit
 		 -Weldiya
 		 -Were Ilu
@@ -11983,7 +11983,7 @@ Ethiopia
 		 -Jigjiga
 	 -Mekele
 	 -Oromia
-		 -'Alem Maya
+		 -Alem Maya
 		 -Abomsa
 		 -Agaro
 		 -Asasa
@@ -12002,7 +12002,7 @@ Ethiopia
 		 -Gedo
 		 -Gelemso
 		 -Gimbi
-		 -Ginch'i
+		 -Ginchi
 		 -Ginir
 		 -Giyon
 		 -Goba
@@ -12017,7 +12017,7 @@ Ethiopia
 		 -Kibre Mengist
 		 -Kofele
 		 -Mega
-		 -Mek'i
+		 -Meki
 		 -Mendi
 		 -Metehara
 		 -Metu
@@ -12026,7 +12026,7 @@ Ethiopia
 		 -Nazret
 		 -Nedjo
 		 -Negele
-		 -Nek'emte
+		 -Nekemte
 		 -Robe
 		 -Sebeta
 		 -Sendafa
@@ -12036,8 +12036,8 @@ Ethiopia
 		 -Sheh Hussen
 		 -Sire
 		 -Tulu Bolo
-		 -Welench'iti
-		 -Welk'it'e
+		 -Welenchiti
+		 -Welkite
 		 -Wonji
 		 -Yabelo
 		 -Ziway
@@ -12057,10 +12057,10 @@ Ethiopia
 		 -Boditi
 		 -Bonga
 		 -Butajira
-		 -Ch'ench'a
+		 -Chencha
 		 -Dilla
 		 -Gidole
-		 -Hossa'ina
+		 -Hossaina
 		 -Jinka
 		 -Leku
 		 -Mizan Teferi
@@ -12069,21 +12069,21 @@ Ethiopia
 		 -Teppi
 		 -Wendo
 		 -Yirga Alem
-		 -Yirga Ch'efe
+		 -Yirga Chefe
 	 -Tigray
 		 -Abiy Adi
 		 -Addigrat
 		 -Adwa
 		 -Aksum
-		 -Alamat'a
+		 -Alamata
 		 -Endasilasie
 		 -Hagere Selam
 		 -Himora
 		 -Korem
-		 -Maych'ew
-		 -Mek'ele
+		 -Maychew
 		 -Mekele
-		 -Wik'ro
+		 -Mekele
+		 -Wikro
 External Territories of Australia
 	 -Christmas Island
 	 -Cocos Islands
@@ -12394,7 +12394,7 @@ France
 		 -Reichstett
 		 -Saint Aubin
 		 -Saint Christophe
-		 -Saint Martin dÃƒÂ¢Ã‚Â€Ã‚Â™Here
+		 -Saint Martin dHere
 		 -Saint-Berthevin
 		 -Saint-Cergues
 		 -Sancerre
@@ -12481,7 +12481,7 @@ France
 		 -Allauch
 		 -Arles
 		 -Aubagne
-		 -Berre-l'Etang
+		 -Berre-lEtang
 		 -Bouc-Bel-Air
 		 -Chateauneuf-les-Martigues
 		 -Chateaurenard
@@ -12563,13 +12563,13 @@ France
 	 -Corse-du-Sud
 		 -Ajaccio
 		 -Porto-Vecchio
-	 -Cote-d'Or
+	 -Cote-dOr
 		 -Beaune
 		 -Chenove
 		 -Dijon
 		 -Quetigny
 		 -Talant
-	 -Cotes-d'Armor
+	 -Cotes-dArmor
 		 -Dinan
 		 -Lamballe
 		 -Lannion
@@ -12710,7 +12710,7 @@ France
 		 -Pessac
 		 -Saint-Medard-en-Jalles
 		 -Talence
-		 -Villenave-d'Ornon
+		 -Villenave-dOrnon
 	 -Haut-Rhin
 		 -Cernay
 		 -Colmar
@@ -12730,7 +12730,7 @@ France
 		 -Blagnac
 		 -Colomiers
 		 -Cugnaux
-		 -L'Union
+		 -LUnion
 		 -Muret
 		 -Plaisance-du-Touch
 		 -Ramonville-Saint-Agne
@@ -12808,7 +12808,7 @@ France
 		 -Sevres
 		 -Suresnes
 		 -Vanves
-		 -Ville-d'Avray
+		 -Ville-dAvray
 		 -Villeneuve-la-Garenne
 	 -Herault
 		 -Agde
@@ -12854,7 +12854,7 @@ France
 		 -Le Pont-de-Claix
 		 -Meylan
 		 -Saint-Egreve
-		 -Saint-Martin-d'Heres
+		 -Saint-Martin-dHeres
 		 -Seyssinet-Pariset
 		 -Vienne
 		 -Villefontaine
@@ -12876,7 +12876,7 @@ France
 		 -Tarnos
 	 -Languedoc-Roussillon
 		 -Codolet
-		 -Cuxac-d'Aude
+		 -Cuxac-dAude
 		 -Gigean
 		 -Grabels
 		 -Lamalou-les-Bains
@@ -12954,7 +12954,7 @@ France
 		 -Avrille
 		 -Cholet
 		 -Les Ponts-de-Ce
-		 -Saint-Barthelemy-d'Anjou
+		 -Saint-Barthelemy-dAnjou
 		 -Saumur
 		 -Torfou
 		 -Trelaze
@@ -13045,12 +13045,12 @@ France
 		 -Aulnoye-Aymeries
 		 -Bailleul
 		 -Bondues
-		 -Bruay-sur-l'Escaut
+		 -Bruay-sur-lEscaut
 		 -Cambrai
 		 -Cappelle-la-Grande
 		 -Caudry
 		 -Comines
-		 -Conde-sur-l'Escaut
+		 -Conde-sur-lEscaut
 		 -Coudekerque-Branche
 		 -Croix
 		 -Denain
@@ -13100,7 +13100,7 @@ France
 		 -Tourcoing
 		 -Valenciennes
 		 -Vieux-Conde
-		 -Villeneuve-d'Ascq
+		 -Villeneuve-dAscq
 		 -Wasquehal
 		 -Wattignies
 		 -Wattrelos
@@ -13125,7 +13125,7 @@ France
 		 -Alencon
 		 -Argentan
 		 -Flers
-		 -L'Aigle
+		 -LAigle
 	 -Paris
 		 -Paris
 	 -Pas-de-Calais
@@ -13167,7 +13167,7 @@ France
 		 -Marolles-les-Braults
 		 -Mortagne-sur-Sevre
 		 -Mouzillon
-		 -Noirmoutier-en-l'ÃƒÂŽle
+		 -Noirmoutier-en-lle
 	 -Picardy
 		 -Friville
 		 -Liancourt
@@ -13180,7 +13180,7 @@ France
 		 -Beaumont
 		 -Chamalieres
 		 -Clermont-Ferrand
-		 -Cournon-d'Auvergne
+		 -Cournon-dAuvergne
 		 -Gerzat
 		 -Issoire
 		 -Riom
@@ -13231,7 +13231,7 @@ France
 		 -Beauvoir-en-Royans
 		 -Belley
 		 -Bons-en-Chablais
-		 -Chalain-d'Uzore
+		 -Chalain-dUzore
 		 -Chassieu
 		 -Chavanod
 		 -Chazay-d-Azergues
@@ -13296,7 +13296,7 @@ France
 		 -Dieppe
 		 -Elbeuf
 		 -Fecamp
-		 -Gonfreville-l'Orcher
+		 -Gonfreville-lOrcher
 		 -Grand-Couronne
 		 -Harfleur
 		 -Le Grand-Quevilly
@@ -13400,7 +13400,7 @@ France
 	 -Treignac
 		 -Chamberet
 	 -Upper Normandy
-	 -Val-d'Oise
+	 -Val-dOise
 		 -Argenteuil
 		 -Arnouville-les-Gonesse
 		 -Beauchamps
@@ -13421,7 +13421,7 @@ France
 		 -Goussainville
 		 -Herblay
 		 -Jouy-le-Moutier
-		 -L'Isle-Adam
+		 -LIsle-Adam
 		 -Montigny-les-Cormeilles
 		 -Montmagny
 		 -Montmorency
@@ -13431,7 +13431,7 @@ France
 		 -Saint-Brice-sous-Foret
 		 -Saint-Gratien
 		 -Saint-Leu-la-Foret
-		 -Saint-Ouen-l'Aumone
+		 -Saint-Ouen-lAumone
 		 -Sannois
 		 -Sarcelles
 		 -Soisy-sous-Montmorency
@@ -13456,7 +13456,7 @@ France
 		 -Gentilly
 		 -Ivry-sur-Seine
 		 -Joinville-le-Pont
-		 -L'Hay-les-Roses
+		 -LHay-les-Roses
 		 -La Queue-en-Brie
 		 -Le Kremlin-Bicetre
 		 -Le Perreux-sur-Marne
@@ -13503,7 +13503,7 @@ France
 		 -Bollene
 		 -Carpentras
 		 -Cavaillon
-		 -L'Isle-sur-la-Sorgue
+		 -LIsle-sur-la-Sorgue
 		 -Le Pontet
 		 -Orange
 		 -Pertuis
@@ -13513,12 +13513,12 @@ France
 		 -Vellise
 	 -Vendee
 		 -Challans
-		 -Chateau-d'Olonne
+		 -Chateau-dOlonne
 		 -Fontenay-le-Comte
 		 -La Chasnis
 		 -La Roche-sur-Yon
 		 -Les Herbiers
-		 -Les Sables-d'Olonne
+		 -Les Sables-dOlonne
 		 -Longeville-sur-Mer
 	 -Vienne
 		 -Chatellerault
@@ -13537,7 +13537,7 @@ France
 		 -Acheres
 		 -Andresy
 		 -Aubergenville
-		 -Bois-d'Arcy
+		 -Bois-dArcy
 		 -Carrieres-sous-Poissy
 		 -Carrieres-sur-Seine
 		 -Chanteloup-les-Vignes
@@ -13565,7 +13565,7 @@ France
 		 -Plaisir
 		 -Poissy
 		 -Rambouillet
-		 -Saint-Cyr-l'Ecole
+		 -Saint-Cyr-lEcole
 		 -Saint-Germain-en-Laye
 		 -Sartrouville
 		 -Trappes
@@ -14590,7 +14590,7 @@ Germany
 		 -Heroldstatt
 	 -Hessen
 		 -ABlar
-		 -Alsbach-HÃƒÂ¤hnlein
+		 -Alsbach-Hhnlein
 		 -Alsfeld
 		 -Altenstadt
 		 -Angelburg
@@ -16316,7 +16316,7 @@ Grenada
 	 -Carriacou-Petite Martinique
 	 -Saint Andrew
 	 -Saint Davids
-	 -Saint George's
+	 -Saint Georges
 	 -Saint John
 	 -Saint Mark
 	 -Saint Patrick
@@ -16340,7 +16340,7 @@ Guadeloupe
 		 -Le Gosier
 		 -Le Moule
 		 -Les Abymes
-		 -Morne-a-l'Eau
+		 -Morne-a-lEau
 		 -Petit-Canal
 		 -Point-a-Pitre
 		 -Port-Louis
@@ -16452,7 +16452,7 @@ Guatemala
 		 -Zacapa
 Guernsey and Alderney
 	 -Alderney
-		 -Saint Anne's
+		 -Saint Annes
 	 -Castel
 		 -Castle
 	 -Forest
@@ -16591,16 +16591,16 @@ Haiti
 		 -Dessalines
 		 -Gonaives
 		 -Gros-Morne
-		 -L'Artibonite
+		 -LArtibonite
 		 -Saint-Marc
-		 -Saint-Michel-de-l'Atalaye
+		 -Saint-Michel-de-lAtalaye
 		 -Saint-Raphael
 		 -Verrettes
 	 -Centre
 		 -Hinche
 		 -Mirebalais
-	 -Grand'Anse
-		 -Anse-d'Hainault
+	 -GrandAnse
+		 -Anse-dHainault
 		 -Dame Marie
 		 -Jeremie
 		 -Miragoane
@@ -23221,7 +23221,7 @@ Iran
 		 -Khonsar
 		 -Khuresgan
 		 -Mobarakeh
-		 -Na'in
+		 -Nain
 		 -Najafabad
 		 -Natnaz
 		 -Qahdarijan
@@ -23245,7 +23245,7 @@ Iran
 		 -Marv Dasht
 		 -Neyriz
 		 -Nurabad
-		 -Qa'emiyeh
+		 -Qaemiyeh
 		 -Sepidan
 		 -Shiraz
 	 -Gilan
@@ -23259,9 +23259,9 @@ Iran
 		 -Rasht
 		 -Rudbar
 		 -Rudsar
-		 -Sawma'eh Sara
+		 -Sawmaeh Sara
 	 -Golestan
-		 -Aq Qal'eh
+		 -Aq Qaleh
 		 -Azad Shahr
 		 -Bandar-e Torkaman
 		 -Gonbad-e Qabus
@@ -23275,7 +23275,7 @@ Iran
 		 -Tuysarkan
 	 -Hormozgan
 		 -Bandar Abbas
-		 -Bandar-e 'Abbas
+		 -Bandar-e Abbas
 		 -Bandar-e Lengeh
 		 -Gheshm
 		 -Jask
@@ -23320,7 +23320,7 @@ Iran
 		 -Esfarayen
 		 -Fariman
 		 -Ferdus
-		 -Gha'nat
+		 -Ghanat
 		 -Gonabad
 		 -Kashmar
 		 -Mashad
@@ -23400,7 +23400,7 @@ Iran
 		 -Neka
 		 -Nur
 		 -Nushahr
-		 -Qa'emshahr
+		 -Qaemshahr
 		 -Ramsar
 		 -Sari
 		 -Savadkuh
@@ -23463,9 +23463,9 @@ Iraq
 		 -Zakhu
 	 -Dhi Qar
 	 -Diyala
-		 -Ba'qubah
+		 -Baqubah
 		 -Hanaqin
-		 -Jalula''
+		 -Jalula
 		 -Kifri
 		 -Mandali
 		 -al-Fuhud
@@ -23484,32 +23484,32 @@ Iraq
 	 -Kurdistan
 		 -Erbil
 	 -Maysan
-		 -'Ali al Gharbi
-		 -al-'Amarah
+		 -Ali al Gharbi
+		 -al-Amarah
 		 -al-Majarr-al-Kabir
 	 -Ninawa
 		 -Qarah Qush
 		 -Sinjar
-		 -Tall 'Afar
+		 -Tall Afar
 		 -Tall Kayf
 		 -al-Mawsil
 		 -ash-Shaykhan
 	 -Salah-ad-Din
 		 -Balad
 		 -Bayji
-		 -Dhalu'iyah
+		 -Dhaluiyah
 		 -Samarra
 		 -Tikrit
 		 -Tuz
 		 -ad-Dujayl
 	 -Wasit
-		 -al-'Aziziyah
+		 -al-Aziziyah
 		 -al-Hayy
 		 -al-Kut
-		 -an-Nu'maniyah
+		 -an-Numaniyah
 		 -as-Suwayrah
 	 -al-Anbar
-		 -'Anah
+		 -Anah
 		 -Hit
 		 -Rawah
 		 -al-Fallujah
@@ -23520,7 +23520,7 @@ Iraq
 	 -al-Basrah
 		 -Abu al-Khasib
 		 -Harithah
-		 -Shatt-al-'Arab
+		 -Shatt-al-Arab
 		 -al-Basrah
 		 -al-Faw
 		 -al-Qurnah
@@ -23529,7 +23529,7 @@ Iraq
 		 -ar-Rumaythah
 		 -as-Samawah
 	 -al-Qadisiyah
-		 -'Afak
+		 -Afak
 		 -ad-Diwaniyah
 		 -al-Ghammas
 		 -al-Hamzah
@@ -23544,10 +23544,10 @@ Iraq
 		 -Halabjah
 		 -Kusanjaq
 		 -Panjwin
-		 -Qal'at Dizeh
+		 -Qalat Dizeh
 		 -as-Sulaymaniyah
-	 -at-Ta'mim
-		 -'Aqrah
+	 -at-Tamim
+		 -Aqrah
 		 -Kirkuk
 Ireland
 	 -Armagh
@@ -23748,11 +23748,11 @@ Israel
 	 -Gaza
 		 -Gaza
 	 -Hadaron
-		 -'Arad
-		 -'Omer
+		 -Arad
+		 -Omer
 		 -Ashdod
 		 -Ashqelon
-		 -Be'er Sheva
+		 -Beer Sheva
 		 -Beersheba
 		 -Bene Ayish
 		 -Dimona
@@ -23762,13 +23762,13 @@ Israel
 		 -Netivot
 		 -Ofaqim
 		 -Qiryat Gat
-		 -Qiryat Mal'akhi
+		 -Qiryat Malakhi
 		 -Sederot
 		 -Yeroham
 		 -kiryat Malachi
 	 -Haifa District
 	 -Hamerkaz
-		 -Be'er Ya'aqov
+		 -Beer Yaaqov
 		 -Beit Shemesh
 		 -Bene Beraq
 		 -Bnei Brak
@@ -23789,7 +23789,7 @@ Israel
 		 -Kiryag Bialik
 		 -Lod
 		 -Mazkeret Batya
-		 -Modi'in
+		 -Modiin
 		 -Nes Ziyyona
 		 -Ness Ziona
 		 -Netanya
@@ -23798,8 +23798,8 @@ Israel
 		 -Petakh Tiqwa
 		 -Qadima
 		 -Qalansawe
-		 -Qiryat 'Eqron
-		 -Ra'anana
+		 -Qiryat Eqron
+		 -Raanana
 		 -Ramla
 		 -Rehovot
 		 -Rekhovot
@@ -23814,23 +23814,23 @@ Israel
 		 -Yavne
 		 -Yehud
 	 -Hazafon
-		 -'Afula
-		 -'Akko
-		 -'Arrabe
-		 -'Ein Mahel
-		 -'Ilut
+		 -Afula
+		 -Akko
+		 -Arrabe
+		 -Ein Mahel
+		 -Ilut
 		 -Abu Sinan
-		 -Basmat Tab'un
+		 -Basmat Tabun
 		 -Beit Jann
-		 -Bet She'an
-		 -Bi'ne
+		 -Bet Shean
+		 -Bine
 		 -Bir-al-Maksur
-		 -Bu'eine-Nujeidat
+		 -Bueine-Nujeidat
 		 -Dabburye
 		 -Dayr Hannah
 		 -Dayr-al-Asad
 		 -Hazor HaGelilit
-		 -I'billin
+		 -Ibillin
 		 -Iksal
 		 -Judeide-Maker
 		 -Kabul
@@ -23839,25 +23839,25 @@ Israel
 		 -Kafar Yasif
 		 -Karmiel
 		 -Kisra-Sumei
-		 -Ma'alot Tarshikha
+		 -Maalot Tarshikha
 		 -Majd-al-Kurum
-		 -Migdal Ha'Emeq
+		 -Migdal HaEmeq
 		 -Mugar
 		 -Nahariyya
 		 -Nahef
 		 -Nazerat
-		 -Nazerat 'Illit
+		 -Nazerat Illit
 		 -Qiryat Shemona
-		 -Qiryat Tiv'on
+		 -Qiryat Tivon
 		 -Rame
 		 -Reine
 		 -Sakhnin
-		 -Shefar'am
+		 -Shefaram
 		 -Tamra
 		 -Tiberias
-		 -Tur'an
+		 -Turan
 		 -Yirka
-		 -Yoqne'am Illit
+		 -Yoqneam Illit
 		 -Zefat
 		 -Zur Yigal
 	 -Hebron
@@ -23867,8 +23867,8 @@ Israel
 	 -Jerusalem
 		 -Jerusalem
 	 -Khefa
-		 -'Ar'ara
-		 -'Isifya
+		 -Arara
+		 -Isifya
 		 -Baqa al-Gharbiyyah
 		 -Binyamina
 		 -Daliyat-al-Karmil
@@ -23876,7 +23876,7 @@ Israel
 		 -Khadera
 		 -Khefa
 		 -Nesher
-		 -Or 'Aqiva
+		 -Or Aqiva
 		 -Pardes Khanna-Karkur
 		 -Qiryat Atta
 		 -Qiryat Bialik
@@ -23885,7 +23885,7 @@ Israel
 		 -Rekhasim
 		 -Tirat Karmel
 		 -Umm-al-Fahm
-		 -Zikhron Ya'aqov
+		 -Zikhron Yaaqov
 	 -Kiryat Yam
 	 -Lower Galilee
 	 -Qalqilya
@@ -23912,16 +23912,16 @@ Italy
 		 -Celano
 		 -Cepagatti
 		 -Chieti
-		 -Citta Sant'Angelo
+		 -Citta SantAngelo
 		 -Francavilla al Mare
 		 -Giulianova
 		 -Guardiagrele
-		 -L'Aquila
+		 -LAquila
 		 -Lanciano
 		 -Martinsicuro
 		 -Montesilvano
 		 -Montorio al Vomano
-		 -Mosciano Sant'Angelo
+		 -Mosciano SantAngelo
 		 -Ortona
 		 -Penne
 		 -Pescara
@@ -23929,7 +23929,7 @@ Italy
 		 -Roseto degli Abruzzi
 		 -San Giovanni Teatino
 		 -San Salvo
-		 -Sant'Egidio alla Vibrata
+		 -SantEgidio alla Vibrata
 		 -Silvi
 		 -Spoltore
 		 -Sulmona
@@ -23946,7 +23946,7 @@ Italy
 		 -Camastra
 		 -Cammarata
 		 -Campobello di Licata
-		 -CanicattÃƒÂ¬
+		 -Canicatt
 		 -Casteltermini
 		 -Castrofilippo
 		 -Cattolica Eraclea
@@ -23992,7 +23992,7 @@ Italy
 		 -Subbiano
 	 -Ascoli Piceno
 	 -Asti
-		 -Buttigliera d'Asti
+		 -Buttigliera dAsti
 	 -Avellino
 		 -Flumeri
 		 -Nusco
@@ -24015,7 +24015,7 @@ Italy
 		 -Venosa
 	 -Belluno
 		 -Belluno
-		 -D'alpago
+		 -Dalpago
 		 -Longarone
 		 -Pedavena
 	 -Benevento
@@ -24026,7 +24026,7 @@ Italy
 		 -Bergamo
 		 -Bolgare
 		 -Bottanuco
-		 -Brignano Gera d'Adda
+		 -Brignano Gera dAdda
 		 -Calcio
 		 -Caravaggio
 		 -Chiuduno
@@ -24056,7 +24056,7 @@ Italy
 		 -Sandigliano
 		 -Vigliano Biellese
 	 -Bologna
-		 -Anzola dell'Emilia
+		 -Anzola dellEmilia
 		 -Bologna
 		 -Borgo Tossignano
 		 -Casalfiumanese
@@ -24154,7 +24154,7 @@ Italy
 		 -Avellino
 		 -Aversa
 		 -Bacoli
-		 -Barano d'Ischia
+		 -Barano dIschia
 		 -Baronissi
 		 -Battipaglia
 		 -Bellizzi
@@ -24180,7 +24180,7 @@ Italy
 		 -Castel San Giorgio
 		 -Castel Volturno
 		 -Castellammare di Stabia
-		 -Cava de' Tirreni
+		 -Cava de Tirreni
 		 -Cercola
 		 -Cervinara
 		 -Cicciano
@@ -24233,7 +24233,7 @@ Italy
 		 -Piedimonte Matese
 		 -Poggiomarino
 		 -Pollena Trocchia
-		 -Pomigliano d'Arco
+		 -Pomigliano dArco
 		 -Pompei
 		 -Pontecagnano
 		 -Portici
@@ -24245,7 +24245,7 @@ Italy
 		 -Roccapiemonte
 		 -Sala Consilina
 		 -Salerno
-		 -San Cipriano d'Aversa
+		 -San Cipriano dAversa
 		 -San Felice a Cancello
 		 -San Gennaro Vesuviano
 		 -San Giorgio a Cremano
@@ -24258,12 +24258,12 @@ Italy
 		 -San Sebastiano al Vesuvio
 		 -San Valentino Torio
 		 -Sant Antimo
-		 -Sant'Agata de' Goti
-		 -Sant'Agnello
-		 -Sant'Anastasia
-		 -Sant'Antonio Abate
-		 -Sant'Arpino
-		 -Sant'Egidio del Monte Albino
+		 -SantAgata de Goti
+		 -SantAgnello
+		 -SantAnastasia
+		 -SantAntonio Abate
+		 -SantArpino
+		 -SantEgidio del Monte Albino
 		 -Santa Maria Capua Vetere
 		 -Santa Maria a Vico
 		 -Santa Maria la Carita
@@ -24436,7 +24436,7 @@ Italy
 		 -Magliano Alpi
 		 -Mondovi
 		 -Roddi
-		 -Santa Vittoria d'Alba
+		 -Santa Vittoria dAlba
 		 -Verduno
 	 -Emilia-Romagna
 		 -Alfonsine
@@ -24459,7 +24459,7 @@ Italy
 		 -Castel San Pietro Terme
 		 -Castelfranco Emilia
 		 -Castellarano
-		 -Castelnovo ne' Monti
+		 -Castelnovo ne Monti
 		 -Castelnuovo Rangone
 		 -Castelvetro di Modena
 		 -Castenaso
@@ -24484,12 +24484,12 @@ Italy
 		 -Fidenza
 		 -Finale Emilia
 		 -Fiorano Modenese
-		 -Fiorenzuola d'Arda
+		 -Fiorenzuola dArda
 		 -Forli
 		 -Forlimpopoli
 		 -Formigine
 		 -Gambettola
-		 -Granarolo dell'Emilia
+		 -Granarolo dellEmilia
 		 -Guastalla
 		 -Imola
 		 -Langhirano
@@ -24511,7 +24511,7 @@ Italy
 		 -Nonantola
 		 -Novellara
 		 -Novi di Modena
-		 -Ozzano dell'Emilia
+		 -Ozzano dellEmilia
 		 -Parma
 		 -Pavullo nel Frignano
 		 -Piacenza
@@ -24520,7 +24520,7 @@ Italy
 		 -Portomaggiore
 		 -Quattro Castella
 		 -Ravenna
-		 -Reggio nell'Emilia
+		 -Reggio nellEmilia
 		 -Reggiolo
 		 -Riccione
 		 -Rimini
@@ -24533,7 +24533,7 @@ Italy
 		 -San Lazzaro di Savena
 		 -San Mauro Pascoli
 		 -San Pietro in Casale
-		 -Sant'Ilario d'Enza
+		 -SantIlario dEnza
 		 -Santarcangelo di Romagna
 		 -Sasso Marconi
 		 -Sassuolo
@@ -24567,9 +24567,9 @@ Italy
 		 -Genoa
 		 -Moneglia
 	 -Gorizia
-		 -Romans d'Isonzo
-		 -Savogna d'Isonzo
-	 -L'Aquila
+		 -Romans dIsonzo
+		 -Savogna dIsonzo
+	 -LAquila
 		 -Magliano de Marsi
 	 -Lazio
 		 -Alatri
@@ -24739,7 +24739,7 @@ Italy
 		 -Cairate
 		 -Calcinato
 		 -Calolziocorte
-		 -Calusco d'Adda
+		 -Calusco dAdda
 		 -Canegrate
 		 -Cantu
 		 -Capriolo
@@ -24756,8 +24756,8 @@ Italy
 		 -Casazza
 		 -Casnigo
 		 -Cassano Magnago
-		 -Cassano d'Adda
-		 -Cassina de' Pecchi
+		 -Cassano dAdda
+		 -Cassina de Pecchi
 		 -Castano Primo
 		 -Castel Goffredo
 		 -Castel Mella
@@ -24788,7 +24788,7 @@ Italy
 		 -Corbetta
 		 -Cormano
 		 -Cornaredo
-		 -Cornate d'Adda
+		 -Cornate dAdda
 		 -Corsico
 		 -Corte dei Cortesi
 		 -Costa Volpino
@@ -24877,7 +24877,7 @@ Italy
 		 -Osio Sotto
 		 -Ospitaletto
 		 -Paderno Dugnano
-		 -Palazzolo sull'Oglio
+		 -Palazzolo sullOglio
 		 -Pandino
 		 -Parabiago
 		 -Paullo
@@ -24904,7 +24904,7 @@ Italy
 		 -Samarate
 		 -San Donato Milanese
 		 -San Giuliano Milanese
-		 -Sant'Angelo Lodigiano
+		 -SantAngelo Lodigiano
 		 -Sarezzo
 		 -Saronno
 		 -Scanzorosciate
@@ -24965,7 +24965,7 @@ Italy
 		 -Nibionno
 		 -Rodano
 		 -Sordio
-		 -Torre d'Isola
+		 -Torre dIsola
 		 -Varese
 		 -Villongo
 		 -milan
@@ -25018,12 +25018,12 @@ Italy
 		 -Polverigi
 		 -Porto Recanati
 		 -Porto San Giorgio
-		 -Porto Sant'Elpidio
+		 -Porto SantElpidio
 		 -Potenza Picena
 		 -Recanati
 		 -San Benedetto del Tronto
 		 -San Severino Marche
-		 -Sant'Elpidio a Mare
+		 -SantElpidio a Mare
 		 -Senigallia
 		 -Tolentino
 		 -Treia
@@ -25053,9 +25053,9 @@ Italy
 		 -Pregnana Milane
 		 -San Donato Milanese
 		 -Seregno
-		 -Trezzo Sull'adda
+		 -Trezzo Sulladda
 		 -Tribiano
-		 -Vaprio d'Adda
+		 -Vaprio dAdda
 		 -Vermezzo
 	 -Modena
 		 -Bomporto
@@ -25078,7 +25078,7 @@ Italy
 		 -Montenegro
 	 -Monza and Brianza
 	 -Naples
-		 -Forio d'Ischia
+		 -Forio dIschia
 	 -Novara
 		 -Bogogno
 		 -Invorio
@@ -25176,7 +25176,7 @@ Italy
 		 -Grugliasco
 		 -Ivrea
 		 -Leini
-		 -LusigliÃƒÂ¨
+		 -Lusigli
 		 -Marano Ticino
 		 -Mergozzo
 		 -Moncalieri
@@ -25296,7 +25296,7 @@ Italy
 		 -Mola di Bari
 		 -Molfetta
 		 -Monopoli
-		 -Monte Sant'Angelo
+		 -Monte SantAngelo
 		 -Monteroni di Lecce
 		 -Mottola
 		 -Nardo
@@ -25386,11 +25386,11 @@ Italy
 		 -Oristano
 		 -Ozieri
 		 -Porto Torres
-		 -Quartu Sant'Elena
+		 -Quartu SantElena
 		 -Quartucciu
 		 -San Gavino Monreale
 		 -Sanluri
-		 -Sant'Antioco
+		 -SantAntioco
 		 -Sassari
 		 -Selargius
 		 -Serramanna
@@ -25409,7 +25409,7 @@ Italy
 	 -Sicilia
 		 -Aci Castello
 		 -Aci Catena
-		 -Aci Sant'Antonio
+		 -Aci SantAntonio
 		 -Acireale
 		 -Adrano
 		 -Agira
@@ -25433,7 +25433,7 @@ Italy
 		 -Campobello di Mazara
 		 -Canicatti
 		 -Capaci
-		 -Capo d'Orlando
+		 -Capo dOrlando
 		 -Carini
 		 -Carlentini
 		 -Castelbuono
@@ -25479,7 +25479,7 @@ Italy
 		 -Misterbianco
 		 -Modica
 		 -Monreale
-		 -Motta Sant'Anastasia
+		 -Motta SantAnastasia
 		 -Mussomeli
 		 -Naro
 		 -Nicosia
@@ -25516,8 +25516,8 @@ Italy
 		 -San Giovanni la Punta
 		 -San Giuseppe Jato
 		 -San Gregorio di Catania
-		 -Sant'Agata di Militello
-		 -Sant'Agata li Battiati
+		 -SantAgata di Militello
+		 -SantAgata li Battiati
 		 -Santa Croce Camerina
 		 -Santa Flavia
 		 -Santa Teresa di Riva
@@ -25606,7 +25606,7 @@ Italy
 		 -Chiesina Uzzanese
 		 -Chiusi
 		 -Civitella in Val di Chiana
-		 -Colle di Val d'Elsa
+		 -Colle di Val dElsa
 		 -Collesalvetti
 		 -Cortona
 		 -Empoli
@@ -25641,7 +25641,7 @@ Italy
 		 -Montespertoli
 		 -Montevarchi
 		 -Montignoso
-		 -Montopoli in Val d'Arno
+		 -Montopoli in Val dArno
 		 -Orbetello
 		 -Pescia
 		 -Pietrasanta
@@ -25668,7 +25668,7 @@ Italy
 		 -San Giuliano Terme
 		 -San Miniato
 		 -Sansepolcro
-		 -Santa Croce sull'Arno
+		 -Santa Croce sullArno
 		 -Santa Maria a Monte
 		 -Scandicci
 		 -Seravezza
@@ -25729,7 +25729,7 @@ Italy
 		 -Terni
 		 -Todi
 		 -Umbertide
-	 -Valle d'Aosta
+	 -Valle dAosta
 	 -Varese
 		 -Arsago Seprio
 		 -Busto Arsizio
@@ -25765,7 +25765,7 @@ Italy
 		 -Casale sul Sile
 		 -Casier
 		 -Cassola
-		 -Castel d'Azzano
+		 -Castel dAzzano
 		 -Castelfranco Veneto
 		 -Castello di Godego
 		 -Castelnuovo del Garda
@@ -25856,7 +25856,7 @@ Italy
 		 -San Michele al Tagliamento
 		 -San Pietro in Cariano
 		 -San Vendemiano
-		 -Sant'Ambrogio
+		 -SantAmbrogio
 		 -Santa Maria di Sala
 		 -Santo Stino di Livenza
 		 -Santorso
@@ -27081,26 +27081,26 @@ Jersey
 	 -Trinity
 		 -Trinity
 Jordan
-	 -'Ajlun
-		 -'Abbin
-		 -'Ajlun
-		 -'Anjarah
-		 -'Arjan
-		 -'Ayn Janna
+	 -Ajlun
+		 -Abbin
+		 -Ajlun
+		 -Anjarah
+		 -Arjan
+		 -Ayn Janna
 		 -Halawah
 		 -Kharbat al-Wahadnah
 		 -Kufranjah
 		 -Sakhrah
 		 -al-Hashamiyah
 	 -Amman
-		 -Abu 'Alanda
+		 -Abu Alanda
 		 -Amman
 		 -Askan Abu Nusayr
 		 -Jawa
-		 -Khalda wa Tila'-al-'Ali
+		 -Khalda wa Tila-al-Ali
 		 -Khraybat As-Suq
 		 -Marj al-Hammam
-		 -Na'ur
+		 -Naur
 		 -Nuzhat Sahab
 		 -Sahab
 		 -Shafa Badran
@@ -27111,7 +27111,7 @@ Jordan
 		 -Umm Qusayr wal Muqabalin
 		 -Umm al-Basatin
 		 -Wadi as-Sir
-		 -al-'Abdaliyah
+		 -al-Abdaliyah
 		 -al-Binayat
 		 -al-Faysaliyah
 		 -al-Jizah
@@ -27123,17 +27123,17 @@ Jordan
 		 -at-Talbiyah
 		 -at-Taybah
 	 -Irbid
-		 -'Al'al
-		 -'Anbah
+		 -Alal
+		 -Anbah
 		 -Arhaba
 		 -Aydun
 		 -Bayt Idas
 		 -Bayt Ras
 		 -Bayt Yafa
 		 -Bushra
-		 -Dayr Abi Sa'id
+		 -Dayr Abi Said
 		 -Dayr Yusif
-		 -Dayr as-Sa'anah
+		 -Dayr as-Saanah
 		 -Duwaqarah
 		 -Hakama
 		 -Hartha
@@ -27144,13 +27144,13 @@ Jordan
 		 -Judayta
 		 -Katam
 		 -Kharja
-		 -Kufur 'Awan
+		 -Kufur Awan
 		 -Kufur Abil
 		 -Kufur Asad
 		 -Kufur Rakab
 		 -Kufur Sum
 		 -Kufur Yuba
-		 -Kufur al-Ma'
+		 -Kufur al-Ma
 		 -Kuraymah
 		 -Malka
 		 -Mukhayyam al-Husun
@@ -27158,7 +27158,7 @@ Jordan
 		 -Saham
 		 -Sal
 		 -Samma
-		 -Sammaw'
+		 -Sammaw
 		 -Sum
 		 -Tabnah
 		 -Umm Qays
@@ -27170,10 +27170,10 @@ Jordan
 		 -al-Buwaydah
 		 -al-Husun
 		 -al-Manshiyah
-		 -al-Mashari'a
+		 -al-Masharia
 		 -al-Mazar ash-Shamaliyah
 		 -al-Mughayyar
-		 -an-Nu'aymeh
+		 -an-Nuaymeh
 		 -ar-Ramtha
 		 -as-Sarih
 		 -ash-Shajarah
@@ -27192,32 +27192,32 @@ Jordan
 		 -Sakab
 		 -Suf
 		 -al-Kattah
-	 -Ma'an
+	 -Maan
 		 -Bayar
-		 -Ma'an
+		 -Maan
 		 -Wadi Musa
 		 -al-Hussayniyah
 		 -al-Jafar
 		 -at-Taybah
 	 -Madaba
 		 -Dhiban
-		 -Ma'in
+		 -Main
 		 -Madaba
 		 -Mulayh
 		 -al-Faysaliyah
-	 -al-'Aqabah
-		 -al-'Aqabah
+	 -al-Aqabah
+		 -al-Aqabah
 		 -al-Quwayrah
-	 -al-Balqa'
-		 -'Ayn al-Basha
+	 -al-Balqa
+		 -Ayn al-Basha
 		 -Darar
 		 -Juwafat al-Kafrayn
-		 -Ma'addi
+		 -Maaddi
 		 -Mahas
 		 -Safut
 		 -Suknat ash-Shunah
 		 -Yarqa
-		 -al-Baq'ah
+		 -al-Baqah
 		 -al-Fuhays
 		 -al-Karamah
 		 -ar-Rawdah
@@ -27227,12 +27227,12 @@ Jordan
 		 -at-Tawal al-Janubi
 		 -at-Tuwal ash-Shamali
 	 -al-Karak
-		 -'Ayy
+		 -Ayy
 		 -Adar
-		 -Faqqu'
-		 -Ghawr al-Mazra'ah
+		 -Faqqu
+		 -Ghawr al-Mazraah
 		 -Ghawr as-Safi
-		 -Maw'tah
+		 -Mawtah
 		 -Sirfa
 		 -al-Hussayniyah
 		 -al-Karak
@@ -27244,34 +27244,34 @@ Jordan
 		 -at-Taybah
 	 -al-Mafraq
 		 -Badiyat ar-Ruwayshid
-		 -Bal'ama
+		 -Balama
 		 -Manshiyat Bani Hassan
 		 -Mugayyar as-Sarhan
 		 -Sabha
 		 -Sama as-Sarhan
 		 -Umm al-Quttayn
-		 -al-Hamra'
+		 -al-Hamra
 		 -al-Khaldiyah al-Jadidah
 		 -al-Mabrukah
 		 -al-Mafraq
 		 -ar-Ruwayshid
-		 -az-Za'tari
+		 -az-Zatari
 	 -at-Tafilah
 		 -Busayrah
-		 -al-'Ayn al-Bayda
+		 -al-Ayn al-Bayda
 		 -al-Hasa
 		 -al-Qadisiyah
 		 -at-Tafilah
-	 -az-Zarqa'
+	 -az-Zarqa
 		 -Iskan al-Hashamiyah
-		 -Mushayrfat Ras al-'Ayn
+		 -Mushayrfat Ras al-Ayn
 		 -Shnillar
 		 -ad-Dulayl
 		 -al-Azraq ash-Shamali
 		 -al-Hashamiyah
 		 -ar-Russayfah
 		 -as-Sukhnah
-		 -az-Zarqa'
+		 -az-Zarqa
 Kazakhstan
 	 -Akmecet
 		 -Akmecet
@@ -27797,8 +27797,8 @@ Kuwait
 		 -Hawalli
 		 -Massilah
 		 -Mushrif
-		 -Salwa'
-		 -Sha''ab
+		 -Salwa
+		 -Shaab
 		 -Subbah-as-Salim
 		 -al-Funaytis
 		 -al-Funaytis-al-Garbiyah
@@ -27815,13 +27815,13 @@ Kuwait
 	 -Salmiya
 		 -Salmiya
 	 -al-Ahmadi
-		 -A'qaylah
+		 -Aqaylah
 		 -Abu Hulayfah
 		 -Dahar
 		 -Desert Area
 		 -Hadiyah
-		 -Jabbar-al-'Ali
-		 -Shu'aybah
+		 -Jabbar-al-Ali
+		 -Shuaybah
 		 -al-Ahmadi
 		 -al-Fintas
 		 -al-Fuhayhil
@@ -27832,7 +27832,7 @@ Kuwait
 		 -as-Sabahiyah
 		 -az-Zawr
 	 -al-Farwaniyah
-		 -'Umayriyah
+		 -Umayriyah
 		 -Abraq Khitan
 		 -Ardiyah
 		 -Fardaws
@@ -27852,14 +27852,14 @@ Kuwait
 		 -Amgarah
 		 -Desert Area
 		 -Nasim
-		 -Tayma'
+		 -Tayma
 		 -Uyawn
 		 -Waha
 		 -al-Jahra
 		 -al-Qusayr
 		 -as-Sulaybiyah
 	 -al-Kuwayt
-		 -'Abullah-as-Salam
+		 -Abullah-as-Salam
 		 -Ardhiyah
 		 -Banayd-al-Qar
 		 -Health District
@@ -27869,10 +27869,10 @@ Kuwait
 		 -Nuzha
 		 -Qarnadah
 		 -Shamiyah
-		 -ad-Da'iyah
+		 -ad-Daiyah
 		 -ad-Dasma
 		 -ad-Dawhah
-		 -al-'Udayliyah
+		 -al-Udayliyah
 		 -al-Fayha
 		 -al-Kuwayt
 		 -al-Qadisiyah
@@ -28135,7 +28135,7 @@ Lebanon
 	 -Sidon
 		 -Sidon
 	 -al-Biqa
-		 -Ba'labakk
+		 -Balabakk
 		 -Jubb Jannin
 		 -Rashayya
 		 -Riyak
@@ -28144,10 +28144,10 @@ Lebanon
 	 -al-Janub
 		 -Jazzin
 		 -Juwayya
-		 -Sayda'
+		 -Sayda
 		 -Sur
 	 -an-Nabatiyah
-		 -Marj 'Uyun
+		 -Marj Uyun
 		 -Nabatieh
 		 -an-Nabatiyat-at-Tahta
 	 -ash-Shamal
@@ -28165,10 +28165,10 @@ Lesotho
 		 -Mafeteng
 	 -Maseru
 		 -Maseru
-	 -Mohale's Hoek
+	 -Mohales Hoek
 	 -Mokhotlong
 		 -Mokhotlong
-	 -Qacha's Nek
+	 -Qachas Nek
 	 -Quthing
 		 -Quthing
 	 -Thaba-Tseka
@@ -28241,7 +28241,7 @@ Libya
 		 -Yafran
 	 -Zlitan
 		 -Zlitan
-	 -al-'Aziziyah
+	 -al-Aziziyah
 		 -al-Aziziyah
 	 -al-Fatih
 		 -al-Abyar
@@ -28254,7 +28254,7 @@ Libya
 	 -al-Kufrah
 		 -al-Jawf
 	 -an-Nuqat al-Khams
-	 -ash-Shati'
+	 -ash-Shati
 		 -Birak
 	 -az-Zawiyah
 		 -az-Zawiyah
@@ -29098,7 +29098,7 @@ Madagascar
 		 -Amparafaravola
 		 -Andevoranto
 		 -Andilamena
-		 -Anosibe An'ala
+		 -Anosibe Anala
 		 -Fenoarivo Atsinanana
 		 -Mahanoro
 		 -Mananara
@@ -29115,7 +29115,7 @@ Madagascar
 		 -Ampanihy
 		 -Ankazoabo
 		 -Beloha
-		 -Belon'i Tsiribihina
+		 -Beloni Tsiribihina
 		 -Beroroha
 		 -Betioky
 		 -Miandrivazo
@@ -29820,21 +29820,21 @@ Mauritania
 	 -Brakna
 		 -Alaq
 		 -Buqah
-		 -Magta' Lahjar
+		 -Magta Lahjar
 	 -Dhakhlat Nawadibu
 	 -Hudh-al-Gharbi
-		 -'Ayun-al-'Atrus
+		 -Ayun-al-Atrus
 		 -Kubanni
 	 -Hudh-ash-Sharqi
 		 -Timbedra
 		 -Walatah
-		 -an-Na'mah
+		 -an-Namah
 	 -Inshiri
 		 -Aqjawajat
 	 -Nawakshut
 		 -Nawakshut
 	 -Qidimagha
-		 -Hsay Walad 'Ali Babi
+		 -Hsay Walad Ali Babi
 	 -Qurqul
 		 -Kayhaydi
 	 -Taqant
@@ -29866,9 +29866,9 @@ Mauritius
 		 -Quatre Soeurs
 		 -Queen Victoria
 		 -Saint Julien
-		 -Saint Julien d'Hotman
+		 -Saint Julien dHotman
 		 -Sebastopol
-		 -Trou d'Eau Douce
+		 -Trou dEau Douce
 	 -Floreal
 		 -Floreal
 	 -Grand Port
@@ -29877,7 +29877,7 @@ Mauritius
 		 -Dagotiere
 		 -Dubreuil
 		 -Esperance
-		 -L'Avenir
+		 -LAvenir
 		 -La Laura-Malenga
 		 -Melrose
 		 -Moka
@@ -29894,7 +29894,7 @@ Mauritius
 		 -Calebasses
 		 -Congomah
 		 -Creve Coeur
-		 -D'Epinay
+		 -DEpinay
 		 -Fond du Sac
 		 -La Tour Koenig
 		 -Le Hochet
@@ -31990,7 +31990,7 @@ Moldova
 		 -Rabnita
 		 -Slobozia
 		 -Tighina
-		 -Tiraspol'
+		 -Tiraspol
 	 -Ungheni
 		 -Calarasi
 		 -Nisporeni
@@ -32071,7 +32071,7 @@ Morocco
 		 -Asfi
 		 -Azimur
 		 -Sidi Binnur
-		 -Sidi Isma'il
+		 -Sidi Ismail
 		 -Yussufiyah
 		 -al-Jadidah
 	 -Fes-Boulemane
@@ -32090,7 +32090,7 @@ Morocco
 	 -Meknes-Tafilalet
 		 -Amalu Ighriban
 		 -Azru
-		 -Jama'at-al-Marirt
+		 -Jamaat-al-Marirt
 		 -Khanifrah
 		 -Meknes
 		 -Midalt
@@ -32138,7 +32138,7 @@ Morocco
 		 -Tanjah
 		 -Tittawin
 		 -Titwan
-		 -al-'Ara'ish
+		 -al-Araish
 		 -al-Qasr-al-Kabir
 	 -Taza-Al Hoceima-Taounate
 	 -Wilaya de Casablanca
@@ -32660,7 +32660,7 @@ Netherlands The
 		 -Voerendaal
 		 -Weert
 	 -Noord-Brabant
-		 -'s-Hertogenbosch
+		 -s-Hertogenbosch
 		 -Aalburg
 		 -Alphen-Chaam
 		 -Asten
@@ -32941,9 +32941,9 @@ Netherlands The
 		 -Zierikzee
 		 -Zijpe
 	 -Zuid-Holland
-		 -'s-Gravendeel
-		 -'s-Gravenhage
-		 -'s-Gravenzande
+		 -s-Gravendeel
+		 -s-Gravenhage
+		 -s-Gravenzande
 		 -Alblasserdam
 		 -Albrandswaard
 		 -Alkemade
@@ -33112,7 +33112,7 @@ New Zealand
 	 -Christchurch
 	 -Gisborne
 		 -Gisborne
-	 -Hawke's Bay
+	 -Hawkes Bay
 	 -Manawatu-Wanganui
 		 -Dannevirke
 		 -Feilding
@@ -33278,9 +33278,9 @@ Niger
 	 -Diffa
 		 -Diffa
 		 -Maine-Soroa
-		 -N'Guigmi
+		 -NGuigmi
 	 -Dosso
-		 -Birni N'Gaoure
+		 -Birni NGaoure
 		 -Boboye
 		 -Dogondoutchi
 		 -Dosso
@@ -33299,12 +33299,12 @@ Niger
 	 -Niamey
 		 -Niamey
 	 -Tahoua
-		 -Birni N'Konni
+		 -Birni NKonni
 		 -Bouza
 		 -Illela
 		 -Keita
 		 -Madaoua
-		 -Malbaza'uzine
+		 -Malbazauzine
 		 -Tahoua
 		 -Tchintabaraden
 	 -Tillabery
@@ -33857,7 +33857,7 @@ Norway
 		 -Lillestrom
 		 -Lorenskog
 		 -Lysaker
-		 -LÃƒÂ¸renskog
+		 -Lrenskog
 		 -Rud
 		 -Sandvika
 		 -Strommen
@@ -33870,7 +33870,7 @@ Norway
 		 -Honefoss
 		 -Kongsberg
 		 -Lyngdal
-		 -NÃƒÂ¦rsnes
+		 -Nrsnes
 		 -Vestby
 	 -Finnmark
 		 -Baatsfjord
@@ -33884,7 +33884,7 @@ Norway
 		 -Trysil
 	 -Hordaland
 		 -Bergen
-		 -HÃƒÂ¸ylandsbygd
+		 -Hylandsbygd
 		 -Lonevag
 		 -Straume
 		 -Tysnes
@@ -33934,16 +33934,16 @@ Norway
 	 -Troms
 		 -Harstad
 		 -Troms
-		 -TromsÃƒÂ¸
+		 -Troms
 	 -Vest Agder
 	 -Vestfold
 		 -Horten
-		 -HusÃƒÂ¸ysund
+		 -Husysund
 		 -Larvik
 		 -Rygge
 		 -Sandefjord
-		 -TÃƒÂ¸nsberg
-	 -ÃƒÂ˜stfold
+		 -Tnsberg
+	 -stfold
 Oman
 	 -Al Buraimi
 	 -Dhufar
@@ -33967,11 +33967,11 @@ Oman
 		 -Rusayl
 	 -Wadi Kabir
 	 -ad-Dakhiliyah
-		 -Bahla'
+		 -Bahla
 		 -Nizwa
 		 -Sumayl
 	 -adh-Dhahirah
-		 -'Ibri
+		 -Ibri
 		 -al-Buraymi
 	 -al-Batinah
 		 -Al khuwair
@@ -33980,7 +33980,7 @@ Oman
 		 -Shinas
 		 -Suhar
 		 -al-Khaburah
-		 -al-Masna'ah
+		 -al-Masnaah
 		 -ar-Rustaq
 		 -as-Suwayq
 	 -ash-Sharqiyah
@@ -34200,7 +34200,7 @@ Pakistan
 		 -Urmar Tanda
 		 -Zira
 		 -Zirakpur
-		 -'Abdul Hakim
+		 -Abdul Hakim
 		 -Ahmadpur East
 		 -Ahmadpur Lumma
 		 -Ahmadpur Sial
@@ -34654,7 +34654,7 @@ Palestinian Territory Occupied
 		 -ad-Dahiriyah
 		 -al-Khalil
 	 -al-Quds
-		 -Ma'ale Adummim
+		 -Maale Adummim
 		 -al-Quds
 Panama
 	 -Bocas del Toro
@@ -36199,7 +36199,7 @@ Qatar
 	 -al-Khawr
 		 -al-Khawr
 	 -al-Wakrah
-		 -Musay'id
+		 -Musayid
 		 -al-Wakrah
 		 -al-Wukayr
 	 -ar-Rayyan
@@ -36221,7 +36221,7 @@ Reunion
 		 -Sainte-Marie
 		 -Sainte-Suzanne
 	 -Saint-Paul
-		 -L'Etang-Sale
+		 -LEtang-Sale
 		 -Les Aviron
 		 -Les Trois-Bassins
 		 -Saint-Leu
@@ -40688,25 +40688,25 @@ Saint Vincent And The Grenadines
 	 -Saint George
 	 -Saint Patrick
 Samoa
-	 -A'ana
+	 -Aana
 		 -Falelatai
 	 -Aiga-i-le-Tai
 		 -Mulifanua
 	 -Atua
 		 -Solosolo
-	 -Fa'asaleleaga
+	 -Faasaleleaga
 		 -Safotulafai
-	 -Gaga'emauga
-		 -Samalae'ulu
+	 -Gagaemauga
+		 -Samalaeulu
 	 -Gagaifomauga
-		 -A'opo
+		 -Aopo
 	 -Palauli
 		 -Taga
-	 -Satupa'itea
+	 -Satupaitea
 		 -Gautavai
 	 -Tuamasaga
 		 -Apia
-	 -Va'a-o-Fonoti
+	 -Vaa-o-Fonoti
 		 -Samamea
 	 -Vaisigano
 		 -Neiafu
@@ -40746,13 +40746,13 @@ Saudi Arabia
 	 -Ash Sharqiyah
 	 -Asir
 		 -Abha
-		 -Abu 'Aris
+		 -Abu Aris
 		 -Khamis Mushayt
-		 -Qal'at Bishah
+		 -Qalat Bishah
 	 -Central Province
 	 -Eastern Province
-	 -Ha'il
-		 -Ha'il
+	 -Hail
+		 -Hail
 	 -Jawf
 		 -Jawf
 		 -Sakakah
@@ -40763,13 +40763,13 @@ Saudi Arabia
 		 -Makkah
 		 -Rabig
 		 -al-Hawiyah
-		 -at-Ta'if
+		 -at-Taif
 	 -Najran
-		 -Dar'iyah
+		 -Dariyah
 		 -Najran
 		 -Sharurah
 	 -Qasim
-		 -'Unayzah
+		 -Unayzah
 		 -Buraydah
 		 -ar-Rass
 	 -Tabuk
@@ -40779,7 +40779,7 @@ Saudi Arabia
 	 -al-Bahah
 		 -al-Bahah
 	 -al-Hudud-ash-Shamaliyah
-		 -Ara'ar
+		 -Araar
 		 -Rafha
 		 -Turayf
 		 -al-Qurayyat
@@ -40787,11 +40787,11 @@ Saudi Arabia
 		 -Yanbu
 		 -al-Madinah
 	 -ar-Riyad
-		 -'Afif
+		 -Afif
 		 -ad-Dawadimi
 		 -ad-Dilam
 		 -al-Kharj
-		 -al-Majma'ah
+		 -al-Majmaah
 		 -ar-Riyad
 		 -az-Zulfi
 Senegal
@@ -40925,8 +40925,8 @@ Slovakia
 		 -Brezno
 		 -Chierny Balog
 		 -Detva
-		 -Fil'akovo
-		 -Hnusht'a
+		 -Filakovo
+		 -Hnushta
 		 -Hrinova
 		 -Kremnica
 		 -Krupina
@@ -40938,8 +40938,8 @@ Slovakia
 		 -Rimavska Sobota
 		 -Sliach
 		 -Tisovec
-		 -Tornal'a
-		 -Vel'ky Krtish
+		 -Tornala
+		 -Velky Krtish
 		 -Vlkanova
 		 -Zharnovica
 		 -Zhiar
@@ -40962,7 +40962,7 @@ Slovakia
 		 -Dobshina
 		 -Gelnica
 		 -Kosice
-		 -Kral'ovsky Chlmec
+		 -Kralovsky Chlmec
 		 -Krompachy
 		 -Medzev
 		 -Michalovce
@@ -40974,7 +40974,7 @@ Slovakia
 		 -Sobrance
 		 -Strazhske
 		 -Trebishov
-		 -Vel'ke Kapushany
+		 -Velke Kapushany
 		 -Vranov
 	 -Nitriansky
 		 -Dvory nad Zhitavou
@@ -40990,7 +40990,7 @@ Slovakia
 		 -Nove Zamky
 		 -Palarikovo
 		 -Shahy
-		 -Shal'a
+		 -Shala
 		 -Shturovo
 		 -Shurany
 		 -Svodin
@@ -41015,11 +41015,11 @@ Slovakia
 		 -Spishska Bela
 		 -Spishska Nova Ves
 		 -Spishske Podhradie
-		 -Stara L'ubovna
+		 -Stara Lubovna
 		 -Stropkov
 		 -Svidnik
 		 -Svit
-		 -Vel'ky Sharish
+		 -Velky Sharish
 		 -Vysoke Tatry
 	 -Trenciansky
 		 -Banovce
@@ -41041,7 +41041,7 @@ Slovakia
 		 -Prievidza
 		 -Puchov
 		 -Stara Tura
-		 -Topol'chany
+		 -Topolchany
 		 -Trenchianske Teplice
 		 -Trenchin
 		 -Trencin
@@ -41055,18 +41055,18 @@ Slovakia
 		 -Holich
 		 -Kuty
 		 -Leopoldov
-		 -Piesht'any
+		 -Pieshtany
 		 -Piestany
 		 -Senica
-		 -Sered'
+		 -Sered
 		 -Shamorin
 		 -Shashtin-Strazhe
 		 -Shoporna
 		 -Skalica
 		 -Sladkovichovo
 		 -Trnava
-		 -Vel'ke Ul'any
-		 -Vel'ky Meder
+		 -Velke Ulany
+		 -Velky Meder
 		 -Vrbove
 	 -Zilinsky
 		 -Bytcha
@@ -41095,7 +41095,7 @@ Slovakia
 		 -Turchianske Teplice
 		 -Turzovka
 		 -Tvrdoshin
-		 -Vel'ke Rovne
+		 -Velke Rovne
 		 -Vrutky
 		 -Zakamenne
 		 -Zhilina
@@ -41401,7 +41401,7 @@ Somalia
 		 -Baki
 		 -Borama
 		 -Gebilay
-		 -Sayla'
+		 -Sayla
 	 -Bakol
 		 -Tayeglo
 		 -Xuddur
@@ -41409,9 +41409,9 @@ Somalia
 	 -Banadir
 		 -Muqdisho
 	 -Bari
-		 -'Alula
+		 -Alula
 		 -Bandarbeyla
-		 -Bandarmu'ayo
+		 -Bandarmuayo
 		 -Bargal
 		 -Bereda
 		 -Bosaso
@@ -41424,8 +41424,8 @@ Somalia
 		 -Bur Hakkaba
 		 -Dinsor
 	 -Galgudug
-		 -'Elbur
-		 -'Eldhere
+		 -Elbur
+		 -Eldhere
 		 -Dhusa Marreb
 	 -Gedo
 		 -Bardhere
@@ -41433,31 +41433,31 @@ Somalia
 		 -Dujuma
 		 -Garbaharey
 		 -Luq
-		 -Sa'o
+		 -Sao
 		 -Wajid
 	 -Hiran
-		 -Bal'ad
+		 -Balad
 		 -Beled Weyne
 		 -Bulobarde
 		 -Jalalassi
 	 -Jubbada Hose
 	 -Jubbadha Dexe
 	 -Mudug
-		 -Galka'yo
+		 -Galkayo
 		 -Hobyo
 		 -Xarardhere
 	 -Nugal
 		 -Eyl
 		 -Garowe
-		 -Las'anod
+		 -Lasanod
 	 -Sanag
-		 -'Erigabo
+		 -Erigabo
 		 -Lasqoray
 	 -Shabellaha Dhexe
 	 -Shabellaha Hose
 	 -Togdher
-		 -'Ek
-		 -Bur'o
+		 -Ek
+		 -Buro
 		 -Odweyne
 	 -Woqoyi Galbed
 South Africa
@@ -41603,7 +41603,7 @@ Spain
 		 -Elx
 		 -Guardamar del Segura
 		 -Ibi
-		 -L'Alfas del Pi
+		 -LAlfas del Pi
 		 -La Vila Joiosa
 		 -Monover
 		 -Mutxamel
@@ -41615,7 +41615,7 @@ Spain
 		 -Pilar de la Horadada
 		 -Pinoso
 		 -Rojales
-		 -Sant Joan d'Alacant
+		 -Sant Joan dAlacant
 		 -Sant Vicent del Raspeig
 		 -Santa Pola
 		 -Sax
@@ -41738,11 +41738,11 @@ Spain
 		 -Gava
 		 -Granollers
 		 -Igualada
-		 -L'Hospitalet de Llobregat
+		 -LHospitalet de Llobregat
 		 -La Garriga
 		 -La Llagosta
 		 -Les Franquesas del Valles
-		 -Llica d'Amunt
+		 -Llica dAmunt
 		 -Malgrat de Mar
 		 -Manlleu
 		 -Manresa
@@ -41776,7 +41776,7 @@ Spain
 		 -Sant Just Desvern
 		 -Sant Pere de Ribes
 		 -Sant Quirze del Valles
-		 -Sant Sadurni d'Anoia
+		 -Sant Sadurni dAnoia
 		 -Sant Vicenc dels Horts
 		 -Santa Coloma de Gramenet
 		 -Santa Margarida de Montbui
@@ -41856,8 +41856,8 @@ Spain
 		 -Benicassim
 		 -Burriana
 		 -Castello
-		 -L'Alcora
-		 -La Vall d'Uixo
+		 -LAlcora
+		 -La Vall dUixo
 		 -Nules
 		 -Onda
 		 -Segorbe
@@ -41906,7 +41906,7 @@ Spain
 		 -Empuriabrava
 		 -Figueres
 		 -Girona
-		 -La Bisbal d'Emporda
+		 -La Bisbal dEmporda
 		 -Lloret de Mar
 		 -Massanet de la Selva
 		 -Olot
@@ -42027,7 +42027,7 @@ Spain
 		 -Tora
 	 -Lleida
 		 -Balaguer
-		 -La Seu d'Urgell
+		 -La Seu dUrgell
 		 -Lleida
 		 -Mollerussa
 		 -Tarrega
@@ -42299,8 +42299,8 @@ Spain
 		 -Elche
 		 -Gandia
 		 -Godella
-		 -L'Alcudia
-		 -L'Eliana
+		 -LAlcudia
+		 -LEliana
 		 -La Pobla de Vallbona
 		 -Lliria
 		 -Los Montesinos
@@ -42481,7 +42481,7 @@ Sri Lanka
 	 -kadawatha
 		 -Mahara
 Sudan
-	 -A'ali-an-Nil
+	 -Aali-an-Nil
 		 -Kodok
 		 -Malakal
 		 -Nasir
@@ -42493,7 +42493,7 @@ Sudan
 	 -Gharb Bahr-al-Ghazal
 	 -Gharb Darfur
 	 -Gharb Kurdufan
-	 -Gharb-al-Istiwa'iyah
+	 -Gharb-al-Istiwaiyah
 		 -Maridi
 		 -Nzara
 		 -Tambura
@@ -42510,7 +42510,7 @@ Sudan
 		 -Wagar
 		 -al-Masnah
 	 -Nahr-an-Nil
-		 -'Atbarah
+		 -Atbarah
 		 -Barbar
 		 -Kabushiyah
 		 -Shandi
@@ -42520,13 +42520,13 @@ Sudan
 	 -Shamal Bahr-al-Ghazal
 	 -Shamal Darfur
 	 -Shamal Kurdufan
-	 -Sharq-al-Istiwa'iyah
+	 -Sharq-al-Istiwaiyah
 		 -Kapoeta
 		 -Torit
 	 -Sinnar
 		 -Abu Hijar
 		 -Galgani
-		 -Hajj 'Abdallah
+		 -Hajj Abdallah
 		 -Karkawj
 		 -Mayurnu
 		 -Sinjah
@@ -42550,11 +42550,11 @@ Sudan
 		 -Rumbik
 		 -Yirol
 	 -al-Jazirah
-		 -Abu 'Usar
-		 -Arba'atun wa 'Ishrun-al-Qurash
+		 -Abu Usar
+		 -Arbaatun wa Ishrun-al-Qurash
 		 -Maharaybah
 		 -Miallayab
-		 -Rufa'a
+		 -Rufaa
 		 -Sharafat
 		 -Tabat
 		 -Tambul
@@ -42567,7 +42567,7 @@ Sudan
 		 -al-Kamilin
 		 -al-Karaymat
 		 -al-Manaqil
-		 -al-Mu'sadiyah
+		 -al-Musadiyah
 		 -al-Musallamiyah
 	 -al-Khartum
 		 -Umm Dawm
@@ -42576,7 +42576,7 @@ Sudan
 		 -al-Khartum Bahri
 	 -al-Qadarif
 		 -Doka
-		 -Qala'-an-Nahl
+		 -Qala-an-Nahl
 		 -Shuwak
 		 -al-Faw
 		 -al-Hawatah
@@ -42614,7 +42614,7 @@ Sudan
 		 -Kuraymah
 		 -Kurti
 		 -Marawi
-		 -Tangasi-ar-Ru'ays
+		 -Tangasi-ar-Ruays
 		 -Wadi Halfa
 		 -ad-Dabbah
 Suriname
@@ -42654,7 +42654,7 @@ Swaziland
 		 -Ezulwini
 		 -Mbabane
 		 -Ngwenya
-		 -Pigg's Peak
+		 -Piggs Peak
 	 -Lubombo
 		 -Big Bend
 		 -Mhlume
@@ -43261,8 +43261,8 @@ Switzerland
 Syria
 	 -Aleppo
 		 -Aleppo
-	 -Dar'a
-		 -Dar'a
+	 -Dara
+		 -Dara
 		 -Nawa
 	 -Dayr-az-Zawr
 		 -Abu Kamal
@@ -43284,9 +43284,9 @@ Syria
 		 -at-Tall
 		 -az-Zabadani
 	 -Halab
-		 -'Afrin
-		 -'Ayn-al-'Arab
-		 -A'zaz
+		 -Afrin
+		 -Ayn-al-Arab
+		 -Azaz
 		 -Halab
 		 -Manbij
 		 -al-Bab
@@ -43306,14 +43306,14 @@ Syria
 		 -Ariha
 		 -Idlib
 		 -Jisr-ash-Shughur
-		 -Ma'arrat-an-Nu'man
+		 -Maarrat-an-Numan
 	 -Madinat Dimashq
 	 -Tartus
 		 -Baniyas
 		 -Safita
 		 -Tartus
 	 -al-Hasakah
-		 -Ra's-al-'Ayn
+		 -Ras-al-Ayn
 		 -al-Hasakah
 		 -al-Malikiyah
 		 -al-Qamishli
@@ -43450,7 +43450,7 @@ Tajikistan
 		 -Kulob
 		 -Kumsangir
 		 -Moskva
-		 -Mu'minobod
+		 -Muminobod
 		 -Nurak
 		 -Pyanj
 		 -Qurgonteppa
@@ -43815,17 +43815,17 @@ Tokelau
 Tonga
 	 -Eua
 		 -Ohonua
-	 -Ha'apai
+	 -Haapai
 		 -Pangai
 	 -Niuas
 		 -Hihifo
 	 -Tongatapu
 		 -Haveloloto
-		 -Mu'a
-		 -Nuku'alofa
+		 -Mua
+		 -Nukualofa
 		 -Tofoa-Koloua
 		 -Vaini
-	 -Vava'u
+	 -Vavau
 		 -Neiafu
 Trinidad And Tobago
 	 -Arima-Tunapuna-Piarco
@@ -43860,9 +43860,9 @@ Tunisia
 	 -Aryanah
 		 -Aryanah
 		 -Bordj Aalouine
-		 -Burj-al-'Amri
+		 -Burj-al-Amri
 		 -La Soukra
-		 -Qal'at-al-Andalus
+		 -Qalat-al-Andalus
 		 -Sidi Thabit
 		 -Taburbah
 		 -Wadi al-Layl
@@ -43879,13 +43879,13 @@ Tunisia
 		 -Tabursuq
 		 -Tastur
 		 -Zahrat Madina
-		 -al-Ma'qulah
-	 -Bin 'Arus
+		 -al-Maqulah
+	 -Bin Arus
 	 -Binzart
-		 -'Awsajah
+		 -Awsajah
 		 -Binzart
 		 -Ghar-al-Milh
-		 -Manzil 'Abd-ar-Rahman
+		 -Manzil Abd-ar-Rahman
 		 -Manzil Bu Ruqaybah
 		 -Manzil Jamil
 		 -Matir
@@ -43893,18 +43893,18 @@ Tunisia
 		 -Ras-al-Jabal
 		 -Sajanan
 		 -Tinjah
-		 -al-'Aliyah
+		 -al-Aliyah
 		 -al-Matlin
 	 -Gouvernorat de Ariana
 	 -Gouvernorat de Nabeul
 	 -Gouvernorat de Sousse
 	 -Hammamet Yasmine
 	 -Jundubah
-		 -'Ayn Darahim
+		 -Ayn Darahim
 		 -Bani Matir
 		 -Bu Salim
 		 -Firnanah
-		 -Ghar-ad-Dima'
+		 -Ghar-ad-Dima
 		 -Jundubah
 		 -Tabarqah
 		 -Wadi Maliz
@@ -43924,9 +43924,9 @@ Tunisia
 		 -Azimur
 		 -Bani Hiyar
 		 -Bani Khallad
-		 -Bu 'Urqub
-		 -Dar 'Alush
-		 -Dar Sha'ban
+		 -Bu Urqub
+		 -Dar Alush
+		 -Dar Shaban
 		 -Hammam-al-Aghzaz
 		 -Manzil Bu Zalafah
 		 -Manzil Hurr
@@ -43942,9 +43942,9 @@ Tunisia
 		 -Zawiyat-al-Jadidi
 		 -al-Hammamat
 		 -al-Huwariyah
-		 -al-Ma'murah
+		 -al-Mamurah
 		 -al-Middah
-		 -as-Sama'ah
+		 -as-Samaah
 	 -Qabis
 		 -Ghannush
 		 -Marath
@@ -43958,7 +43958,7 @@ Tunisia
 		 -az-Zarat
 	 -Qafsah
 		 -Qafsah
-		 -Umm-al-'Arais
+		 -Umm-al-Arais
 		 -al-Madilah
 		 -al-Mitlawi
 		 -al-Qasr
@@ -43970,10 +43970,10 @@ Tunisia
 		 -Jamnah
 		 -Qibili
 		 -Suq-al-Ahad
-		 -al-Qal'ah
+		 -al-Qalah
 	 -Safaqis
-		 -'Aqarib
-		 -Bi'r Ali Bin Khalifah
+		 -Aqarib
+		 -Bir Ali Bin Khalifah
 		 -Jabinyanah
 		 -Manzil Shakir
 		 -Qarmadah
@@ -43983,7 +43983,7 @@ Tunisia
 		 -Saqiyat-az-Zayt
 		 -Sfax
 		 -Tinah
-		 -al-'Ayn
+		 -al-Ayn
 		 -al-Hanashah
 		 -al-Mahras
 		 -as-Sukhayrah
@@ -43993,13 +43993,13 @@ Tunisia
 	 -Sidi Bu Zayd
 	 -Silyanah
 		 -Barqu
-		 -Bu 'Aradah
+		 -Bu Aradah
 		 -Bu Ruwis
 		 -Kasra
 		 -Makthar
-		 -Qa'afur
+		 -Qaafur
 		 -Silyanah
-		 -al-'Arusah
+		 -al-Arusah
 		 -al-Karib
 		 -ar-Rawhiyah
 	 -Susah
@@ -44009,17 +44009,17 @@ Tunisia
 		 -Harqalah
 		 -Masakin
 		 -Qusaybat-ath-Thurayat
-		 -Sidi Bu 'Ali
+		 -Sidi Bu Ali
 		 -Sidi al-Hani
 		 -Susah
 		 -Zawiyat Susah
-		 -al-Masa'din
-		 -al-Qal'at-al-Kabirah
-		 -al-Qal'at-as-Saghirah
+		 -al-Masadin
+		 -al-Qalat-al-Kabirah
+		 -al-Qalat-as-Saghirah
 		 -an-Nafidah
 		 -az-Zuhur
 	 -Tatawin
-		 -Bi'r-al-Ahmar
+		 -Bir-al-Ahmar
 		 -Dhahibah
 		 -Ghumrassin
 		 -Rimadah
@@ -44037,11 +44037,11 @@ Tunisia
 		 -Halq-al-Wadi
 		 -Megrine
 		 -Qartaj
-		 -Sidi Bu Sa'id
+		 -Sidi Bu Said
 		 -Tunis
 		 -al-Marsa
 	 -Zaghwan
-		 -Bi'r Mashariqah
+		 -Bir Mashariqah
 		 -Jabal-al-Wust
 		 -Zaghwan
 		 -al-Fahs
@@ -44050,13 +44050,13 @@ Tunisia
 	 -al-Kaf
 		 -Manzil Salim
 		 -Nibbar
-		 -Qal'at-as-Sanan
+		 -Qalat-as-Sanan
 		 -Saqiyat Sidi Yussuf
 		 -Tajarwin
 		 -ad-Dahmani
 		 -al-Jarissah
 		 -al-Kaf
-		 -al-Qal'at-al-Khasba'
+		 -al-Qalat-al-Khasba
 		 -al-Qusur
 		 -as-Sars
 		 -at-Tawiraf
@@ -44069,16 +44069,16 @@ Tunisia
 		 -Qusur-as-Saf
 		 -Rajish
 		 -Shurban
-		 -Sidi 'Ulwan
-		 -al-Baradi'ah
+		 -Sidi Ulwan
+		 -al-Baradiah
 		 -al-Jamm
 		 -al-Mahdiyah
 		 -as-Sawasi
 		 -ash-Shabbah
 	 -al-Munastir
-		 -'Amirat-al-Fahul
-		 -'Amirat-al-Hajjaj
-		 -'Amirat-at-Tawazarah
+		 -Amirat-al-Fahul
+		 -Amirat-al-Hajjaj
+		 -Amirat-at-Tawazarah
 		 -Banan Budar
 		 -Banblat wal-Manarah
 		 -Bani Hassan
@@ -44093,9 +44093,9 @@ Tunisia
 		 -Manzil Nur
 		 -Qasr Hallal
 		 -Qusaybat-al-Madyuni
-		 -Sahilin Ma'atmar
+		 -Sahilin Maatmar
 		 -Sayyadah
-		 -Sidi 'Amara
+		 -Sidi Amara
 		 -Sidi Bin Nur
 		 -Tabulbah
 		 -Tuzah
@@ -44112,20 +44112,20 @@ Tunisia
 		 -Fussanah
 		 -Haydrah
 		 -Jadliyan
-		 -Majal Bal 'Abbas
+		 -Majal Bal Abbas
 		 -Sabibah
 		 -Subaytilah
 		 -Talabat
 		 -Talah
 		 -al-Qasrayn
 	 -al-Qayrawan
-		 -'Ayn Jalulah
+		 -Ayn Jalulah
 		 -Buhajlah
 		 -Haffuz
-		 -Hajib-al-'Ayun
+		 -Hajib-al-Ayun
 		 -Manzil Mahidi
 		 -Nasr Allah
-		 -al-'Ala
+		 -al-Ala
 		 -al-Qayrawan
 		 -al-Waslatiyah
 		 -as-Subaykhah
@@ -44594,11 +44594,11 @@ Turkey
 		 -Eminonu
 		 -Esenler
 		 -Istanbul
-		 -KadÃ„Â±koy
+		 -Kadkoy
 		 -Sile
 		 -Silivri
 		 -Sultanbeyli
-		 -TopkapÃ„Â±
+		 -Topkap
 		 -Tuzla
 		 -Umraniye
 	 -Izmir
@@ -44729,9 +44729,9 @@ Turkey
 		 -Kirsehir
 		 -Mucur
 	 -Kocaeli
-		 -CayÃ„Â±rova
+		 -Cayrova
 		 -Derince
-		 -DilovasÃ„Â±
+		 -Dilovas
 		 -Gebze
 		 -Golcuk
 		 -Izmit
@@ -45258,15 +45258,15 @@ Uganda
 		 -Ntungamo
 		 -Rukungiri
 Ukraine
-	 -Cherkas'ka
+	 -Cherkaska
 		 -Cherkasy
 		 -Smila
-		 -Uman'
-	 -Chernihivs'ka
+		 -Uman
+	 -Chernihivska
 		 -Chernihiv
 		 -Nizhyn
 		 -Pryluky
-	 -Chernivets'ka
+	 -Chernivetska
 		 -Chernivtsi
 	 -Crimea
 		 -Alushta
@@ -45275,33 +45275,33 @@ Ukraine
 		 -Dneprodzerzhinsk
 		 -Dnipropetrovsk
 		 -Kryvyy Rih
-		 -Marhanets'
-		 -Nikopol'
-		 -Novomoskovs'k
+		 -Marhanets
+		 -Nikopol
+		 -Novomoskovsk
 		 -Pavlohrad
 		 -Plekhanov
 		 -Zhovti Vody
-	 -Donets'ka
-		 -Artemivs'k
-		 -Donets'k
+	 -Donetska
+		 -Artemivsk
+		 -Donetsk
 		 -Donetsk
 		 -Druzhkivka
 		 -Dymytrov
-		 -Dzerzhyns'k
+		 -Dzerzhynsk
 		 -Horlivka
-		 -Khartsyz'k
+		 -Khartsyzk
 		 -Kostyantynivka
-		 -Kramators'k
-		 -Krasnoarmiys'k
+		 -Kramatorsk
+		 -Krasnoarmiysk
 		 -Makiyivka
-		 -Mariupol'
-		 -Shakhtars'k
-		 -Slov'yans'k
+		 -Mariupol
+		 -Shakhtarsk
+		 -Slovyansk
 		 -Snizhne
 		 -Torez
 		 -Yenakiyeve
-	 -Ivano-Frankivs'ka
-		 -Ivano-Frankivs'k
+	 -Ivano-Frankivska
+		 -Ivano-Frankivsk
 		 -Kalush
 		 -Kolomyya
 	 -Kharkiv
@@ -45313,10 +45313,10 @@ Ukraine
 	 -Khersonska
 		 -Kherson
 		 -Nova Kakhovka
-	 -Khmel'nyts'ka
+	 -Khmelnytska
 		 -Geologov
-		 -Kam'yanets'-Podil's'kyy
-		 -Khmel'nyts'kyy
+		 -Kamyanets-Podilskyy
+		 -Khmelnytskyy
 		 -Shepetivka
 		 -khmelnitskiy
 	 -Kirovohrad
@@ -45327,83 +45327,83 @@ Ukraine
 		 -Dzhankoy
 		 -Feodosiya
 		 -Kerch
-		 -Simferopol'
+		 -Simferopol
 		 -Yalta
 		 -Yevpatoriya
 	 -Kyyiv
 		 -Kiev
 		 -Kyyiv
-	 -Kyyivs'ka
+	 -Kyyivska
 		 -Bila Tserkva
-		 -Boryspil'
+		 -Boryspil
 		 -Brovary
 		 -Fastiv
-	 -L'vivs'ka
+	 -Lvivska
 		 -Chervonohrad
 		 -Drohobych
-		 -L'viv
+		 -Lviv
 		 -Stryy
 		 -Yavoriv
-	 -Luhans'ka
-		 -Alchevs'k
+	 -Luhanska
+		 -Alchevsk
 		 -Antratsyt
 		 -Bryanka
 		 -Krasnodon
 		 -Krasnyy Luch
-		 -Luhans'k
 		 -Luhansk
-		 -Lysychans'k
-		 -Pervomays'k
-		 -Roven'ky
+		 -Luhansk
+		 -Lysychansk
+		 -Pervomaysk
+		 -Rovenky
 		 -Rubizhne
 		 -Stakhanov
-		 -Sverdlovs'k
-		 -Syeverodonets'k
-	 -Mykolayivs'ka
+		 -Sverdlovsk
+		 -Syeverodonetsk
+	 -Mykolayivska
 		 -Mykolayiv
-		 -Pervomays'k
-	 -Odes'ka
-		 -Bilhorod-Dnistrovs'kyy
-		 -Illichivs'k
+		 -Pervomaysk
+	 -Odeska
+		 -Bilhorod-Dnistrovskyy
+		 -Illichivsk
 		 -Izmayil
 		 -Odesa
 	 -Odessa
 		 -Odessa
-	 -Poltavs'ka
-		 -Komsomol's'k
+	 -Poltavska
+		 -Komsomolsk
 		 -Kremenchuh
 		 -Lubny
 		 -Poltava
-	 -Rivnens'ka
+	 -Rivnenska
 		 -Rivne
-	 -Sevastopol'
-	 -Sums'ka
+	 -Sevastopol
+	 -Sumska
 		 -Konotop
 		 -Okhtyrka
 		 -Romny
 		 -Shostka
 		 -Sumy
-	 -Ternopil's'ka
-		 -Ternopil'
-	 -Volyns'ka
-		 -Kovel'
-		 -Luts'k
-		 -Novovolyns'k
-	 -Vynnyts'ka
+	 -Ternopilska
+		 -Ternopil
+	 -Volynska
+		 -Kovel
+		 -Lutsk
+		 -Novovolynsk
+	 -Vynnytska
 		 -Vinnitsa
 		 -Vinnytsya
-	 -Zakarpats'ka
+	 -Zakarpatska
 		 -Mukacheve
 		 -Uzhhorod
 	 -Zaporizhia
-		 -Berdyans'k
+		 -Berdyansk
 		 -Enerhodar
-		 -Melitpol'
+		 -Melitpol
 		 -Zaporizhia
-	 -Zhytomyrs'ka
+	 -Zhytomyrska
 		 -Berdychiv
-		 -Korosten'
-		 -Novohrad-Volyns'kyy
+		 -Korosten
+		 -Novohrad-Volynskyy
 		 -Zhytomyr
 United Arab Emirates
 	 -Abu Zabi
@@ -45681,7 +45681,7 @@ United Kingdom
 		 -Birkenhead
 		 -Birmingham
 		 -Bishop Auckland
-		 -Bishop's Stortford
+		 -Bishops Stortford
 		 -Blackburn
 		 -Blackpool
 		 -Bletchley
@@ -45860,7 +45860,7 @@ United Kingdom
 		 -Kettering
 		 -Kidderminster
 		 -Kidsgrove
-		 -King's Lynn
+		 -Kings Lynn
 		 -Kingsteignton
 		 -Kingston upon Hull
 		 -Kingswood
@@ -45891,7 +45891,7 @@ United Kingdom
 		 -Lowestoft
 		 -Luton
 		 -Lyminge
-		 -Lytham Saint Anne's
+		 -Lytham Saint Annes
 		 -Mablethorpe and Sutton
 		 -Macclesfield
 		 -Maghull-Lydiate
@@ -47900,7 +47900,7 @@ United States
 		 -Lakeland
 		 -Lakeland Highlands
 		 -Lakeside
-		 -Land O'Lakes
+		 -Land OLakes
 		 -Largo
 		 -Lauderdale Lakes
 		 -Lauderhill
@@ -48046,7 +48046,7 @@ United States
 		 -The Crossings
 		 -The Hammocks
 		 -Titusville
-		 -Town'n'Country
+		 -TownnCountry
 		 -University
 		 -University Park
 		 -Valrico
@@ -48267,7 +48267,7 @@ United States
 		 -Boulder Hill
 		 -Burley
 		 -Caldwell
-		 -Coeur d'Alene
+		 -Coeur dAlene
 		 -Eagle
 		 -Garden City
 		 -Idaho Falls
@@ -48470,7 +48470,7 @@ United States
 		 -Northbrook
 		 -Northfield
 		 -Northlake
-		 -O'Fallon
+		 -OFallon
 		 -Oak Forest
 		 -Oak Lawn
 		 -Oak Park
@@ -49654,7 +49654,7 @@ United States
 		 -Moberly
 		 -Murphy
 		 -Nixa
-		 -O'Fallon
+		 -OFallon
 		 -Oakville
 		 -Overland
 		 -Pacific
@@ -51554,7 +51554,7 @@ United States
 		 -Ashburn
 		 -Ashland
 		 -Aylett
-		 -Bailey's Crossroads
+		 -Baileys Crossroads
 		 -Blacksburg
 		 -Bland
 		 -Bluefield
@@ -52415,7 +52415,7 @@ Virgin Islands (US)
 Wallis And Futuna Islands
 	 -Alo
 		 -Kolia
-		 -Mala'e
+		 -Malae
 		 -Ono
 		 -Poi
 		 -Tamana
@@ -52441,9 +52441,9 @@ Wallis And Futuna Islands
 		 -Kolopopo
 		 -Lavegahau
 		 -Liku
-		 -Mala'e
+		 -Malae
 		 -Malaefoou
-		 -Mata'Utu
+		 -MataUtu
 		 -Teesi
 		 -Tepa
 		 -Utuofa
@@ -52454,22 +52454,22 @@ Western Sahara
 	 -Bu Jaydur
 	 -Wad-adh-Dhahab
 		 -ad-Dakhlah
-	 -al-'Ayun
-		 -al-'Ayun
+	 -al-Ayun
+		 -al-Ayun
 	 -as-Samarah
 		 -as-Samarah
 Yemen
-	 -'Adan
-		 -'Adan
+	 -Adan
+		 -Adan
 		 -Aden
 	 -Abyan
 		 -Ahwar
-		 -Ja'ar
+		 -Jaar
 		 -Zinjibar
 	 -Dhamar
 		 -Dhamar
 	 -Hadramaut
-		 -Shaqra'
+		 -Shaqra
 		 -al-Mukalla
 		 -ash-Shahir
 	 -Hajjah
@@ -52480,26 +52480,26 @@ Yemen
 		 -Dhi Sufal
 		 -Ibb
 		 -Jiblah
-		 -Qa'tabah
+		 -Qatabah
 		 -Yarim
 	 -Lahij
 		 -Tuban
-	 -Ma'rib
-		 -Ma'rib
-	 -Madinat San'a
-	 -Sa'dah
-		 -Sa'dah
+	 -Marib
+		 -Marib
+	 -Madinat Sana
+	 -Sadah
+		 -Sadah
 	 -Sana
-		 -'Amran
+		 -Amran
 		 -Sahar
 		 -Sanaa
 		 -Sayyan
 	 -Shabwah
-		 -'Ataq
+		 -Ataq
 		 -Habban
 		 -Taiz
-	 -Ta'izz
-		 -Ta'izz
+	 -Taizz
+		 -Taizz
 		 -al-Mukha
 	 -al-Bayda
 		 -Raydah
@@ -52509,7 +52509,7 @@ Yemen
 		 -Bayt-al-Faqih
 		 -Zabid
 		 -al-Hudaydah
-		 -al-Marawi'ah
+		 -al-Marawiah
 		 -az-Zaydiyah
 	 -al-Jawf
 		 -al-Hazm

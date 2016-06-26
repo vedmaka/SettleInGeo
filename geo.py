@@ -1,10 +1,17 @@
+# -*- coding: utf-8 -*-
+
 #import pycountry
 #import xml.etree.ElementTree
 import unicodedata
 import pymysql.cursors
+import re
+
+import mwclient
 
 def pp( str ):
-    return unicodedata.normalize( 'NFC', str ).encode('ascii', 'ignore').decode('utf-8')
+    str = unicodedata.normalize( 'NFC', str ).encode('ascii', 'ignore').decode('utf-8')
+    str = re.sub("[']", "", str)
+    return str
 
 connection = pymysql.connect(host='localhost',
                              user='vedmaka',
@@ -12,6 +19,13 @@ connection = pymysql.connect(host='localhost',
                              db='c9',
                              charset='utf8mb4',
                              cursorclass=pymysql.cursors.DictCursor)
+                             
+site = mwclient.Site( ('http', 'settlein.org') , '/')
+site.login('admin','q1w2e3r4')
+
+countryValues = []
+stateValues = []
+cityValues = []
 
 try:
     with connection.cursor() as cursor:
@@ -20,21 +34,27 @@ try:
         cursor.execute(sql)
         result = cursor.fetchone()
         while result is not None:
-            print(result['name'])
+            # Country: ---------------------------------------------------------
+            print(pp(result['name']))
+            countryValues.append( pp(result['name']) )
             # Fetch states
             with connection.cursor() as cursor2:
                 sql = "SELECT * FROM `states` WHERE country_id = " + str(result['id'])
                 cursor2.execute(sql)
                 result2 = cursor2.fetchone()
                 while result2 is not None:
-                    print("\t -" + result2['name'])
+                    # State: ---------------------------------------------------
+                    print("\t -" + pp(result2['name']))
+                    stateValues.append( pp(result2['name']) )
                     # Fetch citites
                     with connection.cursor() as cursor3:
                         sql = "SELECT * FROM `cities` WHERE state_id = " + str(result2['id'])
                         cursor3.execute(sql)
                         result3 = cursor3.fetchone()
                         while result3 is not None:
-                            print("\t\t -" + result3['name'])
+                            # City: --------------------------------------------
+                            print("\t\t -" + pp(result3['name']))
+                            cityValues.append( pp(result3['name']) )
                             result3 = cursor3.fetchone()
                     result2 = cursor2.fetchone()
             result = cursor.fetchone()
@@ -42,37 +62,26 @@ try:
 finally:
     connection.close()
 
-'''
-for country in pycountry.countries:
-    print( pp(country.name) + " (" + country.alpha2 + ")")
-    subs = None
-    try:
-        subs = pycountry.subdivisions.get(country_code=country.alpha2)
-    except:
-        subs = None
-    if subs is not None:
-        for subdiv in subs:
-            print("\t- " + pp(subdiv.name) + " | " + subdiv.type)
-            pr = None
-            try:
-                pr = subdiv.parent
-            except:
-                pr = None
-            if pr is not None:
-                print("\t\t- parent: " + pp(pr.name) + " | " + pr.type)
-'''
+# Countries
+countryText = "[[has type::Text]]\n"
+for country in countryValues:
+    countryText = countryText + "\n* [[Allows value::" + country + "]]"
 
-'''
-e = xml.etree.ElementTree.parse('geonames.xml').getroot()
-start = e.find('Children')
-for item in start:
-    print(pp(item.find('Name').text))
-    sub = item.find('Children')
-    if sub is not None:
-        for subItem in sub:
-            print("\t -" + pp(subItem.find('Name').text))
-            states = subItem.find('Children')
-            if states is not None:
-                for state in states:
-                    print("\t\t -" + pp(state.find('Name').text))
-'''
+p = site.Pages['Property:Country']
+p.save( countryText, summary = 'Geo script' )
+
+# States
+stateText = "[[has type::Text]]\n"
+for state in stateValues:
+    stateText = stateText + "\n* [[Allows value::" + state + "]]"
+
+p = site.Pages['Property:State']
+p.save( stateText, summary = 'Geo script' )
+
+# Cities
+cityText = "[[has type::Text]]\n"
+for city in cityValues:
+    cityText = cityText + "\n* [[Allows value::" + city + "]]"
+
+p = site.Pages['Property:City']
+p.save( cityText, summary = 'Geo script' )
